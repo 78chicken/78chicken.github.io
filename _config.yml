@@ -210,7 +210,7 @@ exclude:
   - rollup.config.js
   - "package*.json"
   - /tags/
-  - assets/img/favicons/
+  - /assets/img/favicons/
 
 jekyll-archives:
   enabled: [categories, tags]
