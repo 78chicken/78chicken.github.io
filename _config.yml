@@ -209,6 +209,8 @@ exclude:
   - purgecss.js
   - rollup.config.js
   - "package*.json"
+  - /tags/
+  - assets/img/favicons/
 
 jekyll-archives:
   enabled: [categories, tags]
