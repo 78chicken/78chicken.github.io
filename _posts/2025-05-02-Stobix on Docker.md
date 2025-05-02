@@ -1,10 +1,12 @@
-# Stobix on Docker
-
+---
+title: "Stobix on Docker"
+date: 2025-05-02
+categories: [bot]
+tags: [Docker, 網路賺錢, 掛機,虛擬貨幣,airdrop,空投]
+---
 ![Stobix 封面圖](/assets/images/stobix/banner.png)
 
 Stobix 是一個專注於隱私的加密貨幣投資平台，結合人工智慧（AI）與雙重投資（Dual Investment）策略，提供高達年化 **400%** 的收益率，**無需 KYC 或 Gas 費**，支援超過 70 種熱門加密貨幣。
-
----
 
 ## 🌟 核心特色
 
@@ -42,28 +44,26 @@ Stobix 是一個專注於隱私的加密貨幣投資平台，結合人工智慧�
 
 ---
 
-## 🔗 官方連結
+## 🔗 連結
 
 - 🌐 官網：[https://stobix.com](https://stobix.com)
 - 🐳 Docker Hub：[78chicken/stobix](https://hub.docker.com/r/78chicken/stobix)
-
 > **功能：** 自動點擊挖礦 & 自動完成任務
 
 ---
 
 ## ⚠️ 注意事項
 
-> ❗ **非官方開發版本**，請謹慎使用：
+> ❗ **非官方開發版本**，請謹慎使用, 使用前請自行評估風險：
 > - 有被封號或資安風險
 > - 此程式非由機掰雞撰寫，僅轉製為 Docker 版本
-> - 使用前請自行評估風險
 
 ---
 
 ## 📁 運行前準備
 
-請建立 `accounts.txt` 檔案，並將你的 **錢包私鑰** 放入（例如 MetaMask）  
-範例路徑：
+請建立 `accounts.txt` 檔案，裡面放置你的wallet private key.
+Private Key取得方式(以MetaMask為例):  
 
 <div style="text-align: left">
   <img src="/assets/images/stobix/img_1.png" width="400" style="display: block; margin-bottom: 16px;" />
@@ -76,10 +76,13 @@ Stobix 是一個專注於隱私的加密貨幣投資平台，結合人工智慧�
 
 ---
 
-## 🚀 Docker 執行指令
+## 🐳 Docker 執行指令
 
 請根據你的實際檔案路徑替換 `/opt/stobix/accounts.txt`：
 ```bash
 #/opt/stobix/accounts.txt請改成你自己的路徑
-docker run -d --restart always --replace -m 50M --name Stobix -v /opt/stobix/accounts.txt:/app/accounts.txt docker.io/78chicken/stobix
+docker run -d --restart always --replace -m 50M \
+--name Stobix \
+-v /opt/stobix/accounts.txt:/app/accounts.txt \
+docker.io/78chicken/stobix
 ```

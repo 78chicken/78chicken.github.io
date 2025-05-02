@@ -4,5 +4,20 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+
+👨‍💻 **機掰雞，一名全職碼農**  
+薪水不高不低，買不起房但也餓不死，就這樣在職場上苦撐著 💸  
+每天上班累得半死，也沒空盯股票，更不想每天提心吊膽工作到老 🥲
+
+所以開始研究怎麼「躺著賺」，目前是跟著魯蛇大大走網賺路線  
+但我多加一點自己的專業，用 **Docker** 打造屬於自己的被動收入系統 💡  
+算是用工程師的方式走一條不太一樣的副業路
+
+---
+
+如果你也想靠網路賺錢、打造自己的自動化收入管道  
+歡迎一起來 **交流、取暖、分享踩雷經驗** 🤣
+
+
+
+
