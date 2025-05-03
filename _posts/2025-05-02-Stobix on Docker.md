@@ -4,7 +4,8 @@ date: 2025-05-02
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機,虛擬貨幣,airdrop,空投]
 ---
-![Stobix 封面圖]({{ baseurl }}/assets/images/stobix/banner.png)
+<!--![Stobix 封面圖]({{ baseurl }}/assets/images/stobix/banner.png)-->
+<img src="{{ baseurl }}/assets/images/stobix/banner.png" alt="頭像">
 
 Stobix 是一個專注於隱私的加密貨幣投資平台，結合人工智慧（AI）與雙重投資（Dual Investment）策略，提供高達年化 **400%** 的收益率，**無需 KYC 或 Gas 費**，支援超過 70 種熱門加密貨幣。
 
