@@ -2,7 +2,6 @@
 title: "Stobix on Docker"
 date: 2025-05-02
 categories: [bot]
-tags: [Docker, 網路賺錢, 掛機,虛擬貨幣,airdrop,空投]
 ---
 ![Stobix 封面圖]({{ baseurl }}/assets/images/stobix/banner.png)
 
