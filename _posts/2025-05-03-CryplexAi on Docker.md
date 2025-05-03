@@ -2,8 +2,9 @@
 title: "CryplexAi on Docker"
 date: 2025-05-02
 categories: [bot]
+tags: [Docker, 網路賺錢, 掛機,depin,虛擬貨幣,airdrop,空投]
 ---
-![CryplexAi 封面圖]({{ baseurl }}/assets/images/cryplexai/banner.png)
+![CryplexAi 封面圖](/assets/images/cryplexai/banner.png)
 
 Cryplex 是一個去中心化儲存與 AI 訓練資料供應平台，讓用戶可將閒置的儲存空間轉化為數位資產。
 
@@ -52,8 +53,9 @@ Cryplex 是一個去中心化儲存與 AI 訓練資料供應平台，讓用戶�
 >   1. 登入 Dashboard 頁面
 >   2. 按下 `F12` 進入開發者工具
 >   3. 擷取並儲存 `tokens.txt`
-
-![CryplexAi 封面圖]({{ baseurl }}/assets/images/cryplexai/img.png)
+<div style="text-align: left">
+  <img src="{{ baseurl }}/assets/images/cryplexai/img.png" width="600" style="display: block; margin-bottom: 16px;" /> 
+</div>
 
 ## 🐳 Docker 執行方式
 
