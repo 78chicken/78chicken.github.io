@@ -4,7 +4,7 @@ date: 2025-05-02
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機,depin,虛擬貨幣,airdrop,空投]
 ---
-![CryplexAi 封面圖]({{baseurl}}/assets/images/cryplexai/banner.png)
+![CryplexAi 封面圖]({{ baseurl }}/assets/images/cryplexai/banner.png)
 
 Cryplex 是一個去中心化儲存與 AI 訓練資料供應平台，讓用戶可將閒置的儲存空間轉化為數位資產。
 
