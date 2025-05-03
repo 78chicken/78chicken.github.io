@@ -6,7 +6,6 @@ tags: [Docker, 網路賺錢, 掛機,虛擬貨幣,airdrop,空投]
 ---
 ![Stobix 封面圖]({{ baseurl }}/assets/images/stobix/banner.png)
 
-
 Stobix 是一個專注於隱私的加密貨幣投資平台，結合人工智慧（AI）與雙重投資（Dual Investment）策略，提供高達年化 **400%** 的收益率，**無需 KYC 或 Gas 費**，支援超過 70 種熱門加密貨幣。
 
 ## 🌟 核心特色
@@ -66,14 +65,10 @@ Stobix 是一個專注於隱私的加密貨幣投資平台，結合人工智慧�
 請建立 `accounts.txt` 檔案，裡面放置你的wallet private key.
 Private Key取得方式(以MetaMask為例):  
 
-<div style="text-align: left">
-  <img src="{{ baseurl }}/assets/images/stobix/img_1.png" width="400" style="display: block; margin-bottom: 16px;" />
-  <img src="{{ baseurl }}/assets/images/stobix/img_2.png" width="400" style="display: block; margin-bottom: 16px;" />
-  <img src="{{ baseurl }}/assets/images/stobix/img_3.png" width="400" style="display: block; margin-bottom: 16px;" />
-  <img src="{{ baseurl }}/assets/images/stobix/img_4.png" width="400" style="display: block;" />
-</div>
-
-
+![Stobix 封面圖]({{ baseurl }}/assets/images/stobix/img_1.png)
+![Stobix 封面圖]({{ baseurl }}/assets/images/stobix/img_2.png)
+![Stobix 封面圖]({{ baseurl }}/assets/images/stobix/img_3.png)
+![Stobix 封面圖]({{ baseurl }}/assets/images/stobix/img_4.png)
 
 ---
 
