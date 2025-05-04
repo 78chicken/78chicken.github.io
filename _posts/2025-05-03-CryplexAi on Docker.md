@@ -54,7 +54,7 @@ Cryplex 是一個去中心化儲存與 AI 訓練資料供應平台，讓用戶�
 >   2. 按下 `F12` 進入開發者工具
 >   3. 擷取並儲存 `tokens.txt`
 <div style="text-align: left">
-  <img src="{{ baseurl }}/assets/images/cryplexai/img.png" width="600" style="display: block; margin-bottom: 16px;" /> 
+  <img src="{{ baseurl }}/assets/images/cryplexai/img.png" width="600" style="display: block; margin-bottom: 16px;" alt="123"/> 
 </div>
 
 ## 🐳 Docker 執行方式
