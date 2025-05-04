@@ -2,7 +2,7 @@
 title: "CryplexAi on Docker"
 date: 2025-05-02
 categories: [bot]
-tags: [Docker, 網路賺錢, 掛機,depin,虛擬貨幣,airdrop,空投]
+tags: [Docker, 網路賺錢, 掛機, depin, 虛擬貨幣, airdrop, 空投]
 ---
 ![CryplexAi 封面圖](/assets/images/cryplexai/banner.png)
 

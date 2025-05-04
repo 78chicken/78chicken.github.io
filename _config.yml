@@ -14,9 +14,9 @@ timezone: Asia/Taipei
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 機掰雞の<br/>外快人生 # the main title
+title: 機掰雞の外快人生 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: 掛機 × 自動賺錢 × 副業筆記 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -35,7 +35,8 @@ social:
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: 機掰雞
   email: jyhfengli@gmail.com # change to your email address
-  links: []
+  links:
+    - https://twitter.com/username
 
 
 # Site Verification Settings
@@ -209,8 +210,7 @@ exclude:
   - purgecss.js
   - rollup.config.js
   - "package*.json"
-  - /tags/
-  - /assets/img/favicons/
+
 
 jekyll-archives:
   enabled: [categories, tags]
@@ -220,3 +220,15 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+copyright:
+  # Shown at the bottom of the post
+  license:
+    template: 本文章以 :LICENSE_NAME 授權
+    name: CC BY 4.0 9999
+    link: https://creativecommons.org/licenses/by/4.0/
+
+  # Displayed in the footer
+  brief: 保留部份權利。
+  verbose: >-
+    除非另有說明，否則本網誌的文章均由作者按照姓名標示 4.0 國際 (CC BY 4.0) 授權條款進行授權。
