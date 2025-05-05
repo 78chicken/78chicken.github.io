@@ -2,7 +2,11 @@
 title: "Earnapp on Docker"
 date: 2024-12-10
 categories: [bot]
-tags: [Docker, 網路賺錢, 掛機, Paypal, 美金]
+tags: [Docker, 網路賺錢, 掛機, Paypal, 被動收入, 頻寬分享]
+description: "利用 Docker 掛機部署 EarnApp，分享閒置頻寬即可賺取美金，支援 Paypal 出金，輕鬆打造被動收入來源。"
+image: /assets/images/earnapp/banner.png
+author: 機掰雞
+lang: zh-TW
 ---
 
 ![EarnApp 封面圖](/assets/images/earnapp/banner.png)

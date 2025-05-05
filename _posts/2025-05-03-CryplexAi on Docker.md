@@ -2,7 +2,11 @@
 title: "CryplexAi on Docker"
 date: 2025-05-02
 categories: [bot]
-tags: [Docker, 網路賺錢, 掛機, depin, 虛擬貨幣, airdrop, 空投]
+tags: [Docker, 網路賺錢, 掛機, depin, 虛擬貨幣, airdrop, 空投, 被動收入]
+description: "使用 Docker 掛機方式部署 CryplexAi，享受 Depin 類型專案帶來的自動化收益與空投獎勵，無需 KYC 或高效能機器即可參與。"
+image: /assets/images/cryplexai/banner.png
+author: 機掰雞
+lang: zh-TW
 ---
 ![CryplexAi 封面圖](/assets/images/cryplexai/banner.png)
 

@@ -2,7 +2,11 @@
 title: "Stobix on Docker"
 date: 2025-05-02
 categories: [bot]
-tags: [Docker, 網路賺錢, 掛機, 虛擬貨幣, airdrop, 空投]
+tags: [Docker, 網路賺錢, 掛機, 虛擬貨幣, airdrop, 空投, 被動收入]
+description: "使用 Docker 部署 Stobix 自動化任務，獲取高年化收益與空投獎勵，支援超過 70 種加密貨幣，無需 KYC。"
+image: /assets/images/stobix/banner.png
+author: 機掰雞
+lang: zh-TW
 ---
 ![Stobix 封面圖](/assets/images/stobix/banner.png)
 
