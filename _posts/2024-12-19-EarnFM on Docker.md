@@ -5,7 +5,7 @@ categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入]
 description: "使用 Docker 部署 Earn.fm，分享閒置網路頻寬賺取被動收入，支援多平台運行，註冊即享推薦獎勵。"
 image: /assets/images/earnfm/banner.png
-author: 機掰雞
+written_by: 機掰雞
 lang: zh-TW
 ---
 

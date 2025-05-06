@@ -5,7 +5,7 @@ categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 虛擬貨幣, 空投, 被動收入]
 description: "使用 Docker 掛機 Titan Network，利用閒置網路頻寬參與去中心化 CDN 並獲得獎勵。"
 image: /assets/images/titan/banner.png
-author: 機掰雞
+written_by: 機掰雞
 lang: zh-TW
 ---
 

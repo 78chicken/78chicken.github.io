@@ -5,7 +5,7 @@ categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, Paypal, 被動收入, 頻寬分享]
 description: "利用 Docker 掛機部署 EarnApp，分享閒置頻寬即可賺取美金，支援 Paypal 出金，輕鬆打造被動收入來源。"
 image: /assets/images/earnapp/banner.png
-author: 機掰雞
+written_by: 機掰雞
 lang: zh-TW
 ---
 

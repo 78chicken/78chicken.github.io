@@ -5,7 +5,7 @@ categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, ProxyRack]
 description: "使用 Docker 掛載 ProxyRack 分享頻寬賺取收益，支援無頭裝置，詳細教學含註冊與部署指令。"
 image: /assets/images/proxyrack/banner.png
-author: 機掰雞
+written_by: 機掰雞
 lang: zh-TW
 ---
 

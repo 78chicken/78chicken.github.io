@@ -5,7 +5,7 @@ categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣]
 description: "使用 Docker 掛機 OpenLoop，將裝置閒置資源轉換為獎勵，輕鬆實現被動收入。"
 image: /assets/images/openloop/banner.png
-author: 機掰雞
+written_by: 機掰雞
 lang: zh-TW
 ---
 

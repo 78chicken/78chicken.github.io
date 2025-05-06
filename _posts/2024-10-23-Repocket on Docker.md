@@ -5,7 +5,7 @@ categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, Paypal, USDT, 被動收入, 頻寬分享]
 description: "使用 Docker 掛機部署 Repocket，透過分享頻寬方式獲取被動收入，支援 Paypal 與 USDT 出金，是簡單易用的流量變現工具。"
 image: /assets/images/repocket/banner.png
-author: 機掰雞
+written_by: 機掰雞
 lang: zh-TW
 ---
 

@@ -5,7 +5,7 @@ categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, Paypal, 虛擬貨幣]
 description: "使用 Docker 部署 Honeygain，分享閒置頻寬賺取被動收入，註冊即享推薦獎勵，支援無頭裝置運行。"
 image: /assets/images/honeygain/banner.png
-author: 機掰雞
+written_by: 機掰雞
 lang: zh-TW
 ---
 

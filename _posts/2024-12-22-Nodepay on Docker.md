@@ -5,7 +5,7 @@ categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 虛擬貨幣, 空投, 被動收入]
 description: "使用 Docker 快速部署 NodePay 自動任務腳本，每週更新 token 即可掛機賺點數，支援自動完成平台任務。"
 image: /assets/images/nodepay/banner.png
-author: 機掰雞
+written_by: 機掰雞
 lang: zh-TW
 ---
 ![NodePay 封面圖](/assets/images/nodepay/banner.png)

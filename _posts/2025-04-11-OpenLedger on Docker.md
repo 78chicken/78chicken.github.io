@@ -5,7 +5,7 @@ categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 區塊鏈, AI, 被動收入]
 description: "使用 Docker 掛機參與 OpenLedger 去中心化 AI 平台，自動化挖礦、資料貢獻與模型微調，實現可驗證的 AI 收益模式。"
 image: /assets/images/openledger/banner.png
-author: 機掰雞
+written_by: 機掰雞
 lang: zh-TW
 ---
 

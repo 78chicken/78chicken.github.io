@@ -5,7 +5,7 @@ categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, depin, 被動收入, 頻寬共享]
 description: "使用 Docker 部署 Solix DePIN 頻寬共享平台，自動化賺取 SLIX 代幣，無痛掛機獲得被動收益。"
 image: /assets/images/solix/banner.png
-author: 機掰雞
+written_by: 機掰雞
 lang: zh-TW
 ---
 

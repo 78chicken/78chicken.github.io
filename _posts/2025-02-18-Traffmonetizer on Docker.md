@@ -5,7 +5,7 @@ date: 2024-10-23
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, USDT, 被動收入, 頻寬分享]
 image: /assets/images/traffmonetizer/banner.png
-author: 機掰雞
+written_by: 機掰雞
 lang: zh-TW
 ---
 
