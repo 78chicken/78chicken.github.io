@@ -11,23 +11,26 @@ lang: zh-TW
 
 ![Teneo 封面圖](/assets/images/teneo/banner.png)
 
-**Teneo** 是一個裝置資源共享平台，用戶可透過登入與掛機方式貢獻資源，換取 Teneo Point。支援 Docker 掛機模式，適合技術玩家低成本、長時間穩定運行。
+**Teneo** 是一個去中心化的社交媒體數據解鎖平台，旨在讓用戶透過運行瀏覽器端的 AI 節點（Community Node），貢獻計算資源以解鎖公開的社交媒體數據，並獲得回報。該平台強調用戶隱私，僅處理公開數據，並以去中心化的方式運作，讓數據回歸用戶所有。
 
 ---
 
 ## 🌟 核心特色
 
-### 🛡️ 匿名貢獻，保留主控權
-- Teneo 鼓勵用戶貢獻裝置資源，回饋獎勵。
-- 適用於低功耗掛機，且無需提供真實資料。
+### 🔐 去中心化數據解鎖
+- **Teneo Community Node**：用戶可在瀏覽器中運行 AI 節點，貢獻計算資源以解鎖公開的社交媒體數據。
+- **隱私保護**：僅處理公開數據，保障用戶隱私。
 
-### 💰 輕鬆掛機，穩定收益
-- 執行後幾乎無需人工干預。
-- 單主機也可部署，適合閒置設備再利用。
+### 💰 獎勳機制
+- **Teneo Points**：用戶透過運行節點、邀請他人、保持節點在線等方式獲得 Teneo Points。
+- **未來代幣化**：Teneo Points 將在未來的 Token Generation Event（TGE）中轉換為 Teneo Tokens。
 
-### 🐳 Docker 掛機版本
-- 機掰雞已將非官方原始碼加工封裝為 Docker 版本。
-- 僅需準備 `tokens.txt` 並掛載對應路徑，即可快速啟動。
+### 📊 用戶儀表板
+- **Teneo Dashboard**：提供用戶管理活動、追蹤獎勳、查看進度等功能。
+- **功能豐富**：包括連接錢包、查看推薦人數、獎勳歷史等。
+
+### 📈 社群與成長
+- **快速增長**：截至 2025 年 1 月，Teneo 的社群節點數量已超過 370 萬，覆蓋 191 國。
 
 ---
 
@@ -66,7 +69,7 @@ lang: zh-TW
 eyJhbGciOiJIUzI1NiJ9.eyJ...
 ```
 
-### 🔍 如何取得 Token？
+## 🔍 如何取得 Token？
 1. 使用 Chrome 瀏覽器登入 Teneo Dashboard
 2. 按下 F12 開啟開發者工具
 3. 前往 Application → Storage → Local Storage
@@ -75,7 +78,7 @@ eyJhbGciOiJIUzI1NiJ9.eyJ...
 
 ![Teneo token](/assets/images/teneo/img_1.png)
 
-### 📁 Docker 執行方式
+## 🐳 Docker 執行指令
 ```bash
 # -v /opt/teneo/tokens.txt 請改成你自己的檔案路徑
 docker run -d --restart always -m 50M \

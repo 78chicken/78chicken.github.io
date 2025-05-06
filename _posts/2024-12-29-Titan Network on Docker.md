@@ -64,7 +64,7 @@ lang: zh-TW
 
 ![Titan Identity](/assets/images/titan/img_1.png)
 
-3️⃣ **執行 Docker 指令**：  
+## 🐳 Docker 執行指令 
 請將 `你的路徑` 替換為欲儲存資料的本地目錄，例如 `/home/yourname/titan`。
 
 ```bash

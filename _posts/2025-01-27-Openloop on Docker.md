@@ -70,7 +70,7 @@ lang: zh-TW
 3. 複製Token，貼到 `tokens.txt` 中
 ![OpenLoop token](/assets/images/openloop/img_1.png)
 
-## 📁 Docker 執行方式
+## 🐳 Docker 執行指令
 ```bash
 #-v /opt/openloop/tokens.txt 請改成你自己的路徑 
 docker run -d --restart always -m 50M \
