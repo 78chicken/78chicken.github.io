@@ -1,7 +1,7 @@
 ---
 title: "Distribute.AI on Docker"
 date: 2025-02-08
-last_modified_at: 2025-05-07
+updated: 2025-05-07
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, AI, 去中心化]
 description: "透過 Docker 掛機 Distribute.AI（前稱 Oasis），只需提供帳號與 Token，即可參與去中心化 AI 計算資源網絡並獲得收益。"
