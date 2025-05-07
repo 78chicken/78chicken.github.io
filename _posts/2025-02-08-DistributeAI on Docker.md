@@ -48,7 +48,7 @@ lang: zh-TW
 
 ## 📝 註冊帳號
 
-👉 [立即註冊 Distribute.AI](https://r.distribute.ai/yamadali)
+👉 [立即註冊 Distribute.AI](https://r.distribute.ai/jyhfeng0209)
 
 🎉 使用此推薦連結，**機掰雞可獲得額外雞飼料**，**不影響你的收益**。
 
