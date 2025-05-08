@@ -5,12 +5,12 @@ updated: 2025-05-07
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, AI, 去中心化]
 description: "透過 Docker 掛機 Distribute.AI（前稱 Oasis），只需提供帳號與 Token，即可參與去中心化 AI 計算資源網絡並獲得收益。"
-image: /assets/images/distributeai/banner.png
+image: /assets/images/bot/distributeai/banner.png
 written_by: "機掰雞"
 lang: zh-TW
 ---
 
-![Distribute.AI 封面圖](/assets/images/distributeai/banner.png)
+![Distribute.AI 封面圖](/assets/images/bot/distributeai/banner.png)
 
 **Distribute.AI**（前稱 **Oasis**）是一個結合 AI 模型訓練與推論的去中心化運算平台，用戶可透過貢獻算力與網路資源參與節點運行，並以最小化配置自動掛機賺取收益。支援 Docker 快速部署，讓你低門檻參與 Web3 分散式 AI 網絡。
 
@@ -56,7 +56,7 @@ lang: zh-TW
 
 ## 🔗 連結
 
-- 🌐 官方網站：[https://www.distribute.ai/](https://www.distribute.ai/)
+- 🌐 官方網站：[Distribute.ai](https://www.distribute.ai/)
 - 🐳 Docker image：[78chicken/distributeai](https://hub.docker.com/r/78chicken/distributeai)
 
 ---

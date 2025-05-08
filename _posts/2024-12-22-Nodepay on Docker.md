@@ -4,11 +4,11 @@ date: 2024-12-22
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 虛擬貨幣, 空投, 被動收入]
 description: "使用 Docker 快速部署 NodePay 自動任務腳本，每週更新 token 即可掛機賺點數，支援自動完成平台任務。"
-image: /assets/images/nodepay/banner.png
+image: /assets/images/bot/nodepay/banner.png
 written_by: 機掰雞
 lang: zh-TW
 ---
-![NodePay 封面圖](/assets/images/nodepay/banner.png)
+![NodePay 封面圖](/assets/images/bot/nodepay/banner.png)
 
 Nodepay 提供了一個低門檻的方式，讓用戶可以在無需高性能設備的情況下，參與到區塊鏈生態中，並支持 AI 和數據密集型需求。
 
@@ -76,7 +76,7 @@ Nodepay 提供了一個低門檻的方式，讓用戶可以在無需高性能設
 請建立 `tokens.txt` 檔案，裡面放置你的登入 token（通常每週需要更新一次）
 
 📌 取得 token 的方式如下:
-![NodePay token](/assets/images/nodepay/img_1.png)
+![NodePay token](/assets/images/bot/nodepay/img_1.png)
 ---
 
 ## 🐳 Docker 執行指令

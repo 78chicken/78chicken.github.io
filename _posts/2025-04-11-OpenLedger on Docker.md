@@ -4,12 +4,12 @@ date: 2025-04-11
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 區塊鏈, AI, 被動收入]
 description: "使用 Docker 掛機參與 OpenLedger 去中心化 AI 平台，自動化挖礦、資料貢獻與模型微調，實現可驗證的 AI 收益模式。"
-image: /assets/images/openledger/banner.png
+image: /assets/images/bot/openledger/banner.png
 written_by: 機掰雞
 lang: zh-TW
 ---
 
-![OpenLedger 封面圖](/assets/images/openledger/banner.png)
+![OpenLedger 封面圖](/assets/images/bot/openledger/banner.png)
 
 **OpenLedger** 是新一代專為人工智慧（AI）打造的去中心化區塊鏈平台，提供完整的經濟基礎設施，讓你可以**貢獻數據、微調模型，並賺取 AI 模型代幣**，實現真正的「掛機挖 AI」新模式。
 
@@ -78,7 +78,7 @@ lang: zh-TW
 
 ## 🔑 Access Token 取得方式：
 Chrome → 打開 OpenLedger Dashboard → F12 → Network → 搜尋 me → 找到你的 Token
-![OpenLedger token](/assets/images/openledger/img_1.png)
+![OpenLedger token](/assets/images/bot/openledger/img_1.png)
 
 ---
 

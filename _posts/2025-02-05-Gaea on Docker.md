@@ -4,12 +4,12 @@ date: 2025-02-05
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, 空投]
 description: "透過 Docker 掛機 Gaea，轉換瀏覽器資源為收益，快速啟動僅需提供 token 與 browser_id。"
-image: /assets/images/gaea/banner.png
+image: /assets/images/bot/gaea/banner.png
 written_by: "機掰雞"
 lang: zh-TW
 ---
 
-![Gaea 封面圖](/assets/images/gaea/banner.png)
+![Gaea 封面圖](/assets/images/bot/gaea/banner.png)
 
 **Gaea** 是一個基於瀏覽器的去中心化資源共享平台，用戶可以透過提交瀏覽器資源（如瀏覽行為模擬、網路請求等），來參與資料處理與流量任務，並獲得對應獎勵。無需下載應用，登入即可掛機。
 
@@ -90,7 +90,7 @@ lang: zh-TW
 3. 點選左側 Local Storage。
 4. 找到 browser_id 與 gaea_token。
 5. Browser_ID 取前八碼，Token 複製整段。
-![Gaea token](/assets/images/gaea/img_1.png)
+![Gaea token](/assets/images/bot/gaea/img_1.png)
 
 ---
 

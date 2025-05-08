@@ -4,12 +4,12 @@ date: 2024-12-29
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 虛擬貨幣, 空投, 被動收入]
 description: "使用 Docker 掛機 Titan Network，利用閒置網路頻寬參與去中心化 CDN 並獲得獎勵。"
-image: /assets/images/titan/banner.png
+image: /assets/images/bot/titan/banner.png
 written_by: 機掰雞
 lang: zh-TW
 ---
 
-![Titan Network 封面圖](/assets/images/titan/banner.png)
+![Titan Network 封面圖](/assets/images/bot/titan/banner.png)
 
 **Titan Network** 是一個去中心化的 CDN 網絡，允許用戶透過分享閒置頻寬與儲存資源來賺取收益。與 BlockMesh 類似，Titan Network 也支援 Docker 掛機，非常適合想低門檻參與 Web3 被動收入的你。
 
@@ -62,7 +62,7 @@ lang: zh-TW
 2️⃣ **取得 Identity Code**：  
 登入後依序點選 `Console -> Node Management -> Get Identity Code`，如下圖所示：
 
-![Titan Identity](/assets/images/titan/img_1.png)
+![Titan Identity](/assets/images/bot/titan/img_1.png)
 
 ## 🐳 Docker 執行指令 
 請將 `你的路徑` 替換為欲儲存資料的本地目錄，例如 `/home/yourname/titan`。

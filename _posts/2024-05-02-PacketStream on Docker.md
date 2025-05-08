@@ -4,12 +4,12 @@ date: 2024-05-02
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, Paypal, 被動收入, 頻寬分享]
 description: "透過 Docker 掛機部署 PacketStream，分享閒置頻寬即可賺取被動收入，支援 Paypal 出金，輕鬆打造被動收入來源。"
-image: /assets/images/packetstream/banner.png
+image: /assets/images/bot/packetstream/banner.png
 written_by: 機掰雞
 lang: zh-TW
 ---
 
-![PacketStream 封面圖](/assets/images/packetstream/banner.png)
+![PacketStream 封面圖](/assets/images/bot/packetstream/banner.png)
 
 PacketStream 是一個將閒置網路頻寬變現的平台，用戶可以分享上下載流量並賺取現金報酬，**可用 Paypal 出金**，無需主動操作，適合長期掛機運行。
 

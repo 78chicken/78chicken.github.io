@@ -4,12 +4,12 @@ date: 2025-01-27
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣]
 description: "使用 Docker 掛機 OpenLoop，將裝置閒置資源轉換為獎勵，輕鬆實現被動收入。"
-image: /assets/images/openloop/banner.png
+image: /assets/images/bot/openloop/banner.png
 written_by: 機掰雞
 lang: zh-TW
 ---
 
-![OpenLoop 封面圖](/assets/images/openloop/banner.png)
+![OpenLoop 封面圖](/assets/images/bot/openloop/banner.png)
 
 **OpenLoop** 是一個專注於基礎設施驗證的 DePIN 專案，任何人都能運行節點參與鏈上驗證流程，協助 OpenLoop 協議運作，同時獲得代幣獎勵與空投機會。
 
@@ -68,7 +68,7 @@ lang: zh-TW
 1. 登入 OpenLoop
 2. Dashboard Page->F12
 3. 複製Token，貼到 `tokens.txt` 中
-![OpenLoop token](/assets/images/openloop/img_1.png)
+![OpenLoop token](/assets/images/bot/openloop/img_1.png)
 
 ## 🐳 Docker 執行指令
 ```bash

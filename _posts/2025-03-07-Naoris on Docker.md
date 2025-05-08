@@ -4,12 +4,12 @@ date: 2025-03-07
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, 空投]
 description: "透過 Docker 掛機 Naoris Protocol，參與去中心化資安網絡並賺取點數，只需錢包與裝置資訊即可輕鬆啟動。"
-image: /assets/images/naoris/banner.png
+image: /assets/images/bot/naoris/banner.png
 written_by: "機掰雞"
 lang: zh-TW
 ---
 
-![Naoris 封面圖](/assets/images/naoris/banner.png)
+![Naoris 封面圖](/assets/images/bot/naoris/banner.png)
 
 **Naoris Protocol** 是一個致力於打造去中心化資安網路的項目，用戶可透過貢獻裝置資源來強化整體網路安全，並獲得獎勵。只需註冊帳號、錢包與瀏覽器擴充套件，即可參與。
 
@@ -74,7 +74,7 @@ lang: zh-TW
 2. 進入 Dashboard 頁面，按下 F12。
 3. 前往 Application → ExtensionStorage → Naoris Protocol Wallet。
 4. 找到 Local → deviceHash 欄位並複製。
-![Naoris hash](/assets/images/naoris/img_1.png)
+![Naoris hash](/assets/images/bot/naoris/img_1.png)
 ---
 
 ## 🐳 Docker 執行指令

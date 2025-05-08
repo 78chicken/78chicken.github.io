@@ -4,12 +4,12 @@ description: "教你如何使用 Docker 掛機執行 Traffmonetizer，輕鬆賺�
 date: 2024-10-23
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, USDT, 被動收入, 頻寬分享]
-image: /assets/images/traffmonetizer/banner.png
+image: /assets/images/bot/traffmonetizer/banner.png
 written_by: 機掰雞
 lang: zh-TW
 ---
 
-![Traffmonetizer 封面圖](/assets/images/traffmonetizer/banner.png)
+![Traffmonetizer 封面圖](/assets/images/bot/traffmonetizer/banner.png)
 
 **Traffmonetizer** 是一個穩定運作多年的掛機賺錢平台，透過分享你閒置的網路頻寬來換取美金收入，支援多平台與 Docker 部署，是許多掛機族的長期選擇。
 

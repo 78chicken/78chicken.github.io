@@ -4,12 +4,12 @@ date: 2024-12-19
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入]
 description: "使用 Docker 部署 Earn.fm，分享閒置網路頻寬賺取被動收入，支援多平台運行，註冊即享推薦獎勵。"
-image: /assets/images/earnfm/banner.png
+image: /assets/images/bot/earnfm/banner.png
 written_by: 機掰雞
 lang: zh-TW
 ---
 
-![Earn.fm 封面圖](/assets/images/earnfm/banner.png)
+![Earn.fm 封面圖](/assets/images/bot/earnfm/banner.png)
 
 Earn.fm 是一個讓用戶透過分享閒置網路頻寬來賺取被動收入的平台。只需安裝客戶端並保持網路連線，即可自動獲得報酬，適合部署在閒置設備上。
 

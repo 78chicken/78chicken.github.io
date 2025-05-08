@@ -4,12 +4,12 @@ date: 2025-04-23
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, depin, 被動收入, 頻寬共享]
 description: "使用 Docker 部署 Solix DePIN 頻寬共享平台，自動化賺取 SLIX 代幣，無痛掛機獲得被動收益。"
-image: /assets/images/solix/banner.png
+image: /assets/images/bot/solix/banner.png
 written_by: 機掰雞
 lang: zh-TW
 ---
 
-![Solix 封面圖](/assets/images/solix/banner.png)
+![Solix 封面圖](/assets/images/bot/solix/banner.png)
 
 Solix DePIN 是一個去中心化的實體基礎設施網絡（DePIN）平台，讓用戶分享並貨幣化其 **閒置網路頻寬**。透過 **瀏覽器擴充功能**，你可以在不影響自身使用的情況下，賺取名為 **SLIX** 的代幣，實現真正的 **被動收入**！
 
