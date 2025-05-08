@@ -41,8 +41,8 @@ Grass 是一個透過分享你閒置的計算資源來賺取報酬的服務，�
 
 ## 🔗 連結
 
-- 🌐 官網：[https://www.getgrass.io/](https://www.getgrass.io/)
-- 🐳 Docker Hub：[trangoul/grass-desktop](https://hub.docker.com/r/trangoul/grass-desktop)
+- 🌐 官方網站：[Grass](https://grass.io/)
+- 🐳 Docker image：[trangoul/grass-desktop](https://hub.docker.com/r/trangoul/grass-desktop)
 > **功能：** 分享閒置計算資源，賺取被動收入
 
 ---

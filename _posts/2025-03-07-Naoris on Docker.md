@@ -29,10 +29,6 @@ lang: zh-TW
 - 參與裝置連線與驗證貢獻，可累積點數，未來可兌換代幣與獎勵。
 - 推薦好友可獲得額外獎勵。
 
-### 🛠️ 開源工具與擴充應用
-- 提供 Chrome 擴充套件與錢包，無需額外安裝應用。
-- 使用 Docker 快速啟動掛機流程，簡單方便。
-
 ---
 
 ## ⚠️ 注意事項
@@ -53,6 +49,12 @@ lang: zh-TW
 
 ---
 
+## 🔗 連結
+
+- 🌐 官方網站：[Naoris](https://naorisprotocol.network/)
+- 🐳 Docker image：[78chicken/naoris](https://hub.docker.com/r/78chicken/naoris)
+
+---
 ## 📄 準備 `accounts.json`
 
 > 建立 `accounts.json` 檔案，內容格式如下：

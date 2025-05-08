@@ -42,7 +42,7 @@ lang: zh-TW
 ## 🔗 連結
 
 - 🌐 官方網站：[Titan Network](https://www.titannet.io/)
-- 🐳 Docker Hub：[noname321/titan-edge](https://hub.docker.com/r/noname321/titan-edge)
+- 🐳 Docker image：[noname321/titan-edge](https://hub.docker.com/r/noname321/titan-edge)
 
 ---
 

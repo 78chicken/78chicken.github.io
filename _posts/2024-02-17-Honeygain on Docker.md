@@ -25,8 +25,8 @@ Honeygain 是一款透過分享你家中或辦公室的閒置網路頻寬，即�
 
 ## 🔗 連結
 
-- 🌐 官網：[https://www.honeygain.com/](https://www.honeygain.com/)
-- 🐳 Docker Hub：[honeygain/honeygain](https://hub.docker.com/r/honeygain/honeygain)
+- 🌐 官方網站：[https://www.honeygain.com/](https://www.honeygain.com/)
+- 🐳 Docker image：[honeygain/honeygain](https://hub.docker.com/r/honeygain/honeygain)
 > **功能：** 分享閒置網路頻寬，賺取被動收入
 
 ---

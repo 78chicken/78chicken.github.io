@@ -41,9 +41,8 @@ DePINed 是一個結合區塊鏈與現實任務的去中心化任務平台，讓
 
 ## 🔗 連結
 
-- 🌐 官網：[https://www.depined.org/](https://www.depined.org/)
-- 🐳 Docker Hub：[78chicken/depined](https://hub.docker.com/r/78chicken/depined)
-> **功能：** 自動啟動並執行 DePINed 節點掛機任務，簡化部署流程
+- 🌐 官方網站：[DePINed](https://www.depined.org/)
+- 🐳 Docker image：[78chicken/depined](https://hub.docker.com/r/78chicken/depined)
 
 ---
 

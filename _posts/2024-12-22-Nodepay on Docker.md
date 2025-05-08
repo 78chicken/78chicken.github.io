@@ -57,8 +57,8 @@ Nodepay 提供了一個低門檻的方式，讓用戶可以在無需高性能設
 
 ## 🔗 連結
 
-- 🌐 官網：[https://nodepay.ai/](https://nodepay.ai/)
-- 🐳 Docker Hub：[78chicken/nodepay](https://hub.docker.com/r/78chicken/nodepay)
+- 🌐 官方網站：[Nodepay.ai](https://nodepay.ai/)
+- 🐳 Docker image：[78chicken/nodepay](https://hub.docker.com/r/78chicken/nodepay)
 > **功能：** 自動簽到、執行每日任務、支援多帳號
 
 ---

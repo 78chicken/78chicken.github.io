@@ -25,8 +25,8 @@ lang: zh-TW
 
 ## 🔗 連結
 
-- 🌐 官網：[https://earnapp.com](https://earnapp.com)
-- 🐳 Docker Hub：[madereddy/earnapp](https://hub.docker.com/r/madereddy/earnapp)
+- 🌐 官方網站：[Earnapp](https://earnapp.com)
+- 🐳 Docker image：[madereddy/earnapp](https://hub.docker.com/r/madereddy/earnapp)
 > **功能：** 自動掛機，分享頻寬賺錢，適合背景長期執行
 
 ---

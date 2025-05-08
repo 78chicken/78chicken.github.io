@@ -33,8 +33,8 @@ lang: zh-TW
 
 ## 🔗 連結
 
-- 🌐 官網：[https://repocket.co/](https://repocket.co/)
-- 🐳 Docker Hub：[repocket/repocket](https://hub.docker.com/r/repocket/repocket)
+- 🌐 官方網站：[Repocket](https://repocket.co/)
+- 🐳 Docker image：[repocket/repocket](https://hub.docker.com/r/repocket/repocket)
 > **功能：** 自動掛機、分享頻寬，適合 24/7 長時間執行
 
 ---

@@ -57,7 +57,7 @@ lang: zh-TW
 ## 🔗 連結
 
 - 🌐 官方網站：[https://www.distribute.ai/](https://www.distribute.ai/)
-- 🐳 Docker Hub：[78chicken/distributeai](https://hub.docker.com/r/78chicken/distributeai)
+- 🐳 Docker image：[78chicken/distributeai](https://hub.docker.com/r/78chicken/distributeai)
 
 ---
 

@@ -55,8 +55,8 @@ lang: zh-TW
 
 ## 🔗 連結
 
-- 🌐 官方網站：[https://3dos.io/](https://3dos.io/)
-- 🐳 Docker Hub：[78chicken/3dos](https://hub.docker.com/r/78chicken/3dos)
+- 🌐 官方網站：[3dos](https://3dos.io/)
+- 🐳 Docker image：[78chicken/3dos](https://hub.docker.com/r/78chicken/3dos)
 
 ---
 

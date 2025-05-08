@@ -40,8 +40,8 @@ Bless 是一個由 Binance Labs 與 Akash Network 校友創立的分散式邊緣
 
 ## 🔗 連結
 
-- 🌐 官網：[https://bless.network/dashboard](https://bless.network/dashboard)
-- 🐳 Docker Hub：[78chicken/bless](https://hub.docker.com/r/78chicken/bless)
+- 🌐 官方網站：[Bless Network](https://bless.network/dashboard)
+- 🐳 Docker image：[78chicken/bless](https://hub.docker.com/r/78chicken/bless)
 > **功能：** 自動啟動節點並連接至 Bless 網路，掛機賺取代幣
 
 ---

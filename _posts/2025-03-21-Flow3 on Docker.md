@@ -59,8 +59,8 @@ Flow3 是一個去中心化無線網路（DeWi）平台，讓使用者可以透�
 
 ## 🔗 連結
 
-- 🌐 官方網站：[https://flow3.tech](https://flow3.tech)
-- 🐳 Docker Hub：[78chicken/flow3](https://hub.docker.com/r/78chicken/flow3)
+- 🌐 官方網站：[Flow3](https://flow3.tech)
+- 🐳 Docker image：[78chicken/flow3](https://hub.docker.com/r/78chicken/flow3)
 
 ---
 

@@ -25,8 +25,8 @@ lang: zh-TW
 
 ## 🔗 連結
 
-- 🌐 官網：[https://traffmonetizer.com](https://traffmonetizer.com)
-- 🐳 Docker Hub：[traffmonetizer/cli_v2](https://hub.docker.com/r/traffmonetizer/cli_v2)
+- 🌐 官方網站：[Traffmonetizer](https://traffmonetizer.com)
+- 🐳 Docker image：[traffmonetizer/cli_v2](https://hub.docker.com/r/traffmonetizer/cli_v2)
 > **功能：** 分享頻寬，穩定掛機賺美元，適合長時間執行
 
 ---

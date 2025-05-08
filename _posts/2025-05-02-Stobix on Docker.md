@@ -50,8 +50,8 @@ Stobix 是一個專注於隱私的加密貨幣投資平台，結合人工智慧�
 
 ## 🔗 連結
 
-- 🌐 官網：[https://stobix.com](https://stobix.com)
-- 🐳 Docker Hub：[78chicken/stobix](https://hub.docker.com/r/78chicken/stobix)
+- 🌐 官方網站：[Stobix](https://stobix.com)
+- 🐳 Docker image：[78chicken/stobix](https://hub.docker.com/r/78chicken/stobix)
 > **功能：** 自動點擊挖礦 & 自動完成任務
 
 ---

@@ -59,8 +59,8 @@ SparkChain 是一個去中心化的資源共享平台，用戶可透過運行節
 
 ## 🔗 連結
 
-- 🌐 官方網站：[https://sparkchain.ai/](https://sparkchain.ai/)
-- 🐳 Docker Hub：[78chicken/sparkchain](https://hub.docker.com/r/78chicken/sparkchain)
+- 🌐 官方網站：[SparkChain.ai](https://sparkchain.ai/)
+- 🐳 Docker image：[78chicken/sparkchain](https://hub.docker.com/r/78chicken/sparkchain)
 
 ---
 

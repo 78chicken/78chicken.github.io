@@ -55,7 +55,7 @@ lang: zh-TW
 ## 🔗 連結
 
 - 🌐 官方網站：[https://aigaea.net/](https://aigaea.net/)
-- 🐳 Docker Hub：[78chicken/gaea](https://hub.docker.com/r/78chicken/gaea)
+- 🐳 Docker image：[78chicken/gaea](https://hub.docker.com/r/78chicken/gaea)
 
 ---
 

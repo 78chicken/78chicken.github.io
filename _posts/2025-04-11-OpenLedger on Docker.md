@@ -49,8 +49,8 @@ lang: zh-TW
 
 ## 🔗 連結
 
-- 🌐 官網：[https://www.openledger.xyz](https://www.openledger.xyz)
-- 🐳 Docker Hub：[78chicken/openledger](https://hub.docker.com/r/78chicken/openledger)
+- 🌐 官方網站：[OpenLedger](https://www.openledger.xyz)
+- 🐳 Docker image：[78chicken/openledger](https://hub.docker.com/r/78chicken/openledger)
 > **功能：** 自動登入、資料貢獻與模型互動
 
 ---

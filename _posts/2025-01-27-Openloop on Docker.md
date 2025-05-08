@@ -42,7 +42,7 @@ lang: zh-TW
 ## 🔗 連結
 
 - 🌐 官方網站：[OpenLoop](https://openloop.so/)
-- 🐳 Docker Hub：[78chicken/openloop](https://hub.docker.com/r/78chicken/openloop)
+- 🐳 Docker image：[78chicken/openloop](https://hub.docker.com/r/78chicken/openloop)
 
 ---
 

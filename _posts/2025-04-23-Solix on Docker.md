@@ -42,8 +42,8 @@ Solix DePIN 是一個去中心化的實體基礎設施網絡（DePIN）平台，
 
 ## 🔗 連結
 
-- 🌐 官網：[https://solixdepin.net](https://solixdepin.net)
-- 🐳 Docker Hub：[78chicken/solix](https://hub.docker.com/r/78chicken/solix)
+- 🌐 官方網站：[Solix](https://solixdepin.net)
+- 🐳 Docker image：[78chicken/solix](https://hub.docker.com/r/78chicken/solix)
 > **功能：** 自動登入與頻寬分享任務掛機
 
 ---

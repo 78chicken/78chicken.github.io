@@ -38,8 +38,8 @@ Cryplex 是一個去中心化儲存與 AI 訓練資料供應平台，讓用戶�
 ---
 ## 🔗 連結
 
-- 🌐 官網：[https://cryplex.ai/](https://cryplex.ai/)
-- 🐳 Docker Hub：[78chicken/cryplexai](https://hub.docker.com/r/78chicken/cryplexai)
+- 🌐 官方網站：[Cryplex.ai](https://cryplex.ai/)
+- 🐳 Docker image：[78chicken/cryplexai](https://hub.docker.com/r/78chicken/cryplexai)
 > **功能：** 自動啟動節點，提供儲存空間給 Cryplex 網絡使用
 
 --- 

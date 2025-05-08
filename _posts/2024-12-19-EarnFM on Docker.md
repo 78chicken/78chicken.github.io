@@ -25,8 +25,8 @@ Earn.fm 是一個讓用戶透過分享閒置網路頻寬來賺取被動收入的
 
 ## 🔗 連結
 
-- 🌐 官網：[https://earn.fm/en/](https://earn.fm/en/)
-- 🐳 Docker Hub：[earnfm/earnfm-client](https://hub.docker.com/r/earnfm/earnfm-client)
+- 🌐 官方網站：[Earn.fm](https://earn.fm/en/)
+- 🐳 Docker image：[earnfm/earnfm-client](https://hub.docker.com/r/earnfm/earnfm-client)
 > **功能：** 分享閒置網路頻寬，賺取被動收入
 
 ---

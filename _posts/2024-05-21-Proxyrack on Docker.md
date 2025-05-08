@@ -27,8 +27,8 @@ lang: zh-TW
 
 ## 🌐 官方連結
 
-- 🌐 [Proxyrack 官方網站](https://www.proxyrack.com/become-a-peer/)
-- 🐳 [Docker Hub 映像檔頁面](https://hub.docker.com/r/proxyrack/pop)
+- 🌐 官方網站：[ProxyRack](https://www.proxyrack.com/become-a-peer/)
+- 🐳 Docker image：[proxyrack/pop](https://hub.docker.com/r/proxyrack/pop)
 
 ---
 

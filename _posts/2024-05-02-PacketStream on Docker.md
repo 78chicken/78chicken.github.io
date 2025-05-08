@@ -41,8 +41,8 @@ PacketStream 是一個將閒置網路頻寬變現的平台，用戶可以分享�
 
 ## 🔗 連結
 
-- 🌐 官網：[https://packetstream.io/](https://packetstream.io/)
-- 🐳 Docker Hub：[packetstream/psclient](https://hub.docker.com/r/packetstream/psclient)
+- 🌐 官方網站：[https://packetstream.io/](https://packetstream.io/)
+- 🐳 Docker image：[packetstream/psclient](https://hub.docker.com/r/packetstream/psclient)
 
 ---
 

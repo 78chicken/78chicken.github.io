@@ -46,8 +46,8 @@ lang: zh-TW
 
 ## 🔗 連結
 
-- 🌐 官網：[BlockMesh Network](https://www.blockmesh.xyz/)
-- 🐳 Docker Hub：[toanbk/blockmesh-js](https://hub.docker.com/r/toanbk/blockmesh-js)
+- 🌐 官方網站：[BlockMesh Network](https://www.blockmesh.xyz/)
+- 🐳 Docker image：[toanbk/blockmesh-js](https://hub.docker.com/r/toanbk/blockmesh-js)
 
 ---
 

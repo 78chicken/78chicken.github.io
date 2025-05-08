@@ -47,7 +47,7 @@ lang: zh-TW
 ## 🔗 連結
 
 - 🌐 官方網站：[https://teneo.pro/](https://teneo.pro/)
-- 🐳 Docker Hub：[78chicken/teneo](https://hub.docker.com/r/78chicken/teneo)
+- 🐳 Docker image：[78chicken/teneo](https://hub.docker.com/r/78chicken/teneo)
 
 ---
 

@@ -50,8 +50,8 @@ lang: zh-TW
 
 ## 🔗 連結
 
-- 🌐 官方網站：[https://www.minionlab.ai/](https://www.minionlab.ai/)
-- 🐳 Docker Hub：[78chicken/minionlab](https://hub.docker.com/r/78chicken/minionlab)
+- 🌐 官方網站：[Minionlab.ai](https://www.minionlab.ai/)
+- 🐳 Docker image：[78chicken/minionlab](https://hub.docker.com/r/78chicken/minionlab)
 
 ---
 
