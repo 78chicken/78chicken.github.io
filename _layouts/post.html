@@ -30,10 +30,10 @@ script_includes:
       </span>
 
       <!-- lastmod date -->
-      {% if page.last_modified_at and page.last_modified_at != page.date %}
+      {% if page.updated and page.updated != page.date %}
         <span>
           {{ site.data.locales[lang].post.updated }}
-          {% include datetime.html date=page.last_modified_at tooltip=true lang=lang %}
+          {% include datetime.html date=page.updated tooltip=true lang=lang %}
         </span>
       {% endif %}
       {% if page.show_header_description %}

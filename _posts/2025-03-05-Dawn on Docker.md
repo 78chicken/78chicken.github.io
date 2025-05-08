@@ -1,5 +1,5 @@
 ---
-title: "DawnValidator on Docker"
+title: "Dawn on Docker"
 date: 2025-03-05
 updated: 2025-05-09
 categories: [bot]
