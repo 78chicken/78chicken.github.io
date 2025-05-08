@@ -70,10 +70,10 @@ Stobix 是一個專注於隱私的加密貨幣投資平台，結合人工智慧�
 Private Key取得方式(以MetaMask為例):  
 
 <div style="text-align: left">
-  <img src="{{ baseurl }}/assets/images/stobix/img_1.png" width="400" style="display: block; margin-bottom: 16px;" alt="Stobix教學圖片1"/>
-  <img src="{{ baseurl }}/assets/images/stobix/img_2.png" width="400" style="display: block; margin-bottom: 16px;" alt="Stobix教學圖片2"/>
-  <img src="{{ baseurl }}/assets/images/stobix/img_3.png" width="400" style="display: block; margin-bottom: 16px;" alt="Stobix教學圖片3"/>
-  <img src="{{ baseurl }}/assets/images/stobix/img_4.png" width="400" style="display: block;" alt="Stobix教學圖片4"/>
+  <img src="{{ baseurl }}/assets/images/bot/stobix/img_1.png" width="400" style="display: block; margin-bottom: 16px;" alt="Stobix教學圖片1"/>
+  <img src="{{ baseurl }}/assets/images/bot/stobix/img_2.png" width="400" style="display: block; margin-bottom: 16px;" alt="Stobix教學圖片2"/>
+  <img src="{{ baseurl }}/assets/images/bot/stobix/img_3.png" width="400" style="display: block; margin-bottom: 16px;" alt="Stobix教學圖片3"/>
+  <img src="{{ baseurl }}/assets/images/bot/stobix/img_4.png" width="400" style="display: block;" alt="Stobix教學圖片4"/>
 </div>
 
 
