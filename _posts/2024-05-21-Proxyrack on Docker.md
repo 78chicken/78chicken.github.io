@@ -2,7 +2,7 @@
 title: "Proxyrack on Docker"
 date: 2024-05-21
 categories: [bot]
-tags: [Docker, 網路賺錢, 掛機, 被動收入, ProxyRack]
+tags: [Docker, 網路賺錢, 掛機, 被動收入]
 description: "使用 Docker 掛載 ProxyRack 分享頻寬賺取收益，支援無頭裝置，詳細教學含註冊與部署指令。"
 image: /assets/images/bot/proxyrack/banner.png
 written_by: 機掰雞
