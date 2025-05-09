@@ -9,7 +9,12 @@ written_by: 機掰雞
 lang: zh-TW
 ---
 ![CryplexAi 封面圖](/assets/images/bot/cryplexai/banner.png)
+> 📢 **【2025-05-09 更新通知】**
+>
+> 更新python套件，Docker image已更新  
 
+
+--- 
 Cryplex 是一個去中心化儲存與 AI 訓練資料供應平台，讓用戶可將閒置的儲存空間轉化為數位資產。
 
 ## 📌 核心功能與特點
