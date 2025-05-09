@@ -52,7 +52,6 @@ Stobix 是一個專注於隱私的加密貨幣投資平台，結合人工智慧�
 
 - 🌐 官方網站：[Stobix](https://stobix.com)
 - 🐳 Docker image：[78chicken/stobix](https://hub.docker.com/r/78chicken/stobix)
-> **功能：** 自動點擊挖礦 & 自動完成任務
 
 ---
 
@@ -86,7 +85,7 @@ Private Key取得方式(以MetaMask為例):
 ```bash
 #/opt/stobix/accounts.txt請改成你自己的路徑
 docker run -d --restart always --replace -m 50M \
---name Stobix \
 -v /opt/stobix/accounts.txt:/app/accounts.txt \
+--name Stobix \
 docker.io/78chicken/stobix
 ```

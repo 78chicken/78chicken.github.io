@@ -28,7 +28,7 @@ lang: zh-TW
 ## 🌐 延伸閱讀（中文資源）
 
 - [官方文件](https://containrrr.dev/watchtower/)
-- [Docker 全自動無人值守升級 WatchTower | jkgtw’s blog](https://blog.jkgtw.com/)
+- [Docker 全自動無人值守升級 WatchTower](https://blog.jkgtw.com/)
 - [自動升級更新 Docker 容器 — AppleBOY](https://blog.wu-boy.com/)
 
 ---
