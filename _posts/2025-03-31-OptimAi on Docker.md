@@ -1,5 +1,5 @@
 ---
-title: "OptimAI on Docker"
+title: "OptimAi on Docker"
 date: 2025-03-31
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, AI, 去中心化]
