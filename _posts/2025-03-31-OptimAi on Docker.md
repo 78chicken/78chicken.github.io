@@ -1,5 +1,5 @@
 ---
-title: "OptimAI on Docker"
+title: "OptimAi on Docker"
 date: 2025-03-31
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, AI, 去中心化]
@@ -89,15 +89,17 @@ lang: zh-TW
 --- 
 
 ## 🧪 Token 與 Payload 取得方式
-1. refreshToken : Chrome → Dashboard → F12 → Application → Local Storage → opai_refresh_token
-![OptimAI 封面圖](/assets/images/bot/optimai/img_1.png)
-2. 取得 User ID 與 Device ID : Chrome → Dashboard → F12 → Network
+1\. refreshToken : Chrome → Dashboard → F12 → Application → Local Storage → opai_refresh_token
+![OptimAI token](/assets/images/bot/optimai/img_1.png)  
+2\. 取得 User ID 與 Device ID : Chrome → Dashboard → F12 → Network
    >- 找 me → Response → 取得 User ID
-   >- 找 devices → Response → 取得 Device ID 
-   
-![OptimAI 封面圖](/assets/images/bot/optimai/img_2.png)
-3. 產生 registerPayload 與 uptimePayload:  
+   >- 找 devices → Response → 取得 Device ID   
+
+![OptimAI token](/assets/images/bot/optimai/img_2.png)
+
+3\. 產生 registerPayload 與 uptimePayload:  
 Container 裡已含有 JS 腳本，但不含 NodeJS 執行環境，請依下列步驟將 JS 檔拷貝出來使用
+
 ```bash
 # 啟動一個臨時 container（會自動結束）
 docker run --rm --name temp docker.io/78chicken/optimai:latest
@@ -107,12 +109,15 @@ docker cp temp:/app/optimai/generate_payload.js .
 
 # 在本地執行（需先安裝 Node.js）
 node generate_payload.js
+
 ```
 執行後輸入 User ID 與 Device ID，會輸出兩組 Payload。  
 Register Payload → 對應 registerPayload  
 Uptime Payload → 對應 uptimePayload
 ![OptimAI 封面圖](/assets/images/bot/optimai/img_4.png)
 ---
+
+4\. 後續<mark>只需定期更新refreshToken</mark>
 
 ## 🐳 Docker 執行指令
 ```bash
