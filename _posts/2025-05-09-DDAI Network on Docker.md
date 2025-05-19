@@ -1,6 +1,7 @@
 ---
 title: "DDAI on Docker"
 date: 2025-05-09
+updated: 2025-05-19
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, depin, 虛擬貨幣, airdrop, 空投, 被動收入]
 description: "DDAI Network 是一個融合人工智慧（AI）與區塊鏈技術的去中心化平台，旨在建立一個開放且協作的 AI 生態系統。該平台致力於提供高效、安全且可擴展的 AI 解決方案，促進數據共享與 AI 模型的協同發展"
@@ -9,7 +10,10 @@ written_by: 機掰雞
 lang: zh-TW
 ---
 ![DDAI 封面圖](/assets/images/bot/ddai/banner.png)
-
+> 📢 **【2025-05-19 更新通知】**
+>
+> 設定檔格式變更 & 更新 Docker 映像  
+ 
 # DDAI Network 簡介
 
 **DDAI Network**（Data-Driven AI Network）是一個融合人工智慧（AI）與區塊鏈技術的去中心化平台，旨在建立一個開放且協作的 AI 生態系統。該平台致力於提供高效、安全且可擴展的 AI 解決方案，促進數據共享與 AI 模型的協同發展。
@@ -59,20 +63,22 @@ lang: zh-TW
 ## 📁 運行前準備
 請準備好 `accounts.json`，取得方式如下：
 ```json
-  [
-      {
-          "Email": "你的信箱（登入帳號）",
-          "Password": "你的密碼"
-      }
-  ]
-```
+ [
+  {
+    "userId": "your_user_id_1",
+    "accessToken": "your_access_token_1",
+    "refreshtoken": "your_refresh_token_1"
+  }
+]
 
+```
+![DDAI token](/assets/images/bot/ddai/img_1.png)
 ## 🐳 Docker 執行方式
 
-請根據你的實際檔案路徑替換 `/opt/ddai/accounts.txt`：
+請根據你的實際檔案路徑替換 `/opt/ddai/tokens.json`：
 ```bash
 docker run -d --restart always --replace -m 50M \  
-  -v /opt/ddai/accounts.json:/app/ddai/accounts.json \
+  -v /opt/ddai/tokens.json:/app/ddai/tokens.json \
   --name Ddai \
   docker.io/78chicken/ddai:latest
 ```
