@@ -77,8 +77,4 @@ docker.io/78chicken/unich:latest
 sleep 60s
 docker stop Unich
 ``` 
-## ⏳說明
-此專案在網頁點擊 Tap 按鈕後會進入等待期，通常為 8H／12H／24H 不等，依各空投項目而異。
-既然進入等待期後無需持續掛著執行，便可選擇釋放資源，等下一輪時間到再重新啟動。
-當然，也可以選擇持續掛著不中斷。若採此方式，Docker 執行指令可參考 bot 的方式持續運作。
-也因此該類別劃分為quest，做完任務即可關閉。
+{% include quest-note.md %}

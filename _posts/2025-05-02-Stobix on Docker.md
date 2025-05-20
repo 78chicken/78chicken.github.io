@@ -65,17 +65,16 @@ Stobix 是一個專注於隱私的加密貨幣投資平台，結合人工智慧�
 
 ## 📁 運行前準備
 
-請建立 `accounts.txt` 檔案，裡面放置你的wallet private key.
-Private Key取得方式(以MetaMask為例):  
+在開始掛機任務前，請先準備好一個名為 `accounts.txt` 的文字檔案，內容格式如下：
+- 每行一個 **Private Key**
+- 建議使用子帳號私鑰，避免主帳號資安風險
+- 如何取得 Private Key 請參考這篇教學 👉 [取得你的 Private Key](/posts/Get-Your-Private-Key/)
 
-<div style="text-align: left">
-  <img src="{{ baseurl }}/assets/images/bot/stobix/img_1.png" width="400" style="display: block; margin-bottom: 16px;" alt="Stobix教學圖片1"/>
-  <img src="{{ baseurl }}/assets/images/bot/stobix/img_2.png" width="400" style="display: block; margin-bottom: 16px;" alt="Stobix教學圖片2"/>
-  <img src="{{ baseurl }}/assets/images/bot/stobix/img_3.png" width="400" style="display: block; margin-bottom: 16px;" alt="Stobix教學圖片3"/>
-  <img src="{{ baseurl }}/assets/images/bot/stobix/img_4.png" width="400" style="display: block;" alt="Stobix教學圖片4"/>
-</div>
-
-
+📄 範例內容：
+```txt
+2b9ed18e0b60369dbb...
+0xfedcba0987654321...
+```
 
 ---
 
