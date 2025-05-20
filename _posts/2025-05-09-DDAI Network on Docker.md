@@ -1,5 +1,5 @@
 ---
-title: "DDAI on Docker"
+title: "DDAI Network on Docker"
 date: 2025-05-09
 updated: 2025-05-19
 categories: [bot]
