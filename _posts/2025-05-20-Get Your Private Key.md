@@ -4,11 +4,11 @@ date: 2025-05-20
 categories: [tips]
 tags: [Wallet, Private Key]
 description: "取得錢包 Private Key"
-image: /assets/images/bot/stobix/banner.png
+image: /assets/images/tips/privatekey/banner.png
 written_by: 機掰雞
 lang: zh-TW
 ---
-
+![privatekey 封面圖](/assets/images/tips/privatekey/banner.png)
 
 
 ## ⚠️ 安全提醒
