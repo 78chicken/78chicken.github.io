@@ -4,12 +4,12 @@ date: 2025-02-02
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣]
 description: "使用 Docker 掛機 Teneo，將裝置閒置資源轉換為 Teneo Point，輕鬆實現被動收入。"
-image: /assets/images/bot/teneo/banner.png
+image: /assets/images/bot/teneo/banner.webp
 written_by: "機掰雞"
 lang: zh-TW
 ---
 
-![Teneo 封面圖](/assets/images/bot/teneo/banner.png)
+![Teneo 封面圖](/assets/images/bot/teneo/banner.webp)
 
 **Teneo** 是一個去中心化的社交媒體數據解鎖平台，旨在讓用戶透過運行瀏覽器端的 AI 節點（Community Node），貢獻計算資源以解鎖公開的社交媒體數據，並獲得回報。該平台強調用戶隱私，僅處理公開數據，並以去中心化的方式運作，讓數據回歸用戶所有。
 

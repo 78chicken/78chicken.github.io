@@ -5,12 +5,12 @@ updated: 2025-05-22
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, depin, 被動收入, 頻寬共享]
 description: "使用 Docker 部署 Solix DePIN 頻寬共享平台，自動化賺取 SLIX 代幣，無痛掛機獲得被動收益。"
-image: /assets/images/bot/solix/banner.png
+image: /assets/images/bot/solix/banner.webp
 written_by: 機掰雞
 lang: zh-TW
 ---
 
-![Solix 封面圖](/assets/images/bot/solix/banner.png)
+![Solix 封面圖](/assets/images/bot/solix/banner.webp)
 > 📢 **【2025-05-22 更新通知】**
 >
 > Humanity Proof - 需要花費0.0012ETH。登入Dashboard即可認證。
