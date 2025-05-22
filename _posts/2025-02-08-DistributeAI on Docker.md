@@ -14,7 +14,7 @@ lang: zh-TW
 
 > 📢 **【2025-05-22】**
 >
-> [空投資格檢查](https://claim.distribute.ai/)
+> [領取空投](https://claim.distribute.ai/)，錢包須至少有0.02SOL
 > 機掰雞剩一組帳號有領取資格,有總比沒有好
 
 
