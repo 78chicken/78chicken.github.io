@@ -4,12 +4,12 @@ date: 2025-03-19
 categories: [quest]
 tags: [Docker, 空投, 掛機, 被動收入, 虛擬貨幣, 自動化]
 description: "參與 Unich 空投活動，完成每日任務與 Tap-to-Earn 掛機任務，賺取 Freedom Points 並兌換 UN 代幣。"
-image: /assets/images/quest/unich/banner.png
+image: /assets/images/quest/unich/banner.webp
 written_by: 機掰雞
 lang: zh-TW
 ---
 
-![Unich 空投封面圖](/assets/images/quest/unich/banner.png)
+![Unich 空投封面圖](/assets/images/quest/unich/banner.webp)
 
 Unich是一個基於區塊鏈技術的一站式場外交易（OTC）平台，專注於加密貨幣交易。
 讓用戶能夠更早參與新興代幣的交易，並通過其空投計劃（Airdrop Program）吸引用戶參與。空投活動中，
@@ -60,7 +60,7 @@ Unich是一個基於區塊鏈技術的一站式場外交易（OTC）平台，專
 2. 按下 `F12` 開啟開發者工具 → 點選 Network → 找到 `my-info` 並複製 Bearer Token
 3. 將 Token 存入 `token.txt` 檔案中（每行一個 Token）
 
-![Unich token1](/assets/images/quest/unich/img_1.png)
+![Unich token1](/assets/images/quest/unich/img_1.webp)
 ---
 
 ## 🐳 Docker 執行指令

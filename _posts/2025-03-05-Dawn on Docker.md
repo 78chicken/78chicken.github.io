@@ -5,12 +5,12 @@ updated: 2025-05-09
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, 分享頻寬]
 description: "透過 Docker 掛機 Dawn，分享閒置頻寬賺取獎勵積分，只需提供 Email 與 Token，快速啟動！"
-image: /assets/images/bot/dawn/banner.png
+image: /assets/images/bot/dawn/banner.webp
 written_by: "機掰雞"
 lang: zh-TW
 ---
 
-![Dawn 封面圖](/assets/images/bot/dawn/banner.png)
+![Dawn 封面圖](/assets/images/bot/dawn/banner.webp)
 > 📢 **【2025-05-09 更新通知】**
 >
 > 機掰雞已更新 Docker 映像，**掛機終於可以正常運行啦！**  
@@ -94,10 +94,10 @@ Dawn 是一個致力於打造去中心化無線網路的創新平台，讓用戶
 1. 安裝 Chrome 擴充功能後，打開 `chrome://extensions/`。
 2. 開啟「開發人員模式」。
 3. 點選 Dawn 擴充圖示右鍵 →「檢查彈出視窗」。  
-![Dawn token1](/assets/images/bot/dawn/img_1.png)
+![Dawn token1](/assets/images/bot/dawn/img_1.webp)
 4. 在 Network 分頁中按 `Ctrl+R` 重新整理。
 5. 搜尋 `getpoint?appid=` 類似請求，在 Header 裡可找到 `Token`。
-![Dawn token2](/assets/images/bot/dawn/img_2.png)
+![Dawn token2](/assets/images/bot/dawn/img_2.webp)
 6. 若有多帳號，重複上述操作切換帳號擷取。
 
 ---

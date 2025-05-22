@@ -1,30 +1,22 @@
 ---
 title: "Distribute.AI on Docker"
 date: 2025-02-08
-updated: 2025-05-07
+updated: 2025-05-22
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, AI, 去中心化]
 description: "透過 Docker 掛機 Distribute.AI（前稱 Oasis），只需提供帳號與 Token，即可參與去中心化 AI 計算資源網絡並獲得收益。"
-image: /assets/images/bot/distributeai/banner.png
+image: /assets/images/bot/distributeai/banner.webp
 written_by: "機掰雞"
 lang: zh-TW
 ---
 
-![Distribute.AI 封面圖](/assets/images/bot/distributeai/banner.png)
+![Distribute.AI 封面圖](/assets/images/bot/distributeai/banner.webp)
 
-> 📢 **【2025-05-07 更新通知】**
+> 📢 **【2025-05-22】**
 >
-> ⚠️ **若 IP 或 Provider 名稱相同但實為不同帳號，可能會被判定為不合法行為，該Provider收益將被沒收。**
->
-> 機掰雞因偷懶，僅註冊少量帳號並使用多台不同 IP 掛機，  
-> 期間部分 Provider 雖名稱相同但 IP 有變動，導致 **多筆收益被封鎖**。
->
-> ✅ 目前僅剩 **3~4 個 Provider** 還在正常運作。
->
-> 🔒 **建議：**
->
-> - 避免多帳號使用相同 Provider 名稱與 IP。
-> - 採用 **多帳號、單一 Provider、固定 IP** 的方式掛機，可有效降低風險。
+> [領取空投](https://claim.distribute.ai/)，錢包須至少有0.02SOL
+> 機掰雞剩一組帳號有領取資格,有總比沒有好
+
 
 
 --- 

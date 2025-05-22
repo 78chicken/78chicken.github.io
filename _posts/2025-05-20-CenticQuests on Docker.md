@@ -4,11 +4,11 @@ date: 2025-05-20
 categories: [quest]
 tags: [Docker, 網路賺錢, 掛機, depin, 虛擬貨幣, airdrop, 空投, 被動收入]
 description: "Centic 是一個 Web3 智能數據基礎設施平台，透過整合鏈上與鏈下資料，提供實體評分、行為洞察與成長分析，協助用戶與企業深入了解 Web3 生態系統。"
-image: /assets/images/quest/centic/banner.png
+image: /assets/images/quest/centic/banner.webp
 written_by: 機掰雞
 lang: zh-TW
 ---
-![DDAI 封面圖](/assets/images/quest/centic/banner.png)
+![DDAI 封面圖](/assets/images/quest/centic/banner.webp)
 
 # CenticQuests 簡介
 

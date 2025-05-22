@@ -4,12 +4,12 @@ date: 2025-03-14
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣]
 description: "透過 Docker 掛機 3DOS，參與去中心化製造網絡，將設計轉化為收益，快速啟動僅需提供 token。"
-image: /assets/images/bot/3dos/banner.png
+image: /assets/images/bot/3dos/banner.webp
 written_by: "機掰雞"
 lang: zh-TW
 ---
 
-![3DOS 封面圖](/assets/images/bot/3dos/banner.png)
+![3DOS 封面圖](/assets/images/bot/3dos/banner.webp)
 
 **3DOS** 是一個去中心化的按需製造平台，致力於讓任何人都能在數小時內將設計轉化為產品，並透過全球網絡進行製造、銷售與分發。平台支持全球法幣與加密貨幣支付，並利用區塊鏈技術保護設計者的版稅收益。
 
@@ -70,7 +70,7 @@ lang: zh-TW
 2. 按下 F12 → 前往 Application。
 3. 點選左側 Local Storage。
 4. 找到你的 Token 並複製。
-![3DOS token](/assets/images/bot/3dos/img_1.png)
+![3DOS token](/assets/images/bot/3dos/img_1.webp)
 ---
 
 ## 🐳 Docker 執行指令

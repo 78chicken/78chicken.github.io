@@ -4,11 +4,11 @@ date: 2025-02-15
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, depin, 虛擬貨幣, airdrop, 空投, 被動收入]
 description: "使用 Docker 快速部署 Bless 節點，參與去中心化網路任務與獎勵機制，輕鬆賺取代幣與空投，無需 KYC 或高效能設備。"
-image: /assets/images/bot/bless/banner.png
+image: /assets/images/bot/bless/banner.webp
 written_by: 機掰雞
 lang: zh-TW
 ---
-![Bless 封面圖](/assets/images/bot/bless/banner.png)
+![Bless 封面圖](/assets/images/bot/bless/banner.webp)
 
 Bless 是一個由 Binance Labs 與 Akash Network 校友創立的分散式邊緣運算平台，旨在利用全球閒置的計算資源，打造去中心化的 AI 計算基礎設施。透過 Docker 部署，您可以輕鬆參與並獲取代幣獎勵。
 
@@ -71,9 +71,9 @@ Bless 是一個由 Binance Labs 與 Akash Network 校友創立的分散式邊緣
 
 1. 安裝 Chrome extension 並登入 Bless 帳號，系統會自動建立一個 Node
 2. 在DashBoard找到NodeID -> 點選F12 -> Network -> 找到跟NodeID相同名稱 -> 取得PubKey 跟userId,如下圖
-![Bless img1](/assets/images/bot/bless/img_1.png)
+![Bless img1](/assets/images/bot/bless/img_1.webp)
 3. 在DashBoard -> 點選F12 -> Network -> 找到跟NodeID相同名稱 (或是其他頁面都可,下方截圖使用MyNodes頁面) -> Headers -> Authorization ->取得Bearer之後的就是需要的toekn
-![Bless img2](/assets/images/bot/bless/img_2.png)
+![Bless img2](/assets/images/bot/bless/img_2.webp)
 
 ---
    

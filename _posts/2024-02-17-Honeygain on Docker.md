@@ -4,12 +4,12 @@ date: 2024-02-17
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, Paypal, 虛擬貨幣]
 description: "使用 Docker 部署 Honeygain，分享閒置頻寬賺取被動收入，註冊即享推薦獎勵，支援無頭裝置運行。"
-image: /assets/images/bot/honeygain/banner.png
+image: /assets/images/bot/honeygain/banner.webp
 written_by: 機掰雞
 lang: zh-TW
 ---
 
-![Honeygain 封面圖](/assets/images/bot/honeygain/banner.png)
+![Honeygain 封面圖](/assets/images/bot/honeygain/banner.webp)
 
 Honeygain 是一款透過分享你家中或辦公室的閒置網路頻寬，即可獲得報酬的服務。適合用來部署在家中閒置的裝置上賺取被動收入。
 

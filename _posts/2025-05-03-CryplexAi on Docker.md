@@ -5,11 +5,11 @@ updated: 2025-05-09
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, depin, 虛擬貨幣, airdrop, 空投, 被動收入]
 description: "使用 Docker 掛機方式部署 CryplexAi，享受 Depin 類型專案帶來的自動化收益與空投獎勵，無需 KYC 或高效能機器即可參與。"
-image: /assets/images/bot/cryplexai/banner.png
+image: /assets/images/bot/cryplexai/banner.webp
 written_by: 機掰雞
 lang: zh-TW
 ---
-![CryplexAi 封面圖](/assets/images/bot/cryplexai/banner.png)
+![CryplexAi 封面圖](/assets/images/bot/cryplexai/banner.webp)
 > 📢 **【2025-05-09 更新通知】**
 >
 > 更新python套件，Docker image已更新  
@@ -62,9 +62,9 @@ Cryplex 是一個去中心化儲存與 AI 訓練資料供應平台，讓用戶�
 >   1. 登入 Dashboard 頁面
 >   2. 按下 `F12` 進入開發者工具
 >   3. 擷取並儲存 `tokens.txt`
-<div style="text-align: left">
-  <img src="{{ baseurl }}/assets/images/bot/cryplexai/img.png" width="600" style="display: block; margin-bottom: 16px;" alt="CryplexAi教學圖片"/> 
-</div>
+
+![CryplexAi token](/assets/images/bot/cryplexai/img.webp)
+
 
 ## 🐳 Docker 執行方式
 

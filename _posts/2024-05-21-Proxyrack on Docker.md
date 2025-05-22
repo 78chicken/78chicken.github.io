@@ -4,12 +4,12 @@ date: 2024-05-21
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入]
 description: "使用 Docker 掛載 ProxyRack 分享頻寬賺取收益，支援無頭裝置，詳細教學含註冊與部署指令。"
-image: /assets/images/bot/proxyrack/banner.png
+image: /assets/images/bot/proxyrack/banner.webp
 written_by: 機掰雞
 lang: zh-TW
 ---
 
-![Proxyrack 封面圖](/assets/images/bot/proxyrack/banner.png)
+![Proxyrack 封面圖](/assets/images/bot/proxyrack/banner.webp)
 
 ## 📝 註冊帳號
 
@@ -65,4 +65,4 @@ curl --location 'https://peer.proxyrack.com/api/device/add' \
 - 官方建議容器啟動後 **等待 5～10 分鐘** 再進行設備綁定，機掰雞實測大概需要 **20 分鐘左右** 才會正常出現在列表中，請耐心等待。
 - 啟動容器後可能會看到一些錯誤訊息（如連接失敗），但實際運作不受影響，**可以放心忽略**。
 
-![Proxyrack 錯誤訊息](/assets/images/bot/proxyrack/error.png)
+![Proxyrack 錯誤訊息](/assets/images/bot/proxyrack/error.webp)

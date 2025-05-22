@@ -4,11 +4,11 @@ date: 2025-05-20
 categories: [tips]
 tags: [Wallet, Private Key]
 description: "取得錢包 Private Key"
-image: /assets/images/tips/privatekey/banner.png
+image: /assets/images/tips/privatekey/banner.webp
 written_by: 機掰雞
 lang: zh-TW
 ---
-![privatekey 封面圖](/assets/images/tips/privatekey/banner.png)
+![privatekey 封面圖](/assets/images/tips/privatekey/banner.webp)
 
 
 ## ⚠️ 安全提醒
@@ -29,16 +29,16 @@ lang: zh-TW
 
 ## 📸 圖解教學（MetaMask）
 
-![步驟一](/assets/images/tips/privatekey/metamask_img_1.png)
+![步驟一](/assets/images/tips/privatekey/metamask_img_1.webp)
 _開啟帳戶詳細資料_
 
-![步驟二](/assets/images/tips/privatekey/metamask_img_2.png)
+![步驟二](/assets/images/tips/privatekey/metamask_img_2.webp)
 _選擇「匯出私鑰」_
 
-![步驟三](/assets/images/tips/privatekey/metamask_img_3.png)
+![步驟三](/assets/images/tips/privatekey/metamask_img_3.webp)
 _輸入密碼確認_
 
-![步驟四](/assets/images/tips/privatekey/metamask_img_4.png)
+![步驟四](/assets/images/tips/privatekey/metamask_img_4.webp)
 _取得 Private Key_
 
 ---
@@ -55,25 +55,25 @@ _取得 Private Key_
 
 ### 📸 圖解教學
 
-![步驟1](/assets/images/tips/privatekey/phantom_img_1.png)
+![步驟1](/assets/images/tips/privatekey/phantom_img_1.webp)
 _開啟設定_
 
-![步驟2](/assets/images/tips/privatekey/phantom_img_2.png)
+![步驟2](/assets/images/tips/privatekey/phantom_img_2.webp)
 _選擇「管理帳戶」_
 
-![步驟3](/assets/images/tips/privatekey/phantom_img_3.png) 
+![步驟3](/assets/images/tips/privatekey/phantom_img_3.webp) 
 _選擇帳戶_  
 
-![步驟4](/assets/images/tips/privatekey/phantom_img_4.png)
+![步驟4](/assets/images/tips/privatekey/phantom_img_4.webp)
 _選擇「顯示私鑰」_  
 
-![步驟5](/assets/images/tips/privatekey/phantom_img_5.png)
+![步驟5](/assets/images/tips/privatekey/phantom_img_5.webp)
 _輸入密碼_
 
-![步驟6](/assets/images/tips/privatekey/phantom_img_6.png)
+![步驟6](/assets/images/tips/privatekey/phantom_img_6.webp)
 _選擇錢包_  
 
-![步驟7](/assets/images/tips/privatekey/phantom_img_7.png)
+![步驟7](/assets/images/tips/privatekey/phantom_img_7.webp)
 _取得Private Key_
 
 ---

@@ -4,12 +4,12 @@ date: 2025-03-21
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, 空投]
 description: "透過 Docker 掛機 SparkChain，轉換瀏覽器資源為收益，快速啟動僅需提供 token。"
-image: /assets/images/bot/sparkchain/banner.png
+image: /assets/images/bot/sparkchain/banner.webp
 written_by: "機掰雞"
 lang: zh-TW
 ---
 
-![SparkChain 封面圖](/assets/images/bot/sparkchain/banner.png)
+![SparkChain 封面圖](/assets/images/bot/sparkchain/banner.webp)
 
 SparkChain 是一個去中心化的資源共享平台，用戶可透過運行節點貢獻頻寬並獲得 SPARK 代幣獎勵，支援數據收集與 AI 訓練。平台透過 Spark Points 機制鼓勵參與，積分可兌換代幣。建議使用者自行評估安全與風險。
 

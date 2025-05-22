@@ -4,12 +4,12 @@ date: 2025-03-31
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, AI, 去中心化]
 description: "透過 Docker 掛機 OptimAI，只需提供帳號與 Token，即可參與 OP-Stack 上的 AI 計算網絡並獲得收益。"
-image: /assets/images/bot/optimai/banner.png
+image: /assets/images/bot/optimai/banner.webp
 written_by: "機掰雞"
 lang: zh-TW
 ---
 
-![OptimAI 封面圖](/assets/images/bot/optimai/banner.png)
+![OptimAI 封面圖](/assets/images/bot/optimai/banner.webp)
 
 [OptimAI Network](https://optimai.network/) 是一個基於 OP-Stack 的 Layer2 區塊鏈平台，專為生成式 AI（GenAI）代理提供支持，結合了去中心化物理基礎設施網絡（DePIN）與強化學習（RLHF）技術，致力於推動 AI 的下一波創新。
 
@@ -90,12 +90,14 @@ lang: zh-TW
 
 ## 🧪 Token 與 Payload 取得方式
 1\. refreshToken : Chrome → Dashboard → F12 → Application → Local Storage → opai_refresh_token
-![OptimAI token](/assets/images/bot/optimai/img_1.png)  
+![OptimAI token](/assets/images/bot/optimai/img_1.webp)  
 2\. 取得 User ID 與 Device ID : Chrome → Dashboard → F12 → Network
    >- 找 me → Response → 取得 User ID
    >- 找 devices → Response → 取得 Device ID   
 
-![OptimAI token](/assets/images/bot/optimai/img_2.png)
+![OptimAI token](/assets/images/bot/optimai/img_2.webp)
+
+![OptimAI token](/assets/images/bot/optimai/img_3.webp)
 
 3\. 產生 registerPayload 與 uptimePayload:  
 Container 裡已含有 JS 腳本，但不含 NodeJS 執行環境，請依下列步驟將 JS 檔拷貝出來使用
@@ -114,7 +116,7 @@ node generate_payload.js
 執行後輸入 User ID 與 Device ID，會輸出兩組 Payload。  
 Register Payload → 對應 registerPayload  
 Uptime Payload → 對應 uptimePayload
-![OptimAI 封面圖](/assets/images/bot/optimai/img_4.png)
+![OptimAI 封面圖](/assets/images/bot/optimai/img_4.webp)
 ---
 
 4\. 後續<mark>只需定期更新refreshToken</mark>
