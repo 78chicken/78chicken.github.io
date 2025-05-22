@@ -4,12 +4,12 @@ date: 2025-02-20
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, depin, 去中心化, 空投]
 description: "使用 Docker 快速部署 DePINed 節點，參與去中心化任務平台，自動化獲取代幣與空投獎勵，無需 KYC 或高效能設備即可加入。"
-image: /assets/images/bot/depined/banner.png
+image: /assets/images/bot/depined/banner.webp
 written_by: 機掰雞
 lang: zh-TW
 ---
 
-![DePINed 封面圖](/assets/images/bot/depined/banner.png)
+![DePINed 封面圖](/assets/images/bot/depined/banner.webp)
 
 DePINed 是一個結合區塊鏈與現實任務的去中心化任務平台，讓用戶能透過簡單的行動參與分潤與獎勵，打造人人都能參與的 Web3 去中心化經濟。
 

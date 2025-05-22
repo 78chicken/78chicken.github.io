@@ -4,12 +4,12 @@ date: 2025-03-21
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, 分享頻寬]
 description: "透過 Docker 掛機 Flow3，分享閒置頻寬賺取 Flow3 Points，快速啟動僅需提供 token。"
-image: /assets/images/bot/flow3/banner.png
+image: /assets/images/bot/flow3/banner.webp
 written_by: "機掰雞"
 lang: zh-TW
 ---
 
-![Flow3 封面圖](/assets/images/bot/flow3/banner.png)
+![Flow3 封面圖](/assets/images/bot/flow3/banner.webp)
 
 Flow3 是一個去中心化無線網路（DeWi）平台，讓使用者可以透過分享未使用的網路頻寬和 CPU 算力來賺取被動收入。
 
@@ -71,8 +71,8 @@ Flow3 是一個去中心化無線網路（DeWi）平台，讓使用者可以透�
 > - ⚠️ 建議每個 IP 僅對應一組 token。
 > - 取得 refresh_token 方式如下。
 
-![Flow3 token1](/assets/images/bot/flow3/img_1.png)
-![Flow3 token2](/assets/images/bot/flow3/img_2.png)
+![Flow3 token1](/assets/images/bot/flow3/img_1.webp)
+![Flow3 token2](/assets/images/bot/flow3/img_2.webp)
 
 ---
 

@@ -4,12 +4,12 @@ date: 2025-03-19
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣]
 description: "使用 Docker 或瀏覽器擴充功能部署 Grass，分享閒置網路頻寬賺取被動收入，支援無頭裝置運行。"
-image: /assets/images/bot/grass/banner.png
+image: /assets/images/bot/grass/banner.webp
 written_by: 機掰雞
 lang: zh-TW
 ---
 
-![Grass 封面圖](/assets/images/bot/grass/banner.png)
+![Grass 封面圖](/assets/images/bot/grass/banner.webp)
 
 Grass 是一個透過分享你閒置的計算資源來賺取報酬的服務，適合用來部署在家中的閒置裝置，賺取被動收入。
 
