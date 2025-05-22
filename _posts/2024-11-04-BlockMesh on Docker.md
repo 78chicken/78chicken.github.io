@@ -4,12 +4,12 @@ date: 2024-11-04
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 虛擬貨幣, 空投, 被動收入]
 description: "使用 Docker 掛機 BlockMesh，利用閒置網路頻寬獲取獎勵的平台。"
-image: /assets/images/bot/blockmesh/banner.png
+image: /assets/images/bot/blockmesh/banner.webp
 written_by: 機掰雞
 lang: zh-TW
 ---
 
-![BlockMesh 封面圖](/assets/images/bot/blockmesh/banner.png)
+![BlockMesh 封面圖](/assets/images/bot/blockmesh/banner.webp)
 
 **BlockMesh Network** 是一個利用閒置網路頻寬獲取獎勵的平台，只要背景掛機就能穩定賺取被動收入。與其他同類型平台不同，BlockMesh 支援使用 Docker 部署，設定簡單，跨平台支援佳，適合長期穩定執行。
 
