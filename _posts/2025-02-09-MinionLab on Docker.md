@@ -4,12 +4,12 @@ date: 2025-02-09
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, 空投]
 description: "透過 Docker 掛機 MinionLab（前稱 StreamAi），僅需提供帳密即可自動化執行，轉換閒置資源為收益。"
-image: /assets/images/bot/minionlab/banner.png
+image: /assets/images/bot/minionlab/banner.webp
 written_by: "機掰雞"
 lang: zh-TW
 ---
 
-![MinionLab 封面圖](/assets/images/bot/minionlab/banner.png)
+![MinionLab 封面圖](/assets/images/bot/minionlab/banner.webp)
 
 **MinionLab**（前稱 **Stream AI**）是一個結合 AI 與區塊鏈的去中心化自主代理平台，透過裝置資源貢獻與自動化任務完成，讓用戶輕鬆賺取 MINAI 積分，進一步參與 Web3 資訊經濟網絡。
 

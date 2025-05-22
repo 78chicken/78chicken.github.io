@@ -76,7 +76,7 @@ eyJhbGciOiJIUzI1NiJ9.eyJ...
 4. 複製 accessToken- 對應的值
 5. 貼入 tokens.txt
 
-![Teneo token](/assets/images/bot/teneo/img_1.png)
+![Teneo token](/assets/images/bot/teneo/img_1.webp)
 
 ## 🐳 Docker 執行指令
 ```bash
