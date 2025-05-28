@@ -1,6 +1,7 @@
 ---
 title: "Taker Protocol on Docker"
 date: 2025-05-23
+updated: 2025-05-29
 categories: [quest]
 tags: [Docker, 空投, 掛機, 被動收入, 虛擬貨幣, 自動化]
 description: "參與 Taker Lite Mining 空投活動，完成每日任務與掛機任務，賺取 TAKER 代幣。"
@@ -10,6 +11,9 @@ lang: zh-TW
 ---
 
 ![Taker 空投封面圖](/assets/images/quest/taker/banner.webp)
+> 📢 **【2025-05-29 更新通知】**
+>
+> 版本更新
 
 Taker 是一個專注於比特幣流動性的區塊鏈協議，透過創新的 NPOL（Nominated Proof-of-Liquidity）共識機制，將流動性提供者的激勵與生態系統的成長結合，打造一個去中心化且高效的比特幣激勵層。用戶可以透過參與 Lite Mining 空投活動，完成每日任務與掛機任務，賺取 TAKER 代幣。
 

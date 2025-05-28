@@ -1,6 +1,7 @@
 ---
 title: "Bless on Docker"
 date: 2025-02-15
+updated: 2025-05-29
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, depin, 虛擬貨幣, airdrop, 空投, 被動收入]
 description: "使用 Docker 快速部署 Bless 節點，參與去中心化網路任務與獎勵機制，輕鬆賺取代幣與空投，無需 KYC 或高效能設備。"
@@ -9,6 +10,10 @@ written_by: 機掰雞
 lang: zh-TW
 ---
 ![Bless 封面圖](/assets/images/bot/bless/banner.webp)
+> 📢 **【2025-05-29 更新通知】**
+>
+> 版本更新，設定檔格式更新，請參照下方教學修改
+
 
 Bless 是一個由 Binance Labs 與 Akash Network 校友創立的分散式邊緣運算平台，旨在利用全球閒置的計算資源，打造去中心化的 AI 計算基礎設施。透過 Docker 部署，您可以輕鬆參與並獲取代幣獎勵。
 
@@ -60,9 +65,12 @@ Bless 是一個由 Binance Labs 與 Akash Network 校友創立的分散式邊緣
 ```json
 [
   {
-    "Token": "eyJhb...........gytbt0U",
-    "PubKey": [
-      "12D3Ko.............oWYzkrfo6x"
+    "B7S_AUTH_TOKEN": "eyJhbG......Q9gcS4",
+    "Nodes": [
+      {
+        "PubKey": "12D.....oCJ9PV",
+        "HardwareId": "67a6....115c"
+      }
     ]
   }
 ]
@@ -70,10 +78,13 @@ Bless 是一個由 Binance Labs 與 Akash Network 校友創立的分散式邊緣
 ## 🔑 如何取得這些資訊？
 
 1. 安裝 Chrome extension 並登入 Bless 帳號，系統會自動建立一個 Node
-2. 在DashBoard找到NodeID -> 點選F12 -> Network -> 找到跟NodeID相同名稱 -> 取得PubKey 跟userId,如下圖
+2. 在DashBoard -> 點選F12 -> Application -> Local Storage-> B7S_AUTH_TOKEN
 ![Bless img1](/assets/images/bot/bless/img_1.webp)
-3. 在DashBoard -> 點選F12 -> Network -> 找到跟NodeID相同名稱 (或是其他頁面都可,下方截圖使用MyNodes頁面) -> Headers -> Authorization ->取得Bearer之後的就是需要的toekn
-![Bless img2](/assets/images/bot/bless/img_2.webp)
+3. PubKey = Your Node ID
+4. HardwareId 你可以自取一個唯一值
+
+> ❗ **轉換小技巧**，保留上一份的設定,直接把Token = B7S_AUTH_TOKEN  
+> PubKey沿用;若你有更舊的版本應該也有HardwareId,也可以拿來使用
 
 ---
    
