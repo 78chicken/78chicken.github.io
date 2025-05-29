@@ -131,7 +131,9 @@
     src="{{ '/app.min.js' | relative_url }}?baseurl={{ site.baseurl | default: '' }}&register={{ site.pwa.cache.enabled }}"
   ></script>
   {% endif %}
-
+  <!--Google廣告-->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9171635530224155"
+          crossorigin="anonymous"></script>
   <!-- Web Analytics -->
   {% for analytics in site.analytics %}
   {% capture str %}{{ analytics }}{% endcapture %}
