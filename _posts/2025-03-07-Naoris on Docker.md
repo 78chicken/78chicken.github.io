@@ -35,11 +35,7 @@ lang: zh-TW
 
 ---
 
-## ⚠️ 注意事項
-
-> - 此工具為非官方版本，使用上請自行評估資安與帳號風險。
-> - Chrome Extension 的「Protection 開關」若開啟，會影響某些網站瀏覽，請善用白名單功能。
-> - 本專案 Docker 映像僅為機掰雞自行封裝，非 Naoris 官方開發。
+{% include warning.md %}
 
 ---
 

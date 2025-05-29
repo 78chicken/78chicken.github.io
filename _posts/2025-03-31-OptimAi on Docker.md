@@ -44,20 +44,6 @@ lang: zh-TW
 
 ---
 
-## 💡 如何參與
-
-### 成為 OptimAI 節點
-
-- 下載並運行 OptimAI 節點，貢獻你的設備資源，參與數據挖掘、驗證與強化學習。
-- 節點類型包括：Lite Node、Core Node、Edge Node，支援多平台安裝（Chrome、Firefox、Opera 等）。
-
-### 賺取 OPI 代幣
-
-- 透過貢獻計算資源、頻寬與反饋，獲得 OPI 代幣獎勵。
-- OPI 代幣可用於參與網絡治理、支付服務費用等。
-
----
-
 ## 📝 註冊帳號
 
 👉 [立即註冊 OptimAI](https://node.optimai.network/register?ref=97E28114)
@@ -73,9 +59,11 @@ lang: zh-TW
 
 ---
 
-## 📄 準備 `accounts.json`
+{% include warning.md %}
 
-> 建立 `accounts.json` 檔案，格式如下（支援多組帳號）：
+---
+## 📁 運行前準備
+準備 `accounts.json` 檔案，格式如下（支援多組帳號）：
 
 ```json
 [

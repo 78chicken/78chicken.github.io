@@ -1,5 +1,5 @@
 ---
-title: "Kite AI：去中心化 AI 經濟基礎設施"
+title: "KiteAi on Docker"
 date: 2025-05-29
 categories: [quest]
 tags: [AI, 區塊鏈, 空投, 去中心化, 自動化, 被動收入]
@@ -7,7 +7,6 @@ description: "參與 Kite AI 激勵測試網，探索去中心化 AI 經濟，�
 image: /assets/images/quest/kiteai/banner.webp
 written_by: 機掰雞
 lang: zh-TW
-published: false
 ---
 
 ![Kite AI 空投封面圖](/assets/images/quest/kiteai/banner.webp)
@@ -35,7 +34,7 @@ Kite AI 是一個專為人工智慧（AI）設計的主權 Layer-1 區塊鏈，�
 
 ## 📝 註冊帳號
 
-👉 [立即註冊 Kite AI](https://testnet.gokite.ai/?r=82KK8)
+👉 [立即註冊 Kite AI](https://testnet.gokite.ai?referralCode=7DIJ35MW)
 
 🎉 使用機掰雞的邀請連結註冊後，**我將獲得你收益的一點點雞飼料作為回饋**（不影響你的收益）。
 
@@ -43,32 +42,33 @@ Kite AI 是一個專為人工智慧（AI）設計的主權 Layer-1 區塊鏈，�
 
 ## 🔗 連結
 
-- 🌐 官方網站：[https://gokite.ai](https://gokite.ai)
-- 🐙 GitHub 倉庫：[dandan0x1/GoKiteai_Ai_Bot](https://github.com/dandan0x1/GoKiteai_Ai_Bot)
+- 🌐 官方網站：[Kite.Ai](https://gokite.ai)
+- 🐳 Docker image：[78chicken/bless](https://hub.docker.com/r/78chicken/kiteai)
 
 ---
 
-## 🛡️ 使用提醒
-
-- 本項目處於測試階段，**請自行評估風險**，謹慎參與。
-- 若遇帳號風控、鎖定、資安疑慮請立即停止使用。
-- 本文僅供參考，**不構成任何投資建議**。
+{% include warning.md %}
 
 ---
+## 📁 運行前準備
 
-## 📁 參與方式
-
-1. 訪問 [Kite AI 測試網頁面](https://testnet.gokite.ai/?r=82KK8)，將加密錢包連接到測試網環境。
-2. 完成社交任務：在 X（Twitter）上關注 @GoKiteAI 並加入 Telegram 社區。
-3. 與 Kite AI 代理互動：與 Professor、Sherlock 和 Crypto Buddy 等 AI 代理進行互動。
-4. 分享推薦連結：邀請朋友註冊並完成任務，即可獲得額外 XP。
-5. 查看排行榜：透過儀錶板追蹤進度，爬上排行榜以獲得更多代幣獎勵。
-
+請準備好 `accounts.txt`，內容如下：
+```txt
+your_evm(EOA)_address_1
+EX:
+0x733637......2e2d757
+```
 ---
 
-## 📚 延伸閱讀
+## 🐳 Docker 執行方式
+請根據你的實際檔案路徑替換 /opt/kiteai/accounts.txt：
 
-- [什麼是 Kite AI？深入瞭解其區塊鏈和空投細節](https://www.bitrue.com/zh-hant/blog/what-is-kite-ai-and-its-airdrop)
-- [Kite AI 激勵測試網上線，開啟去中心化 AI 經濟新時代](https://www.odaily.news/zhtw/post/5201567)
-
+```bash
+docker run -d --restart always --replace -m 50M \
+-v /opt/kiteai/accounts.txt:/app/kiteai/accounts.txt \
+--name KiteAi \
+docker.io/78chicken/kiteai:latest
+```
 ---
+
+{% include quest-note.md %}
