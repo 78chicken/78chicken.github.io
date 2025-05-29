@@ -1,12 +1,16 @@
 <head>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-FFEVDP07VR"></script>
   <!--google GA4-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-FFEVDP07VR"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
     gtag('config', 'G-FFEVDP07VR');
+  </script>
+  <!--Google廣告-->
+  <script async custom-element="amp-auto-ads"
+          src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
   </script>
 
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -131,10 +135,7 @@
     src="{{ '/app.min.js' | relative_url }}?baseurl={{ site.baseurl | default: '' }}&register={{ site.pwa.cache.enabled }}"
   ></script>
   {% endif %}
-  <!--Google廣告-->
-  <script async custom-element="amp-auto-ads"
-          src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
-  </script>
+
   <!-- Web Analytics -->
   {% for analytics in site.analytics %}
   {% capture str %}{{ analytics }}{% endcapture %}
