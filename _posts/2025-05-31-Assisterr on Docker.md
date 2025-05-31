@@ -45,7 +45,7 @@ lang: zh-TW
 ## 🔗 官方連結整理
 
 - 🌐 官網：[Assisterr.ai](https://assisterr.ai)
-- 🐳 Docker image：[78chicken/bless](https://hub.docker.com/r/78chicken/kiteai)
+- 🐳 Docker image：[78chicken/assisterr](https://hub.docker.com/r/78chicken/assisterr)
 
 ---
 
@@ -53,18 +53,6 @@ lang: zh-TW
 
 ---
 
----
-
-## 🔗 連結
-
-- 🌐 官方網站：[Kite.Ai](https://gokite.ai)
-- 🐳 Docker image：[78chicken/bless](https://hub.docker.com/r/78chicken/kiteai)
-
----
-
-{% include warning.md %}
-
----
 ## 📁 運行前準備
 
 請準備好 `accounts.txt`，內容如下：
