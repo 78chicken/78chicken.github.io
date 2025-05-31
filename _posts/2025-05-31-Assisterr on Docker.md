@@ -1,5 +1,5 @@
 ---
-title: "Assisterr AI：社群擁有的去中心化 AI 平台"
+title: "Assisterr on Docker"
 date: 2025-05-31
 categories: [quest]
 tags: [AI, 區塊鏈, 去中心化, 自動化, 被動收入, SLM]
