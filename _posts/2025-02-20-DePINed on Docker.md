@@ -10,6 +10,9 @@ lang: zh-TW
 ---
 
 ![DePINed 封面圖](/assets/images/bot/depined/banner.webp)
+> 📢 **【2025-06-01 更新通知】**
+>
+> 映像檔更新
 
 DePINed 是一個結合區塊鏈與現實任務的去中心化任務平台，讓用戶能透過簡單的行動參與分潤與獎勵，打造人人都能參與的 Web3 去中心化經濟。
 
