@@ -1,6 +1,7 @@
 ---
 title: "KiteAi on Docker"
 date: 2025-05-30
+updated: 2025-06-03
 categories: [quest]
 tags: [AI, 區塊鏈, 空投, 去中心化, 自動化, 被動收入]
 description: "參與 Kite AI 激勵測試網，探索去中心化 AI 經濟，完成任務獲得代幣獎勵。"
@@ -11,6 +12,9 @@ lang: zh-TW
 
 ![Kite AI 空投封面圖](/assets/images/quest/kiteai/banner.webp)
 
+> 📢 **【2025-06-03 更新通知】**
+>
+> 映像檔更新
 
 Kite AI 是一個專為人工智慧（AI）設計的主權 Layer-1 區塊鏈，旨在實現數據、模型與智能體之間的公平透明協作。透過創新的 PoAI（Proof of Attributed Intelligence）共識機制，確保所有貢獻者的公平歸因與透明獎勵。
 

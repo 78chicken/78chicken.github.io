@@ -1,7 +1,7 @@
 ---
 title: "DDAI Network on Docker"
 date: 2025-05-09
-updated: 2025-05-19
+updated: 2025-06-03
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, depin, 虛擬貨幣, airdrop, 空投, 被動收入]
 description: "DDAI Network 是一個融合人工智慧（AI）與區塊鏈技術的去中心化平台，旨在建立一個開放且協作的 AI 生態系統。該平台致力於提供高效、安全且可擴展的 AI 解決方案，促進數據共享與 AI 模型的協同發展"
@@ -10,9 +10,10 @@ written_by: 機掰雞
 lang: zh-TW
 ---
 ![DDAI 封面圖](/assets/images/bot/ddai/banner.webp)
-> 📢 **【2025-05-19 更新通知】**
+
+> 📢 **【2025-06-03 更新通知】**
 >
-> 設定檔格式變更 & 更新 Docker 映像  
+> 映像檔更新
  
 # DDAI Network 簡介
 
