@@ -1,6 +1,7 @@
 ---
 title: "NodePay on Docker"
 date: 2024-12-22
+updated: 2025-06-06
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 虛擬貨幣, 空投, 被動收入]
 description: "使用 Docker 快速部署 NodePay 自動任務腳本，每週更新 token 即可掛機賺點數，支援自動完成平台任務。"
@@ -9,6 +10,9 @@ written_by: 機掰雞
 lang: zh-TW
 ---
 ![NodePay 封面圖](/assets/images/bot/nodepay/banner.webp)
+> 📢 **【2025-06-06 更新通知】**
+>
+> 版本更新，設定檔格式更新，請參照下方教學修改
 
 Nodepay 提供了一個低門檻的方式，讓用戶可以在無需高性能設備的情況下，參與到區塊鏈生態中，並支持 AI 和數據密集型需求。
 
@@ -69,20 +73,28 @@ Nodepay 提供了一個低門檻的方式，讓用戶可以在無需高性能設
 
 ## 📁 運行前準備
 
-請建立 `tokens.txt` 檔案，裡面放置你的登入 token（通常每週需要更新一次）
-
+請建立 `accounts.json` 檔案，裡面放置你的登入 token（通常每週需要更新一次）
+```json
+[
+   {
+     "Email": "your email",
+     "npToken": "your token"
+   }
+ ]
+```
 📌 取得 token 的方式如下:
 ![NodePay token](/assets/images/bot/nodepay/img_1.webp)
+
 ---
 
 ## 🐳 Docker 執行指令
 
-請根據你的實際檔案路徑替換 `/opt/nodepay/tokens.txt`：
+請根據你的實際檔案路徑替換 `/opt/nodepay/accounts.json`：
 
 ```bash
 #/opt/nodepay/tokens.txt 請換成你的實際路徑
 docker run -d --restart always --replace -m 50M \
--v /opt/nodepay/tokens.txt:/app/nodepay/tokens.txt \
+-v /opt/nodepay/accounts.json:/app/nodepay/accounts.json \
 --name Nodepay \
 docker.io/78chicken/nodepay:latest
 ```
