@@ -1,6 +1,6 @@
 ---
 title: "LayerEdge on Docker"
-date: 2025-06-04
+date: 2025-06-05
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, depin, 虛擬貨幣, airdrop, 空投, 被動收入]
 description: "LayerEdge 是一個去中心化的模組化區塊鏈平台，透過零知識證明（ZK）與 BitVM 技術，將比特幣網絡轉變為支持 AI、DePIN 等應用的去中心化超級計算機。"
