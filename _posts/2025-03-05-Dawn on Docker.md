@@ -1,7 +1,7 @@
 ---
 title: "Dawn on Docker"
 date: 2025-03-05
-updated: 2025-06-06
+updated: 2025-06-08
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, 分享頻寬]
 description: "透過 Docker 掛機 Dawn，分享閒置頻寬賺取獎勵積分，只需提供 Email 與 Token，快速啟動！"
@@ -11,9 +11,9 @@ lang: zh-TW
 ---
 
 ![Dawn 封面圖](/assets/images/bot/dawn/banner.webp)
-> 📢 **【2025-06-06 更新通知】**
+> 📢 **【2025-06-08 更新通知】**
 >
-> 映像檔更新
+> 映像檔更新,設定檔名稱變更(accounts.json->tokens.json)
 
 --- 
 
@@ -66,9 +66,9 @@ Dawn 是一個致力於打造去中心化無線網路的創新平台，讓用戶
 
 ---
 
-## 📄 準備 `accounts.json`
+## 📄 準備 `tokens.json`
 
-> 建立 `accounts.json` 檔案，內含你的 Email 與 Token（可支援多組帳號）：
+> 建立 `tokens.json` 檔案，內含你的 Email 與 Token（可支援多組帳號）：
 >
 > ```json
 > [
@@ -100,6 +100,6 @@ Dawn 是一個致力於打造去中心化無線網路的創新平台，讓用戶
 # -v /opt/dawn/accounts.json 請換成你自己的路徑
 docker run -d --restart always --replace -m 50M \
 --name Dawn \
--v /opt/dawn/accounts.json:/app/dawn/accounts.json \
+-v /opt/dawn/tokens.json:/app/dawn/tokens.json \
 docker.io/78chicken/dawn:latest
 ```

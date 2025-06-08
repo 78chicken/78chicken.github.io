@@ -1,6 +1,7 @@
 ---
 title: "DePINed on Docker"
 date: 2025-02-20
+updated: 2025-06-08
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, depin, 去中心化, 空投]
 description: "使用 Docker 快速部署 DePINed 節點，參與去中心化任務平台，自動化獲取代幣與空投獎勵，無需 KYC 或高效能設備即可加入。"
@@ -10,7 +11,7 @@ lang: zh-TW
 ---
 
 ![DePINed 封面圖](/assets/images/bot/depined/banner.webp)
-> 📢 **【2025-06-01 更新通知】**
+> 📢 **【2025-06-08 更新通知】**
 >
 > 映像檔更新
 

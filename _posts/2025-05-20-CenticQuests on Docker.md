@@ -1,6 +1,7 @@
 ---
 title: "CenticQuests on Docker"
 date: 2025-05-20
+updated: 2025-06-08
 categories: [quest]
 tags: [Docker, 網路賺錢, 掛機, depin, 虛擬貨幣, airdrop, 空投, 被動收入]
 description: "Centic 是一個 Web3 智能數據基礎設施平台，透過整合鏈上與鏈下資料，提供實體評分、行為洞察與成長分析，協助用戶與企業深入了解 Web3 生態系統。"
@@ -9,7 +10,9 @@ written_by: 機掰雞
 lang: zh-TW
 ---
 ![DDAI 封面圖](/assets/images/quest/centic/banner.webp)
-
+> 📢 **【2025-06-08 更新通知】**
+>
+> 映像檔更新
 # CenticQuests 簡介
 
 **Centic** 是一個 Web3 智能數據基礎設施平台，致力於將來自區塊鏈網路的原始資料轉化為可操作的智能資訊。透過整合鏈上（如交易、合約、地址）與鏈下（如社交媒體、新聞、市場數據）資料，Centic 為用戶提供全面的 Web3 實體洞察與評分系統。
