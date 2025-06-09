@@ -14,12 +14,12 @@ timezone: Asia/Taipei
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 機掰雞の外快人生 # the main title
+title: 機掰雞の外快人生｜機掰雞的外快人生｜副業筆記 # 增加關鍵字變體
 
-tagline: 掛機 × 自動賺錢 × 副業筆記 # it will display as the subtitle
+tagline: 掛機 × 自動賺錢 × 副業筆記｜機掰雞外快人生 # 副標加入搜尋變體
 
-description: >- # used by seo meta and the atom feed
-  掛機 × 自動賺錢 × 副業筆記，分享關於自動化賺錢的實用技巧與副業經驗，幫助你輕鬆實現額外收入。
+description: >-
+  機掰雞の外快人生，也常被搜尋為機掰雞的外快人生、機掰雞外快人生。這裡分享掛機、自動賺錢、副業筆記，包含自動化賺錢技巧、外快心得，幫助你輕鬆建立額外收入。
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
