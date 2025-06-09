@@ -1,7 +1,7 @@
 ---
 title: "Dawn on Docker"
 date: 2025-03-05
-updated: 2025-06-08
+updated: 2025-06-10
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, 分享頻寬]
 description: "透過 Docker 掛機 Dawn，分享閒置頻寬賺取獎勵積分，只需提供 Email 與 Token，快速啟動！"
@@ -11,9 +11,9 @@ lang: zh-TW
 ---
 
 ![Dawn 封面圖](/assets/images/bot/dawn/banner.webp)
-> 📢 **【2025-06-08 更新通知】**
+> 📢 **【2025-06-10 更新通知】**
 >
-> 映像檔更新,設定檔名稱變更(accounts.json->tokens.json)
+> 映像檔更新
 
 --- 
 
