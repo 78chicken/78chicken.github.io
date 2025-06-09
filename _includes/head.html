@@ -15,11 +15,15 @@
   <meta name="google-site-verification" content="B3qTpDdeg5TieRmiJ-_qLPZfjOuYhkVV_MKqFf_mMqo" />
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="google-adsense-account" content="ca-pub-9171635530224155">
-  <meta name="description" content="{{ page.description | default: site.description }}">
+  {%- capture combined_description -%}
+  {{ page.description | default: site.description }} | 分享機掰雞外快人生、掛機、自動賺錢及副業筆記的實用內容與經驗。
+  {%- endcapture -%}
+  <meta name="description" content="{{ combined_description }}">
+  <meta name="keywords" content="機掰雞外快人生,機掰雞的外快人生,機掰雞の外快人生">
   <meta property="og:title" content="{{ page.title | default: site.title }}">
-  <meta property="og:description" content="{{ page.description | default: site.description }}">
+  <meta property="og:description" content="{{ combined_description }}">
   <meta name="twitter:title" content="{{ page.title | default: site.title }}">
-  <meta name="twitter:description" content="{{ page.description | default: site.description }}">
+  <meta name="twitter:description" content="{{ combined_description }}">
   <meta name="theme-color" media="(prefers-color-scheme: light)" content="#f7f7f7">
   <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#1b1b1e">
   <meta name="mobile-web-app-capable" content="yes">
@@ -29,10 +33,6 @@
     name="viewport"
     content="width=device-width, user-scalable=no, initial-scale=1, shrink-to-fit=no, viewport-fit=cover"
   >
-
-  {%- capture seo_tags -%}
-  {% seo title=false %}
-  {%- endcapture -%}
 
   <!-- Setup Open Graph image -->
 
