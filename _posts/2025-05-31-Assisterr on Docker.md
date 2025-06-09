@@ -1,6 +1,7 @@
 ---
 title: "Assisterr on Docker"
 date: 2025-05-31
+updated: 2025-06-10
 categories: [quest]
 tags: [AI, 區塊鏈, 去中心化, 自動化, 被動收入, SLM]
 description: "探索 Assisterr AI 平台，打造並變現小型語言模型（SLM），加入去中心化 AI 生態系，公平參與並獲得獎勵。"
@@ -10,6 +11,9 @@ lang: zh-TW
 ---
 
 ![Assisterr AI 平台封面圖](/assets/images/quest/assisterr/banner.webp)
+> 📢 **【2025-06-10 更新通知】**
+>
+> 映像檔更新
 
 **Assisterr AI** 是一個去中心化的人工智慧平台，主打以「社群擁有」為核心理念。透過小型語言模型（SLM）和去信任化的 AI 協作架構，讓更多人能公平參與、共創與共享 AI 的價值，打造開放又可持續的智慧經濟。
 
