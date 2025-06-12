@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://78chicken.github.io/sitemap.xml
