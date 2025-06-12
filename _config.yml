@@ -210,7 +210,14 @@ exclude:
   - purgecss.js
   - rollup.config.js
   - "package*.json"
-
+  - assets
+  - app.min
+  - sw.min
+  - feed.xml
+  - browserconfig.xml
+  - site.webmanifest
+  - robots.txt
+  - redirects.json
 
 jekyll-archives:
   enabled: [categories, tags]
@@ -220,6 +227,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
-plugins:
-  - jekyll-sitemap
