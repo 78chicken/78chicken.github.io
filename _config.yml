@@ -41,7 +41,7 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: vH73qKnIgzuYJ9QyIZS_FzIGW4rwcrFZprjiQvjnnzk
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
@@ -54,7 +54,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: 354106037
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -224,3 +224,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-redirect-from
+
