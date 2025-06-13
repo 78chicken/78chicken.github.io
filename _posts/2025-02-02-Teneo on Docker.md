@@ -1,6 +1,7 @@
 ---
 title: "Teneo on Docker"
 date: 2025-02-02
+updated: 2025-06-12
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣]
 description: "使用 Docker 掛機 Teneo，將裝置閒置資源轉換為 Teneo Point，輕鬆實現被動收入。"
