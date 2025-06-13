@@ -1,6 +1,7 @@
 ---
 title: "Unich on Docker"
 date: 2025-03-19
+updated: 2025-06-12
 categories: [quest]
 tags: [Docker, 空投, 掛機, 被動收入, 虛擬貨幣, 自動化]
 description: "參與 Unich 空投活動，完成每日任務與 Tap-to-Earn 掛機任務，賺取 Freedom Points 並兌換 UN 代幣。"
@@ -10,6 +11,9 @@ lang: zh-TW
 ---
 
 ![Unich 空投封面圖](/assets/images/quest/unich/banner.webp)
+> 📢 **【更新通知】**
+>
+> 映像檔更新
 
 Unich是一個基於區塊鏈技術的一站式場外交易（OTC）平台，專注於加密貨幣交易。
 讓用戶能夠更早參與新興代幣的交易，並通過其空投計劃（Airdrop Program）吸引用戶參與。空投活動中，
