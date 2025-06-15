@@ -1,6 +1,7 @@
 ---
 title: "OpenLoop on Docker"
 date: 2025-01-27
+updated: 2025-06-16
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣]
 description: "使用 Docker 掛機 OpenLoop，將裝置閒置資源轉換為獎勵，輕鬆實現被動收入。"
@@ -10,6 +11,9 @@ lang: zh-TW
 ---
 
 ![OpenLoop 封面圖](/assets/images/bot/openloop/banner.webp)
+> 📢 **【更新通知】**
+>
+> 映像檔更新,設定方式及名稱更新
 
 **OpenLoop** 是一個專注於基礎設施驗證的 DePIN 專案，任何人都能運行節點參與鏈上驗證流程，協助 OpenLoop 協議運作，同時獲得代幣獎勵與空投機會。
 
@@ -50,18 +54,24 @@ lang: zh-TW
 
 ---
 
-### 📄 準備 `tokens.txt`
+### 📄 準備 `tokens.json`
 
-請先準備一份 `tokens.txt`，內容為你的 Token，每行一個，例如：
+請先準備一份 `tokens.json`，內容為你的 Token，每行一個，例如：
 > #建議每個帳號使用不同 IP 掛機，以降低風險
-> 
-> eyJhbGciOiJIUzI1N........TFTMzaXuKZc
+```json
+[
+    {
+        "Email": "Your Email",
+        "accessToken": "eyJhbGciOiJIUzI1N........TFTMzaXuKZc"
+    }
+]
+```
 
 ## 🔍 如何取得 Token？
 
 1. 登入 OpenLoop
 2. Dashboard Page->F12
-3. 複製Token，貼到 `tokens.txt` 中
+3. 複製Token，貼到 `tokens.json` 中
 ![OpenLoop token](/assets/images/bot/openloop/img_1.webp)
 
 ## 🐳 Docker 執行指令
@@ -69,6 +79,6 @@ lang: zh-TW
 #-v /opt/openloop/tokens.txt 請改成你自己的路徑 
 docker run -d --restart always -m 50M \
 --name OpenLoop \
--v /opt/openloop/tokens.txt:/app/openloop/tokens.txt \
+-v /opt/openloop/tokens.json:/app/openloop/tokens.json \
 docker.io/78chicken/openloop:latest
 ```

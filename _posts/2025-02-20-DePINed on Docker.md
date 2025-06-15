@@ -1,7 +1,7 @@
 ---
 title: "DePINed on Docker"
 date: 2025-02-20
-updated: 2025-06-08
+updated: 2025-06-16
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, depin, 去中心化, 空投]
 description: "使用 Docker 快速部署 DePINed 節點，參與去中心化任務平台，自動化獲取代幣與空投獎勵，無需 KYC 或高效能設備即可加入。"
@@ -11,9 +11,9 @@ lang: zh-TW
 ---
 
 ![DePINed 封面圖](/assets/images/bot/depined/banner.webp)
-> 📢 **【2025-06-08 更新通知】**
+> 📢 **【更新通知】**
 >
-> 映像檔更新
+> 映像檔更新,設定方式及名稱更新
 
 DePINed 是一個結合區塊鏈與現實任務的去中心化任務平台，讓用戶能透過簡單的行動參與分潤與獎勵，打造人人都能參與的 Web3 去中心化經濟。
 
@@ -56,21 +56,21 @@ DePINed 是一個結合區塊鏈與現實任務的去中心化任務平台，讓
 
 ## 📁 運行前準備
 
-請準備好 `accounts.json` 檔案，其內容格式如下（可支援多組帳號但建議每個 IP 只運行一組帳號）：
+請準備好 `tokens.json` 檔案，其內容格式如下（可支援多組帳號但建議每個 IP 只運行一組帳號）：
 ```json
 [
     {
-        "Email": "你的EMAIL",
-        "Password": "你的密碼"
+        "Email": "Your EMAIL",
+        "accessToken": "eyJhbGciOiJIUzI1N........TFTMzaXuKZc"
     }
 ]
 ```
 ## 🐳 Docker 執行方式
-請根據你的實際檔案路徑替換 /opt/depined/accounts.json：
+請根據你的實際檔案路徑替換 /opt/depined/tokens.json：
 
 ```bash
 docker run -d --restart always -m 50M \
 --name DePINed \
--v /opt/depined/accounts.json:/app/depined/accounts.json \
+-v /opt/depined/tokens.json:/app/depined/tokens.json \
 docker.io/78chicken/depined:latest
 ```
