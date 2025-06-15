@@ -1,6 +1,7 @@
 ---
 title: "Teneo on Docker"
 date: 2025-02-02
+updated: 2025-06-12
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣]
 description: "使用 Docker 掛機 Teneo，將裝置閒置資源轉換為 Teneo Point，輕鬆實現被動收入。"
@@ -10,6 +11,9 @@ lang: zh-TW
 ---
 
 ![Teneo 封面圖](/assets/images/bot/teneo/banner.webp)
+> 📢 **【更新通知】**
+>
+> 映像檔更新,設定格式更新
 
 **Teneo** 是一個去中心化的社交媒體數據解鎖平台，旨在讓用戶透過運行瀏覽器端的 AI 節點（Community Node），貢獻計算資源以解鎖公開的社交媒體數據，並獲得回報。該平台強調用戶隱私，僅處理公開數據，並以去中心化的方式運作，讓數據回歸用戶所有。
 
@@ -55,13 +59,18 @@ lang: zh-TW
 
 ---
 
-### 📄 準備 `tokens.txt`
+### 📄 準備 `tokens.json`
 
-建立一份 `tokens.txt` 檔案，內容如下，每行一個帳號的 Token：
+建立一份 `tokens.json` 檔案，內容如下，每行一個帳號的 Token：
 
 ```txt
 # 建議每帳號搭配一個獨立 IP 運行，避免封號
-eyJhbGciOiJIUzI1NiJ9.eyJ...
+[
+    {
+        "Email": "Your Email",
+        "accessToken": "eyJhbGciOiJ..........klKsADlIlm8M"
+    }
+]
 ```
 
 ## 🔍 如何取得 Token？
@@ -69,7 +78,7 @@ eyJhbGciOiJIUzI1NiJ9.eyJ...
 2. 按下 F12 開啟開發者工具
 3. 前往 Application → Storage → Local Storage
 4. 複製 accessToken- 對應的值
-5. 貼入 tokens.txt
+5. 貼入 tokens.json
 
 ![Teneo token](/assets/images/bot/teneo/img_1.webp)
 
@@ -77,7 +86,7 @@ eyJhbGciOiJIUzI1NiJ9.eyJ...
 ```bash
 # -v /opt/teneo/tokens.txt 請改成你自己的檔案路徑
 docker run -d --restart always -m 50M \
--v /opt/teneo/tokens.txt:/app/teneo/tokens.txt \
+-v /opt/teneo/tokens.json:/app/teneo/tokens.json \
 --name Teneo \
 docker.io/78chicken/teneo:latest
 ```
