@@ -51,7 +51,7 @@ PacketStream 是一個將閒置網路頻寬變現的平台，用戶可以分享�
 請將 `你的代碼` 替換為你在 PacketStream 後台取得的 CID：
 
 ```bash
-sudo docker run -d --restart=always --replace -m 64M \
+sudo docker run -d --restart=always -m 64M \
 -e CID=你的代碼 \
 --name psclient \
 packetstream/psclient:latest

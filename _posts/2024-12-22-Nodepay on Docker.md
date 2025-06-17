@@ -93,7 +93,7 @@ Nodepay 提供了一個低門檻的方式，讓用戶可以在無需高性能設
 
 ```bash
 #/opt/nodepay/tokens.txt 請換成你的實際路徑
-docker run -d --restart always --replace -m 50M \
+docker run -d --restart always -m 50M \
 -v /opt/nodepay/tokens.json:/app/nodepay/tokens.json \
 --name Nodepay \
 docker.io/78chicken/nodepay:latest

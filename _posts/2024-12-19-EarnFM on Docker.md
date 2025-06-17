@@ -40,7 +40,7 @@ Earn.fm 是一個讓用戶透過分享閒置網路頻寬來賺取被動收入的
 請先到 [Earn.fm 註冊後的儀表板](https://earn.fm/ref/YAMAZTYC) 找到你的 `API Token`，並用以下指令替換。
 
 ```bash
-docker run -d --restart=always --replace -m 64M \
+docker run -d --restart=always -m 64M \
 -e EARNFM_TOKEN=你的API_KEY \
 --name EarnFm \
 earnfm/earnfm-client

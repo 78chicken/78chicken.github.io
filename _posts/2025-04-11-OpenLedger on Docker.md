@@ -83,7 +83,7 @@ Chrome → 打開 OpenLedger Dashboard → F12 → Network → 搜尋 me → 找
 
 ```bash
 #/opt/openledger/accounts.json 請改成你自己的路徑
-docker run -d --restart always --replace -m 50M \
+docker run -d --restart always -m 50M \
 -v /opt/openledger/accounts.json:/app/openledger/accounts.json \
 --name OpenLedger \
 docker.io/78chicken/openledger:latest

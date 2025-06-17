@@ -39,7 +39,7 @@ lang: zh-TW
 
 ```bash
 # 參數：背景執行 / 使用 Host 網路 / 開機自動啟動 / 限制記憶體
-docker run -d --restart=always --replace -m 64M \
+docker run -d --restart=always -m 64M \
 --name Traffmonetizer \
 traffmonetizer/cli_v2
 ```

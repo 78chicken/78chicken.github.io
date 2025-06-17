@@ -79,7 +79,7 @@ Stobix 是一個專注於隱私的加密貨幣投資平台，結合人工智慧�
 請根據你的實際檔案路徑替換 `/opt/stobix/accounts.txt`：
 ```bash
 #/opt/stobix/accounts.txt請改成你自己的路徑
-docker run -d --restart always --replace -m 50M \
+docker run -d --restart always -m 50M \
 -v /opt/stobix/accounts.txt:/app/accounts.txt \
 --name Stobix \
 docker.io/78chicken/stobix

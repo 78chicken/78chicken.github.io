@@ -66,7 +66,7 @@ Cryplex 是一個去中心化儲存與 AI 訓練資料供應平台，讓用戶�
 
 請根據你的實際檔案路徑替換 `/opt/stobix/accounts.txt`：
 ```bash
-docker run -d --restart always --replace -m 50M \  
+docker run -d --restart always -m 50M \  
   -v /opt/cryplexai/tokens.txt:/app/cryplexai/tokens.txt \
   --name CryplexAi \
   docker.io/78chicken/cryplexai:latest

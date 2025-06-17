@@ -42,3 +42,4 @@ lang: zh-TW
 docker run -d --rm -m 256m \
 -e JWT_TOKEN="你的JWT Token" \
 mrlolf/honeygainautoclaim
+```

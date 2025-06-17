@@ -77,7 +77,7 @@ lang: zh-TW
 ## 🐳 Docker 執行指令
 ```bash
 # -v /opt/minionlab/accounts.json 請改成你自己的檔案路徑
-docker run -d --restart always --replace -m 50M \
+docker run -d --restart always -m 50M \
 -v /opt/minionlab/accounts.json:/app/minionlab/accounts.json \
 --name MinionLab \
 78chicken/minionlab:latest

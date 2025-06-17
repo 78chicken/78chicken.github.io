@@ -112,7 +112,7 @@ Uptime Payload → 對應 uptimePayload
 ## 🐳 Docker 執行指令
 ```bash
 # 請將 /opt/optimai/accounts.json 改為你本機的 JSON 檔案路徑
-docker run -d --restart always --replace  -m 50M \
+docker run -d --restart always -m 50M \
 -v /opt/optimai/accounts.json:/app/optimai/accounts.json \
 --name OptimAi \
 docker.io/78chicken/optimai:latest

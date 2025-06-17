@@ -73,7 +73,7 @@ Taker 是一個專注於比特幣流動性的區塊鏈協議，透過創新的 N
 
 請根據你的實際檔案路徑替換 `/opt/taker/accounts.txt`：
 ```bash
-docker run -d --restart always --replace -m 50M \  
+docker run -d --restart always -m 50M \  
   -v /opt/takerprotocol/accounts.txt:/app/takerprotocol/accounts.txt \
   --name TakerProtocol \
   docker.io/78chicken/takerprotocol:latest

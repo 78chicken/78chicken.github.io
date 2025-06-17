@@ -39,7 +39,7 @@ Honeygain 是一款透過分享你家中或辦公室的閒置網路頻寬，即�
 - `輸入設備名稱`：這台設備的識別名稱（可自由命名）
 
 ```bash
-docker run -d --restart always replace -m 64M \
+docker run -d --restart always -m 64M \
 --name honeygain \
 honeygain/honeygain \
 --tou-accept \

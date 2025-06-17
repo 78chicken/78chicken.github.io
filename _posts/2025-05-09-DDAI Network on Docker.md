@@ -74,7 +74,7 @@ lang: zh-TW
 
 請根據你的實際檔案路徑替換 `/opt/ddai/tokens.json`：
 ```bash
-docker run -d --restart always --replace -m 50M \  
+docker run -d --restart always -m 50M \  
   -v /opt/ddai/tokens.json:/app/ddai/tokens.json \
   --name Ddai \
   docker.io/78chicken/ddai:latest

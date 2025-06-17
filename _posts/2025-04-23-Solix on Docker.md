@@ -75,7 +75,7 @@ Solix DePIN 是一個去中心化的實體基礎設施網絡（DePIN）平台，
 
 ```bash
 #/opt/solix/accounts.json 請改成你自己的路徑
-docker run -d --restart always --replace -m 50M \
+docker run -d --restart always -m 50M \
 -v /opt/solix/accounts.json:/app/solix/accounts.json \
 --name Solix \
 docker.io/78chicken/solix:latest

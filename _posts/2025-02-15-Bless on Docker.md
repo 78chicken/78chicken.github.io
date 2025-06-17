@@ -88,7 +88,7 @@ Bless 是一個由 Binance Labs 與 Akash Network 校友創立的分散式邊緣
 請根據你的實際檔案路徑替換 /opt/bless/accounts.json：
 
 ```bash
-docker run -d --restart always --replace -m 50M \
+docker run -d --restart always -m 50M \
 -v /opt/bless/accounts.json:/app/bless/accounts.json \
 --name Bless \
 docker.io/78chicken/bless:latest

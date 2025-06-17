@@ -55,7 +55,7 @@ echo -n sdk-node- && head -c 1024 /dev/urandom | md5sum | tr -d ' -'
 然後使用產生的 UUID 重啟 container：
 ```bash
 # 使用 UUID 重啟 container
-docker run -d --restart always --replace -m 64M \
+docker run -d --restart always -m 64M \
 --name EarnApp \
 -e EARNAPP_UUID=你的Token \
 madereddy/earnapp

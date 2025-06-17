@@ -1,7 +1,7 @@
 ---
 title: "KiteAi on Docker"
 date: 2025-05-30
-updated: 2025-06-10
+updated: 2025-06-18
 categories: [quest]
 tags: [AI, 區塊鏈, 空投, 去中心化, 自動化, 被動收入]
 description: "參與 Kite AI 激勵測試網，探索去中心化 AI 經濟，完成任務獲得代幣獎勵。"
@@ -12,7 +12,7 @@ lang: zh-TW
 
 ![Kite AI 空投封面圖](/assets/images/quest/kiteai/banner.webp)
 
-> 📢 **【2025-06-10 更新通知】**
+> 📢 **【更新通知】**
 >
 > 映像檔更新
 
@@ -68,7 +68,7 @@ EX:
 請根據你的實際檔案路徑替換 /opt/kiteai/accounts.txt：
 
 ```bash
-docker run -d --restart always --replace -m 50M \
+docker run -d --restart always -m 50M \
 -v /opt/kiteai/accounts.txt:/app/kiteai/accounts.txt \
 --name KiteAi \
 docker.io/78chicken/kiteai:latest

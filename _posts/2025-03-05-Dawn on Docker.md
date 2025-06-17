@@ -98,7 +98,7 @@ Dawn 是一個致力於打造去中心化無線網路的創新平台，讓用戶
 
 ```bash
 # -v /opt/dawn/accounts.json 請換成你自己的路徑
-docker run -d --restart always --replace -m 50M \
+docker run -d --restart always -m 50M \
 --name Dawn \
 -v /opt/dawn/tokens.json:/app/dawn/tokens.json \
 docker.io/78chicken/dawn:latest

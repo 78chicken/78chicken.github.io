@@ -71,7 +71,7 @@ EX:
 請根據你的實際檔案路徑替換 /opt/assisterr/accounts.txt：
 
 ```bash
-docker run -d --restart always --replace -m 50M \
+docker run -d --restart always -m 50M \
 -v /opt/assisterr/accounts.txt:/app/assisterr/accounts.txt \
 --name Assisterr \
 docker.io/78chicken/assisterr:latest

@@ -75,7 +75,7 @@ eyJhbGciOiJIUzI1NiIsInR...........rwY5lgEZ4
 ## 🐳 Docker 執行指令
 ```bash
 # -v /opt/sparkchain/tokens.txt 請改成你自己的檔案路徑
-docker run -d --restart always --replace -m 50M \
+docker run -d --restart always -m 50M \
 -v /opt/sparkchain/tokens.txt:/app/sparkchain/tokens.txt \
 --name SparkChain \
 docker.io/78chicken/sparkchain:latest

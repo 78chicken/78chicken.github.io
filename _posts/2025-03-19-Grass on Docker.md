@@ -59,7 +59,7 @@ Grass 是一個透過分享你閒置的計算資源來賺取報酬的服務，�
 - `你的密碼`：你的 Grass 密碼
 
 ```bash
-docker run -d --restart always --replace -p 5900:5900 -m 256M \
+docker run -d --restart always -p 5900:5900 -m 256M \
 -e VNC_PASSWORD="你的VNC密碼" -e GRASS_USERNAME="你的帳號" -e GRASS_PASSWORD="你的密碼" \
 --name Grass \
 trangoul/grass-desktop:latest

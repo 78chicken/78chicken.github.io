@@ -66,7 +66,7 @@ lang: zh-TW
 
 ```bash
 #若出現權限問題，可加上 --privileged
-docker run -d --restart always --replace -m 64M \
+docker run -d --restart always -m 64M \
 -v 你的路徑:/root/.titanedge \
 --name Titan \
 noname321/titan-edge

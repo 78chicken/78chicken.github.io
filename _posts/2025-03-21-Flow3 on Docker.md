@@ -78,7 +78,7 @@ Flow3 是一個去中心化無線網路（DeWi）平台，讓使用者可以透�
 ## 🐳 Docker 執行指令
 ```bash
 # /opt/flow3/tokens.txt 請換成你自己放置的路徑
-docker run -d -m 50M --restart always --replace \
+docker run -d -m 50M --restart always \
 -v /opt/flow3/tokens.txt:/app/flow3/tokens.txt \
 --name Flow3 \
 docker.io/78chicken/flow3:latest

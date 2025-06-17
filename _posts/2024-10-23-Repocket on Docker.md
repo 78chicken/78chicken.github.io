@@ -47,7 +47,7 @@ lang: zh-TW
 
 ```bash
 # 參數：背景執行 / 使用 Host 網路 / 開機自動啟動 / 限制記憶體 / 帳號信箱
-docker run -d --restart=always --replace -m 64M \
+docker run -d --restart=always -m 64M \
 --name repocket \
 -e RP_EMAIL=你的EMAIL \
 repocket/repocket

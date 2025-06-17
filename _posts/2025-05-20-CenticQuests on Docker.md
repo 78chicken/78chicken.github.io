@@ -74,7 +74,7 @@ lang: zh-TW
 
 請根據你的實際檔案路徑替換 `/opt/centic/accounts.txt`：
 ```bash
-docker run -d --restart always --replace -m 50M \  
+docker run -d --restart always -m 50M \  
   -v /opt/centic/accounts.txt:/app/centic/accounts.txt \
   --name CenticQuests \
   docker.io/78chicken/centic:latest

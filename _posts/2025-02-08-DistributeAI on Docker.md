@@ -101,7 +101,7 @@ docker exec -it xxxx sh
 ## 🐳 Docker 執行指令
 重新啟動一次你的Container,並記得套用新的accounts.json
 ```bash
-docker run -d --restart always --replace -m 50M \
+docker run -d --restart always -m 50M \
 -v /opt/distributeai/accounts.json:/app/distributeai/accounts.json \
 --name DistributeAi \
 docker.io/78chicken/distributeai:latest

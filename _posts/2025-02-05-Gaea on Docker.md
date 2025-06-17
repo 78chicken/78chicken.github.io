@@ -101,7 +101,7 @@ lang: zh-TW
 ## 🐳 Docker 執行指令
 ```bash
 # -v /opt/gaea/accounts.json 請改成你自己的檔案路徑
-docker run -d --restart always --replace -m 50M \
+docker run -d --restart always -m 50M \
 -v /opt/gaea/accounts.json:/app/gaea/accounts.json \
 --name Gaea \
 78chicken/gaea:latest
