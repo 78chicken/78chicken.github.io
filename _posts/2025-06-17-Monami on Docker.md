@@ -1,12 +1,11 @@
 ---
 title: "Monami on Docker"
-date: 2025-06-17
+date: 2025-06-18
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, depin, 虛擬貨幣, airdrop, 被動收入]
 description: "Monami 是一個基於 Monad 架構的 DePIN 項目，允許用戶利用閒置頻寬和計算資源，參與去中心化 AI 網絡並獲得 MONAMI 代幣獎勵。"
 image: /assets/images/bot/monami/banner.webp
 written_by: 機掰雞
-published: false
 lang: zh-TW
 ---
 
@@ -37,7 +36,7 @@ lang: zh-TW
 
 ## 📝 註冊與節點設置
 
-👉 [立即註冊 Monami](https://monami.network/signup?refcode=8HG60F)
+👉 [立即註冊 Monami](https://monami.network/signup?refcode=NSM56E)
 
 🎉 使用機掰雞的邀請連結註冊後，**我將獲得你收益的一點點雞飼料作為回饋**（不影響你的收益）。
 
