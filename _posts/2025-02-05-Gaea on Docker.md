@@ -1,5 +1,5 @@
 ---
-title: "Gaea on Docker"
+title: "Gaea on Docker - Stopped Update"
 date: 2025-02-05
 updated: 2025-05-11
 categories: [bot]
@@ -11,7 +11,7 @@ lang: zh-TW
 ---
 
 ![Gaea 封面圖](/assets/images/bot/gaea/banner.webp)
-> 📢 **【2025-05-11 更新通知】**
+> 📢 **【更新通知】**
 >
 > 版本更新,設定檔變更,Docker image已更新
 > 設定檔變更請參照下方JSON檔案  

@@ -1,5 +1,5 @@
 ---
-title: "Flow3 on Docker"
+title: "Flow3 on Docker - Scam"
 date: 2025-03-21
 updated: 2025-06-10
 categories: [bot]
