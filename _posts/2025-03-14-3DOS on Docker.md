@@ -1,6 +1,7 @@
 ---
 title: "3DOS on Docker"
 date: 2025-03-14
+updated: 2025-06-21
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣]
 description: "透過 Docker 掛機 3DOS，參與去中心化製造網絡，將設計轉化為收益，快速啟動僅需提供 token。"
@@ -10,6 +11,9 @@ lang: zh-TW
 ---
 
 ![3DOS 封面圖](/assets/images/bot/3dos/banner.webp)
+> 📢 **【更新通知】**
+>
+> 更換程式來源,設定檔更換
 
 **3DOS** 是一個去中心化的按需製造平台，致力於讓任何人都能在數小時內將設計轉化為產品，並透過全球網絡進行製造、銷售與分發。平台支持全球法幣與加密貨幣支付，並利用區塊鏈技術保護設計者的版稅收益。
 
@@ -56,17 +60,18 @@ lang: zh-TW
 
 ---
 
-## 📄 準備 `token.txt`
+## 📄 準備 `accounts.json`
 
-> 建立 `token.txt` 檔案，內容為你的 Token。
+> 建立 `accounts.json` 檔案。
+```json
+[
+  {
+    "Email": "Your Email",
+    "Password": "Your PW"
+  }
+]
+```
 
-### 🔍 如何取得 Token？
-
-1. 使用 Chrome 登入 3DOS Dashboard。
-2. 按下 F12 → 前往 Application。
-3. 點選左側 Local Storage。
-4. 找到你的 Token 並複製。
-![3DOS token](/assets/images/bot/3dos/img_1.webp)
 ---
 
 ## 🐳 Docker 執行指令
@@ -75,6 +80,6 @@ lang: zh-TW
 # -v /opt/3dos/token.txt 請改成你自己的檔案路徑
 docker run --rm -m 50M -e TZ=Asia/Taipei \
 --name 3Dos \
--v /opt/3dos/token.txt:/app/3dos/token.txt \
-78chicken/3dos:latest
+-v /opt/3dos/accounts.json:/app/3dos/accounts.json \
+docker.io/78chicken/3dos:latest
 ```
