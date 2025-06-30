@@ -220,3 +220,5 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
+plugins:
+  - jekyll-sitemap
