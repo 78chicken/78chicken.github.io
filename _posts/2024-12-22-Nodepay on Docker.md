@@ -1,7 +1,7 @@
 ---
 title: "NodePay on Docker"
 date: 2024-12-22
-updated: 2025-06-13
+updated: 2025-06-30
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 虛擬貨幣, 空投, 被動收入]
 description: "使用 Docker 快速部署 NodePay 自動任務腳本，每週更新 token 即可掛機賺點數，支援自動完成平台任務。"
@@ -12,7 +12,7 @@ lang: zh-TW
 ![NodePay 封面圖](/assets/images/bot/nodepay/banner.webp)
 > 📢 **【更新通知】**
 >
-> 版本更新，設定檔名稱換成tokens.json
+> 版本更新，修正BUG
 
 Nodepay 提供了一個低門檻的方式，讓用戶可以在無需高性能設備的情況下，參與到區塊鏈生態中，並支持 AI 和數據密集型需求。
 

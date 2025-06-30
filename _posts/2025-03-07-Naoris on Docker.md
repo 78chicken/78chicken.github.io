@@ -1,7 +1,7 @@
 ---
 title: "Naoris Protocol on Docker"
 date: 2025-03-07
-updated: 2025-05-11
+updated: 2025-06-30
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, 空投]
 description: "透過 Docker 掛機 Naoris Protocol，參與去中心化資安網絡並賺取點數，只需錢包與裝置資訊即可輕鬆啟動。"
@@ -11,9 +11,9 @@ lang: zh-TW
 ---
 
 ![Naoris 封面圖](/assets/images/bot/naoris/banner.webp)
-> 📢 **【2025-05-11 更新通知】**
+> 📢 **【更新通知】**
 >
-> 版本更新,Docker image已更新
+> 版本更新,修正BUG
 
 **Naoris Protocol** 是一個致力於打造去中心化資安網路的項目，用戶可透過貢獻裝置資源來強化整體網路安全，並獲得獎勵。只需註冊帳號、錢包與瀏覽器擴充套件，即可參與。
 
