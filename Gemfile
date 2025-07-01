@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
+gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
 gem "jekyll-theme-chirpy", "~> 7.3"
 gem "logger"
