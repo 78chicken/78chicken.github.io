@@ -221,5 +221,5 @@ jekyll-archives:
     category: /categories/:name/
 
 plugins:
-  - jeykll-seo-tag
+  - jekyll-seo-tag
   - jekyll-sitemap
