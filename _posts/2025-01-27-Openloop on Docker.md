@@ -1,5 +1,5 @@
 ---
-title: "OpenLoop on Docker"
+title: "OpenLoop on Docker - Stopped Update"
 date: 2025-01-27
 updated: 2025-07-02
 categories: [bot]
