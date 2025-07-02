@@ -1,7 +1,7 @@
 ---
 title: "OpenLoop on Docker"
 date: 2025-01-27
-updated: 2025-06-16
+updated: 2025-07-02
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣]
 description: "使用 Docker 掛機 OpenLoop，將裝置閒置資源轉換為獎勵，輕鬆實現被動收入。"
@@ -13,7 +13,8 @@ lang: zh-TW
 ![OpenLoop 封面圖](/assets/images/bot/openloop/banner.webp)
 > 📢 **【更新通知】**
 >
-> 映像檔更新,設定方式及名稱更新
+> 六月底的時候已經空投,大家在x上面罵翻了,平均一個節點拿到價值一美元的幣
+> 機掰雞全部帳號則是都拿了個0 🤣,沒意外的話機掰雞會把此專案停掉了
 
 **OpenLoop** 是一個專注於基礎設施驗證的 DePIN 專案，任何人都能運行節點參與鏈上驗證流程，協助 OpenLoop 協議運作，同時獲得代幣獎勵與空投機會。
 
