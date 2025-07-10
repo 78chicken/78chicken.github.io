@@ -1,13 +1,12 @@
 ---
 title: "Sixpence AI 簡介與核心功能"
-date: 2025-06-29
-categories: [DePIN, AI, 網頁自動化]
-tags: [Sixpence AI, OpenLayer, DePIN, 擴散式瀏覽器網絡, 被動收入]
+date: 2025-07-10
+categories: [bot]
+tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, 空投]
 description: "Sixpence AI（原名 OpenLayer）是一個去中心化瀏覽器網絡，連接 AI agents 與人類網際網路，平台運行依賴全球用戶貢獻的瀏覽器資源，並透過 Chrome 擴充功能參與貢獻可賺取點數。"
 image: /assets/images/bot/sixpence/banner.webp
 written_by: 機掰雞
 lang: zh-TW
-published: false
 ---
 
 ![Sixpence AI 封面圖](/assets/images/bot/sixpence/banner.webp)
@@ -41,7 +40,7 @@ published: false
 
 👉 [立即下載 SixPence Extension](https://chromewebstore.google.com/detail/sixpence-prev-openlayer/bcakokeeafaehcajfkajcpbdkfnoahlh?hl=en-US&utm_source=ext_sidebar)
 
-🎉 使用機掰雞的介紹碼「`ZZZZ`」可獲得額外的「雞飼料」，你的收益不會因此被扣減！
+🎉 使用機掰雞的介紹碼「`9Y3OJX`」可獲得額外的「雞飼料」，你的收益不會因此被扣減！
 
 ---
 ## 🔗 連結
