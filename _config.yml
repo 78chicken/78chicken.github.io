@@ -220,6 +220,6 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
+#plugins:
+#  - jekyll-seo-tag
+#  - jekyll-sitemap
