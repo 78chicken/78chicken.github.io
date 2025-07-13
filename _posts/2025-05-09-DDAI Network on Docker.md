@@ -13,7 +13,7 @@ lang: zh-TW
 
 > 📢 **【更新通知】**
 >
-> 可以領了,CEX目前價格0.02([claim](https://app.ddai.space/claim))
+> 可以領了,但是那幣價跟高額GAS FEE真的不值([claim](https://app.ddai.space/claim))
  
 # DDAI Network 簡介
 
