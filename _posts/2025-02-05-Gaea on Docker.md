@@ -1,5 +1,5 @@
 ---
-title: "Gaea on Docker - Stopped Update"
+title: "Gaea on Docker"
 date: 2025-02-05
 updated: 2025-07-15
 categories: [bot]
