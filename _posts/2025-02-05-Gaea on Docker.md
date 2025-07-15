@@ -1,7 +1,7 @@
 ---
 title: "Gaea on Docker - Stopped Update"
 date: 2025-02-05
-updated: 2025-05-11
+updated: 2025-07-15
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, 空投]
 description: "透過 Docker 掛機 Gaea，轉換瀏覽器資源為收益，快速啟動僅需提供 token 與 browser_id。"
@@ -13,11 +13,10 @@ lang: zh-TW
 ![Gaea 封面圖](/assets/images/bot/gaea/banner.webp)
 > 📢 **【更新通知】**
 >
-> 版本更新,設定檔變更,Docker image已更新
-> 設定檔變更請參照下方JSON檔案  
-> 
-> 才剛更新完沒多就，機掰雞發現自己的三個帳號都被封了，真是無語問蒼天  
-> 既然被封，維持機掰雞一貫作風，捨棄該項目不玩了 
+> 映像檔更新，browserId改成抓取整段
+> 機掰雞其中的兩個帳號居然恢復了，但一個帳號仍然是被封鎖
+> 既然恢復了就加減玩一下吧
+
 
 **Gaea** 是一個基於瀏覽器的去中心化資源共享平台，用戶可以透過提交瀏覽器資源（如瀏覽行為模擬、網路請求等），來參與資料處理與流量任務，並獲得對應獎勵。無需下載應用，登入即可掛機。
 
@@ -92,8 +91,7 @@ lang: zh-TW
 1. 使用 Chrome 登入 Gaea。
 2. 按下 F12 → 前往 Application。
 3. 點選左側 Local Storage。
-4. 找到 browser_id 與 gaea_token。
-5. Browser_ID 取前八碼，Token 複製整段。
+4. 找到 browser_id 與 gaea_token複製整段。
 ![Gaea token](/assets/images/bot/gaea/img_1.webp)
 
 ---
