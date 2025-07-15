@@ -1,7 +1,7 @@
 ---
 title: "Assisterr on Docker"
 date: 2025-05-31
-updated: 2025-06-10
+updated: 2025-07-15
 categories: [quest]
 tags: [AI, 區塊鏈, 去中心化, 自動化, 被動收入, SLM]
 description: "探索 Assisterr AI 平台，打造並變現小型語言模型（SLM），加入去中心化 AI 生態系，公平參與並獲得獎勵。"
@@ -11,7 +11,7 @@ lang: zh-TW
 ---
 
 ![Assisterr AI 平台封面圖](/assets/images/quest/assisterr/banner.webp)
-> 📢 **【2025-06-10 更新通知】**
+> 📢 **【更新通知】**
 >
 > 映像檔更新
 

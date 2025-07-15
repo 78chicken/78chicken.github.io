@@ -1,7 +1,7 @@
 ---
 title: "3DOS on Docker"
 date: 2025-03-14
-updated: 2025-06-21
+updated: 2025-07-15
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣]
 description: "透過 Docker 掛機 3DOS，參與去中心化製造網絡，將設計轉化為收益，快速啟動僅需提供 token。"
@@ -13,7 +13,7 @@ lang: zh-TW
 ![3DOS 封面圖](/assets/images/bot/3dos/banner.webp)
 > 📢 **【更新通知】**
 >
-> 更換程式來源,設定檔更換
+> 更新映像檔
 
 **3DOS** 是一個去中心化的按需製造平台，致力於讓任何人都能在數小時內將設計轉化為產品，並透過全球網絡進行製造、銷售與分發。平台支持全球法幣與加密貨幣支付，並利用區塊鏈技術保護設計者的版稅收益。
 
