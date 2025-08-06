@@ -65,6 +65,15 @@ lang: zh-TW
 
 🐳 Docker 執行方式
 請根據您的實際檔案路徑替換 /opt/titannode/accounts.json：
+```json
+# 建議每帳號搭配一個獨立 IP 運行，避免封號
+[
+  {
+    "Email": "your_email_address_1",
+    "Password": "your_password_1"
+  }
+]
+```
 
 ```bash
 docker run -d --restart always -m 50M \
