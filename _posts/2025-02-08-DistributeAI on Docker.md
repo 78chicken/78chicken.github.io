@@ -1,5 +1,5 @@
 ---
-title: "Distribute.AI on Docker"
+title: "Distribute.AI on Docker(Image Deprecated)"
 date: 2025-02-08
 updated: 2025-05-22
 categories: [bot]
@@ -12,10 +12,9 @@ lang: zh-TW
 
 ![Distribute.AI 封面圖](/assets/images/bot/distributeai/banner.webp)
 
-> 📢 **【2025-05-22】**
+> 📢 **【更新通知】**
 >
-> [領取空投](https://claim.distribute.ai/)，錢包須至少有0.02SOL
-> 機掰雞剩一組帳號有領取資格,有總比沒有好
+> 放棄Docker版本,使用官方套件就好
 
 
 
