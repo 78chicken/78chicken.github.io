@@ -12,7 +12,7 @@ lang: zh-TW
 ![Bless 封面圖](/assets/images/bot/bless/banner.webp)
 > 📢 **【更新通知】**
 >
-> 空投通知,請先去綁定錢包
+> 空投通知,請先去綁定錢包，8/19截止
 > DashBoard頁面->Airdrops 進行綁定
 
 
