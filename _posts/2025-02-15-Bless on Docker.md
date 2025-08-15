@@ -1,7 +1,7 @@
 ---
 title: "Bless on Docker"
 date: 2025-02-15
-updated: 2025-07-16
+updated: 2025-08-15
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, depin, 虛擬貨幣, airdrop, 空投, 被動收入]
 description: "使用 Docker 快速部署 Bless 節點，參與去中心化網路任務與獎勵機制，輕鬆賺取代幣與空投，無需 KYC 或高效能設備。"
@@ -12,7 +12,8 @@ lang: zh-TW
 ![Bless 封面圖](/assets/images/bot/bless/banner.webp)
 > 📢 **【更新通知】**
 >
-> 版本更新
+> 空投通知,請先去綁定錢包
+> DashBoard頁面->Airdrops 進行綁定
 
 
 Bless 是一個由 Binance Labs 與 Akash Network 校友創立的分散式邊緣運算平台，旨在利用全球閒置的計算資源，打造去中心化的 AI 計算基礎設施。透過 Docker 部署，您可以輕鬆參與並獲取代幣獎勵。
