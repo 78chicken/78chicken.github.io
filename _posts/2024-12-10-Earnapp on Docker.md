@@ -60,3 +60,9 @@ docker run -d --restart always -m 64M \
 -e EARNAPP_UUID=你的Token \
 madereddy/earnapp
 ```
+最後記得註冊你的機器,這樣才能綁定帳號跟營利的機器
+先登入你的帳號,然後綁定你的SDK-NODE
+```url
+https://earnapp.com/r/sdk-node-XXXXXXXXXXXXXXXXXXXXX
+```
+
