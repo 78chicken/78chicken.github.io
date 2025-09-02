@@ -19,7 +19,7 @@ lang: zh-TW
 
 ## 📝 註冊帳號
 
-👉 [立即註冊 Wipter](https://wipter.com/en/register?via=3C78931DB2)
+👉 [立即註冊 Wipter](https://wipter.com/en/register?via=CC23A1C078)
 
 🎉 使用機掰雞的邀請連結註冊，你會成為我的下線，我將獲得你收入的 10% 作為飼料費，**你會有5$ Bonus**！  
 🎉 註冊方式很簡單，使用連結註冊，收到信件驗證碼後填寫驗證完成即可。開始營利後記得去設定你的Wallet Address  
