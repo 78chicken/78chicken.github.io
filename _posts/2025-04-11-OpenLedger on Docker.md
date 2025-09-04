@@ -11,6 +11,10 @@ lang: zh-TW
 
 ![OpenLedger 封面圖](/assets/images/bot/openledger/banner.webp)
 
+> 📢 **【更新通知】**
+>
+> 即將空投，9/6關閉驗證.要搭配Billions App才能驗證，有點麻煩
+
 **OpenLedger** 是新一代專為人工智慧（AI）打造的去中心化區塊鏈平台，提供完整的經濟基礎設施，讓你可以**貢獻數據、微調模型，並賺取 AI 模型代幣**，實現真正的「掛機挖 AI」新模式。
 
 ---
