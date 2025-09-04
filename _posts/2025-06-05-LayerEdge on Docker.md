@@ -1,5 +1,5 @@
 ---
-title: "LayerEdge on Docker"
+title: "LayerEdge on Docker - Closed"
 date: 2025-06-05
 updated: 2025-06-11
 categories: [bot]
