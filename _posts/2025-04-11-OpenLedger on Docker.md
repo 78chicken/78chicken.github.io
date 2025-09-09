@@ -1,6 +1,7 @@
 ---
 title: "OpenLedger on Docker"
 date: 2025-04-11
+updated: 2025-09-09
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 區塊鏈, AI, 被動收入]
 description: "使用 Docker 掛機參與 OpenLedger 去中心化 AI 平台，自動化挖礦、資料貢獻與模型微調，實現可驗證的 AI 收益模式。"
@@ -13,7 +14,8 @@ lang: zh-TW
 
 > 📢 **【更新通知】**
 >
-> 即將空投，9/6關閉驗證.要搭配Billions App才能驗證，有點麻煩
+> You're not eligible.
+> 真是搞笑，又擼了個寂寞。看來很多人都是這樣。
 
 **OpenLedger** 是新一代專為人工智慧（AI）打造的去中心化區塊鏈平台，提供完整的經濟基礎設施，讓你可以**貢獻數據、微調模型，並賺取 AI 模型代幣**，實現真正的「掛機挖 AI」新模式。
 
