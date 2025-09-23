@@ -1,5 +1,5 @@
 ---
-title: "CryplexAi on Docker"
+title: "CryplexAi on Docker -- Closed"
 date: 2025-05-02
 updated: 2025-07-16
 categories: [bot]
@@ -12,7 +12,7 @@ lang: zh-TW
 ![CryplexAi 封面圖](/assets/images/bot/cryplexai/banner.webp)
 > 📢 **【更新通知】**
 >
-> 映像檔更新
+> 不知何時已掛點
 
 
 --- 

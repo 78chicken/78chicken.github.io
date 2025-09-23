@@ -7,7 +7,6 @@ description: "URnetwork（ur.io）是一款主打去中心化與開源的 VPN / 
 image: /assets/images/tools/urnetwork/banner.webp
 written_by: 機掰雞
 lang: zh-TW
-published: false
 ---
 
 ![URnetwork 封面圖](/assets/images/bot/urnetwork/banner.webp)
@@ -32,7 +31,8 @@ published: false
 
 ---
 ## 💵 付款狀況
- YES,實際多久付款並不清楚,目前有收到0.2USDC
+- YES,實際多久付款並不清楚,目前有收到0.2USDC
+- 下載手機APP才能設定Solana Wallet,以及Refer URL(當然自行用CALL API也行)
 
 ---
 
