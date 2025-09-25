@@ -1,6 +1,7 @@
 ---
 title: "Wipter on Docker"
 date: 2025-09-01
+updated: 2025-09-25
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, USDT, 被動收入, 頻寬分享]
 description: "利用 Docker 掛機部署 Wipter，分享閒置頻寬即可賺取USDT，輕鬆打造被動收入來源。"
@@ -11,9 +12,8 @@ lang: zh-TW
 
 ![Wipter 封面圖](/assets/images/bot/wipter/banner.webp)
 > 📢 **【更新通知】**
-> 經過測試1-2天的時間，發現CPU_LOADING過高。
-> 機掰雞只有用輕量級的N100 CPU在運行故決定停止測試。
-> 如已運行的朋友們則請自行決定是否繼續運行。
+> 更換其他版本,感覺CPU Loading比較固定在某一範圍內,不會突然噴高
+> 指令已更新如下
 
 **Wipter** 是一個頻寬分享平台，用戶只需安裝應用程式並在背景執行，就能將閒置網路頻寬轉換成現金收益。
 它支援 Windows、macOS、Linux 與 Android（Wi-Fi），並提供 全球統一費率，不論身處哪個地區，都能在相同條件下獲得一致的回報。
@@ -43,28 +43,14 @@ lang: zh-TW
 ---
 
 ## 🐳 Docker 執行指令
-
-這邊看你要不要設定VNC相關的設定,設定後可以經由VNC顯示登入頁面等功能
+記憶體給予256m會比較充足
 ```bash
 # 啟動 container
-VNC:
-docker run -d --restart=always --name Wipter \
-  -e WIPTER_EMAIL="你的帳號" \
-  -e WIPTER_PASSWORD="你的密碼" \
-  -e VNC_PASS="VNC密碼" \
-  -e VNC_PORT=5555 \
-  -e NOVNC_PORT=6666 \
-  -p 5555:5555 -p 6666:6666 \
+sudo podman run -d --replace \
+  --name wipter \
+  --restart always \
+  -e WIPTER_EMAIL="Your EMail" \
+  -e WIPTER_PASSWORD="Your PassWord" \
   -m 256m \
-  ghcr.io/techroy23/docker-wipter:latest
-
-NO VNC: 
-docker run -d --restart=always --name Wipter \
-  -e WIPTER_EMAIL="你的帳號" \
-  -e WIPTER_PASSWORD="你的密碼" \  
-  -e NOVNC_PORT=6666 \
-  -p 6666:6666 \
-  -m 256m \
-  ghcr.io/techroy23/docker-wipter:latest
-
+  ghcr.io/adfly8470/wipter/wipter
 ```
