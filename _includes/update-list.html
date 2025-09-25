@@ -24,18 +24,17 @@
     {% assign latest_ts = latest | date: '%s' %}
     {% assign days_diff = today | minus: latest_ts | divided_by: 86400 %}
 
-    {% assign latest_class = "" %}
+    {% assign title_class = "" %}
     {% if days_diff <= 3 %}
-    {% assign latest_class = "recent-update" %}
+    {% assign title_class = "recent-update" %}
     {% elsif days_diff <= 7 %}
-    {% assign latest_class = "week-update" %}
+    {% assign title_class = "week-update" %}
     {% else %}
-    {% assign latest_class = "old-update" %}
+    {% assign title_class = "old-update" %}
     {% endif %}
 
     <li class="text-truncate lh-lg">
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      {% include datetime.html date=latest lang=include.lang class=latest_class %}
+      <a href="{{ post.url | relative_url }}" class="{{ title_class }}">{{ post.title }}</a>
     </li>
     {% endfor %}
   </ul>
