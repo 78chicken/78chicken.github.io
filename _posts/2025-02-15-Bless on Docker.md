@@ -1,7 +1,7 @@
 ---
 title: "Bless on Docker"
 date: 2025-02-15
-updated: 2025-09-09
+updated: 2025-09-24
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, depin, 虛擬貨幣, airdrop, 空投, 被動收入]
 description: "使用 Docker 快速部署 Bless 節點，參與去中心化網路任務與獎勵機制，輕鬆賺取代幣與空投，無需 KYC 或高效能設備。"

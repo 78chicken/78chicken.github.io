@@ -2,3 +2,20 @@
   font-size: 1.53rem !important;
 }
 
+.recent-update,
+time.recent-update {
+  color: red !important;
+  font-weight: bold !important;
+}
+
+.week-update,
+time.week-update {
+  color: orange !important;
+}
+
+.old-update,
+time.old-update {
+  color: gray !important;
+}
+
+

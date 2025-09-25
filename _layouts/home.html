@@ -84,25 +84,48 @@ refactor: true
 
             <div class="post-meta flex-grow-1 d-flex align-items-end">
               <div class="me-auto">
+                {% assign posted_ts = post.date | date: '%s' %}
+                {% assign days_diff_posted = 'now' | date: '%s' | minus: posted_ts | divided_by: 86400 %}
+
+                {% assign posted_class = "" %}
+                {% if days_diff_posted <= 3 %}
+                {% assign posted_class = "recent-update" %}
+                {% elsif days_diff_posted <= 7 %}
+                {% assign posted_class = "week-update" %}
+                {% else %}
+                {% assign posted_class = "old-update" %}
+                {% endif %}
+
                 <!-- posted date -->
                 <i class="far fa-calendar fa-fw me-1"></i>
-                {% include datetime.html date=post.date lang=lang %}
+                {% include datetime.html date=post.date lang=lang class=posted_class %}
 
                 <!-- updated date -->
                 {% if post.updated and post.updated != post.date %}
+                {% assign updated_ts = post.updated | date: '%s' %}
+                {% assign days_diff_updated = 'now' | date: '%s' | minus: updated_ts | divided_by: 86400 %}
+
+                {% assign updated_class = "" %}
+                {% if days_diff_updated <= 3 %}
+                {% assign updated_class = "recent-update" %}
+                {% elsif days_diff_updated <= 7 %}
+                {% assign updated_class = "week-update" %}
+                {% else %}
+                {% assign updated_class = "old-update" %}
+                {% endif %}
+
                 <i class="fas fa-edit fa-fw me-1"></i>
-                {% include datetime.html date=post.updated lang=lang %}
+                {% include datetime.html date=post.updated lang=lang class=updated_class %}
                 {% endif %}
 
                 <!-- categories -->
                 {% if post.categories.size > 0 %}
-                  <i class="far fa-folder-open fa-fw me-1"></i>
-                  <span class="categories">
-                    {% for category in post.categories %}
-                      {{ category }}
-                      {%- unless forloop.last -%},{%- endunless -%}
-                    {% endfor %}
-                  </span>
+                <i class="far fa-folder-open fa-fw me-1"></i>
+                <span class="categories">
+      {% for category in post.categories %}
+        {{ category }}{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    </span>
                 {% endif %}
               </div>
 

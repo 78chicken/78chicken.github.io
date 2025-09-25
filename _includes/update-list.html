@@ -1,35 +1,41 @@
 {% assign MAX_SIZE = 5 %}
-
 {% assign all_list = '' | split: '' %}
 
 {% for post in site.posts %}
-{% assign datetime =  post.updated | default: post.date %}
-
+{% assign latest = post.updated | default: post.date %}
 {% capture elem %}
-{{- datetime | date: "%Y%m%d%H%M%S" -}}::{{- forloop.index0 -}}
+{{- latest | date: "%Y%m%d%H%M%S" -}}::{{- forloop.index0 -}}
 {% endcapture %}
-
 {% assign all_list = all_list | push: elem %}
 {% endfor %}
 
 {% assign all_list = all_list | sort | reverse %}
-
-{% assign update_list = '' | split: '' %}
-
-{% for entry in all_list limit: MAX_SIZE %}
-{% assign update_list = update_list | push: entry %}
-{% endfor %}
+{% assign update_list = all_list | slice: 0, MAX_SIZE %}
 
 {% if update_list.size > 0 %}
 <section id="access-lastmod">
   <h2 class="panel-heading">{{- site.data.locales[include.lang].panel.lastmod -}}</h2>
   <ul class="content list-unstyled ps-0 pb-1 ms-1 mt-2">
+    {% assign today = 'now' | date: '%s' %}
     {% for item in update_list %}
     {% assign index = item | split: '::' | last | plus: 0 %}
     {% assign post = site.posts[index] %}
-    {% assign url = post.url | relative_url %}
+    {% assign latest = post.updated | default: post.date %}
+    {% assign latest_ts = latest | date: '%s' %}
+    {% assign days_diff = today | minus: latest_ts | divided_by: 86400 %}
+
+    {% assign latest_class = "" %}
+    {% if days_diff <= 3 %}
+    {% assign latest_class = "recent-update" %}
+    {% elsif days_diff <= 7 %}
+    {% assign latest_class = "week-update" %}
+    {% else %}
+    {% assign latest_class = "old-update" %}
+    {% endif %}
+
     <li class="text-truncate lh-lg">
-      <a href="{{ url }}">{{ post.title }}</a>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      {% include datetime.html date=latest lang=include.lang class=latest_class %}
     </li>
     {% endfor %}
   </ul>
