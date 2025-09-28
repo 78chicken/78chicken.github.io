@@ -1,6 +1,7 @@
 ---
 title: "Earnapp on Docker"
 date: 2024-12-10
+updated: 2025-09-28
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, Paypal, 被動收入, 頻寬分享]
 description: "利用 Docker 掛機部署 EarnApp，分享閒置頻寬即可賺取美金，支援 Paypal 出金，輕鬆打造被動收入來源。"
@@ -10,6 +11,10 @@ lang: zh-TW
 ---
 
 ![EarnApp 封面圖](/assets/images/bot/earnapp/banner.webp)
+> 📢 **【更新通知】**
+>
+> 機掰雞近來在排程重新啟動時，會遇到卡住且CPU飆高狀況，所以另外找了一套
+> 測試起來也OK,詳見下方啟動指令(image已更新)
 
 **EarnApp** 是一個被動收入平台，只需安裝後背景執行，就能透過分享你的閒置頻寬來賺取收益。適合長時間開機的設備（如樹莓派、伺服器等），**完全自動化掛機**，**不影響網速、不需額外操作**。
 
@@ -43,7 +48,7 @@ lang: zh-TW
 # 啟動 container（第一次使用無 UUID）
 docker run -d --restart always -m 64M  \
 --name EarnApp \
-madereddy/earnapp
+docker.io/techroy23/docker-earnapp:latest
 ```
 接著進入 container 取得 UUID：
 ```bash
@@ -58,7 +63,7 @@ echo -n sdk-node- && head -c 1024 /dev/urandom | md5sum | tr -d ' -'
 docker run -d --restart always -m 64M \
 --name EarnApp \
 -e EARNAPP_UUID=你的Token \
-madereddy/earnapp
+docker.io/techroy23/docker-earnapp:latest
 ```
 最後記得註冊你的機器,這樣才能綁定帳號跟營利的機器
 先登入你的帳號,然後綁定你的SDK-NODE
