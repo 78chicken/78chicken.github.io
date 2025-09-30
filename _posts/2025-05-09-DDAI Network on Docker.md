@@ -1,5 +1,5 @@
 ---
-title: "DDAI Network on Docker"
+title: "DDAI Network on Docker -- SCAM"
 date: 2025-05-09
 updated: 2025-07-13
 categories: [bot]
@@ -13,7 +13,7 @@ lang: zh-TW
 
 > 📢 **【更新通知】**
 >
-> 可以領了,但是那幣價跟高額GAS FEE真的不值([claim](https://app.ddai.space/claim))
+> 已掛
  
 # DDAI Network 簡介
 
