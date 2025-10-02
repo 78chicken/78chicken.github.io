@@ -1,6 +1,6 @@
 ---
 title: "URnetwork on Docker"
-date: 2025-09-22
+date: 2025-10-02
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 虛擬貨幣, 被動收入]
 description: "URnetwork（ur.io）是一款主打去中心化與開源的 VPN / 網路隱私保護服務，致力於讓使用者與節點比率低、連線品質高，打造如本地網路體驗。"
@@ -10,6 +10,8 @@ lang: zh-TW
 ---
 
 ![URnetwork 封面圖](/assets/images/bot/urnetwork/banner.webp)
+> 📢 **【更新通知】**
+> 10.2 介紹更新
 
 強調「告別 VPN！」的理念。換句話説，不完全是傳統 VPN，而是類似私人網路（Private Network）或去中心化節點網絡，用戶可透過節點連接，獲得類似本地網路的體驗。
 

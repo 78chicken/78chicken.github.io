@@ -8,6 +8,7 @@ description: "Centic 是一個 Web3 智能數據基礎設施平台，透過整�
 image: /assets/images/quest/centic/banner.webp
 written_by: 機掰雞
 lang: zh-TW
+published: false
 ---
 ![DDAI 封面圖](/assets/images/quest/centic/banner.webp)
 > 📢 **【2025-06-08 更新通知】**

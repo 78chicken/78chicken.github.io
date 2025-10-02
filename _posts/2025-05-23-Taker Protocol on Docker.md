@@ -8,6 +8,7 @@ description: "參與 Taker Lite Mining 空投活動，完成每日任務與掛�
 image: /assets/images/quest/taker/banner.webp
 written_by: 機掰雞
 lang: zh-TW
+published: false
 ---
 
 ![Taker 空投封面圖](/assets/images/quest/taker/banner.webp)

@@ -7,6 +7,7 @@ description: "Sixpence AI（原名 OpenLayer）是一個去中心化瀏覽器網
 image: /assets/images/bot/sixpence/banner.webp
 written_by: 機掰雞
 lang: zh-TW
+published: false
 ---
 
 ![Sixpence AI 封面圖](/assets/images/bot/sixpence/banner.webp)

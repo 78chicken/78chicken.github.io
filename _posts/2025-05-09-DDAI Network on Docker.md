@@ -8,6 +8,7 @@ description: "DDAI Network 是一個融合人工智慧（AI）與區塊鏈技術
 image: /assets/images/bot/ddai/banner.webp
 written_by: 機掰雞
 lang: zh-TW
+published: false
 ---
 ![DDAI 封面圖](/assets/images/bot/ddai/banner.webp)
 

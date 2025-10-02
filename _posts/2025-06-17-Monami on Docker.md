@@ -7,6 +7,7 @@ description: "Monami 是一個基於 Monad 架構的 DePIN 項目，允許用戶
 image: /assets/images/bot/monami/banner.webp
 written_by: 機掰雞
 lang: zh-TW
+published: false
 ---
 
 ![Monami 封面圖](/assets/images/bot/monami/banner.webp)

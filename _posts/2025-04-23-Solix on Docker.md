@@ -1,5 +1,5 @@
 ---
-title: "Solix on Docker"
+title: "Solix on Docker - SCAM"
 date: 2025-04-23
 updated: 2025-06-21
 categories: [bot]
@@ -8,6 +8,7 @@ description: "使用 Docker 部署 Solix DePIN 頻寬共享平台，自動化賺
 image: /assets/images/bot/solix/banner.webp
 written_by: 機掰雞
 lang: zh-TW
+published: false
 ---
 
 ![Solix 封面圖](/assets/images/bot/solix/banner.webp)

@@ -1,5 +1,5 @@
 ---
-title: "⚠️Stobix on Docker-使用Wallet PK)"
+title: "⚠️Stobix on Docker - SCAM)"
 date: 2025-05-02
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 虛擬貨幣, airdrop, 空投, 被動收入]
@@ -7,6 +7,7 @@ description: "使用 Docker 部署 Stobix 自動化任務，獲取高年化收�
 image: /assets/images/bot/stobix/banner.webp
 written_by: 機掰雞
 lang: zh-TW
+published: false
 ---
 ![Stobix 封面圖](/assets/images/bot/stobix/banner.webp)
 

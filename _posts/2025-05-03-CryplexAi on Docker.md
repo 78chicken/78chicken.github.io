@@ -8,6 +8,7 @@ description: "使用 Docker 掛機方式部署 CryplexAi，享受 Depin 類型�
 image: /assets/images/bot/cryplexai/banner.webp
 written_by: 機掰雞
 lang: zh-TW
+published: false
 ---
 ![CryplexAi 封面圖](/assets/images/bot/cryplexai/banner.webp)
 > 📢 **【更新通知】**
