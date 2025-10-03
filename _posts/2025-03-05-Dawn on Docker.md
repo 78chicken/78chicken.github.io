@@ -1,10 +1,10 @@
 ---
-title: "Dawn on Docker"
+title: "Docker 掛機 Dawn 教學：分享頻寬賺取被動收入"
 date: 2025-03-05
 updated: 2025-10-02
 categories: [bot]
-tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, 分享頻寬]
-description: "透過 Docker 掛機 Dawn，分享閒置頻寬賺取獎勵積分，只需提供 Email 與 Token，快速啟動！"
+tags: [Docker, 掛機, 被動收入, 網路賺錢, 分享頻寬]
+description: "完整教學：使用 Docker 快速掛機 Dawn，透過分享閒置頻寬獲得獎勵積分，簡單設定即可開始累積被動收入。"
 image: /assets/images/bot/dawn/banner.webp
 written_by: "機掰雞"
 lang: zh-TW
