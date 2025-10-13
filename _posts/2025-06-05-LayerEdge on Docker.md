@@ -1,10 +1,10 @@
 ---
-title: "LayerEdge on Docker - Closed"
+title: "LayerEdge Docker 掛機教學：運行 ZK/BitVM 節點，比特幣 L2 DePIN 狀態與風險警示"
 date: 2025-06-05
 updated: 2025-06-11
 categories: [bot]
-tags: [Docker, 網路賺錢, 掛機, DePIN, 虛擬貨幣, 空投, 被動收入]
-description: "LayerEdge 是一個去中心化的模組化區塊鏈平台，透過零知識證明（ZK）與 BitVM 技術，將比特幣網絡轉變為支持 AI、DePIN 等應用的去中心化超級計算機。"
+tags: [Docker, 網路賺錢, 掛機, DePIN, 虛擬貨幣, 空投, 被動收入, LayerEdge, ZK, BitVM, 比特幣L2, 節點關閉]
+description: "【專案狀態警示】LayerEdge 是一個利用 ZK/BitVM 技術，將比特幣轉變為去中心化超級計算機的 DePIN 平台。本教學提供完整的 Docker 掛機部署指令與 Token 獲取步驟，供讀者參考此技術架構及目前專案的最新狀態與潛在風險。"
 image: /assets/images/bot/layeredge/banner.webp
 written_by: 機掰雞
 lang: zh-TW

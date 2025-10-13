@@ -1,9 +1,9 @@
 ---
-title: "Proxyrack on Docker"
+title: "Proxyrack Docker 掛機教學：無頭裝置部署指南與 API 綁定完整流程"
 date: 2024-05-21
 categories: [bot]
-tags: [Docker, 網路賺錢, 掛機, 被動收入]
-description: "使用 Docker 掛載 ProxyRack 分享頻寬賺取收益，支援無頭裝置，詳細教學含註冊與部署指令。"
+tags: [Docker, 網路賺錢, 掛機, 被動收入, Proxyrack, 頻寬分享, Headless, API 綁定, UUID]
+description: "Proxyrack 是一個經典的頻寬分享平台。本教學提供完整的 Docker 掛機部署指南，涵蓋 UUID 產生、容器啟動與 API 設備綁定，適合無頭或伺服器裝置運行。實測收益不高，適合利用閒置資源打造極低門檻的被動收入。"
 image: /assets/images/bot/proxyrack/banner.webp
 written_by: 機掰雞
 lang: zh-TW

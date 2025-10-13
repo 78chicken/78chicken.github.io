@@ -1,9 +1,9 @@
 ---
-title: "BlockMesh on Docker"
+title: "BlockMesh Docker 掛機教學：運行隱私數據節點，自動賺取 AI 數據共享空投！"
 date: 2024-11-04
 categories: [bot]
-tags: [Docker, 網路賺錢, 掛機, 虛擬貨幣, 空投, 被動收入]
-description: "使用 Docker 掛機 BlockMesh，利用閒置網路頻寬獲取獎勵的平台。"
+tags: [Docker, 網路賺錢, 掛機, 虛擬貨幣, 空投, 被動收入, BlockMesh, DePIN, 隱私數據, AI 數據]
+description: "BlockMesh 是一個去中心化、隱私優先的 AI 數據共享網絡。本教學提供完整的 Docker 掛機部署指令，使用帳號密碼即可自動運行節點，輕鬆分享閒置頻寬與數據，參與平台空投計劃，打造 Web3 時代的被動收入來源。"
 image: /assets/images/bot/blockmesh/banner.webp
 written_by: 機掰雞
 lang: zh-TW

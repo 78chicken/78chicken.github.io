@@ -1,10 +1,10 @@
 ---
-title: "Assisterr on Docker"
+title: "Assisterr Docker 掛機教學：運行去中心化 SLM 節點，參與 AI 模型變現！"
 date: 2025-05-31
 updated: 2025-07-15
 categories: [quest]
-tags: [AI, 區塊鏈, 去中心化, 自動化, 被動收入, SLM]
-description: "探索 Assisterr AI 平台，打造並變現小型語言模型（SLM），加入去中心化 AI 生態系，公平參與並獲得獎勵。"
+tags: [AI, 區塊鏈, 去中心化, 自動化, 被動收入, SLM, Assisterr, Solana, AI 變現, 智能體]
+description: "Assisterr 是一個去中心化 AI 平台，主打小型語言模型（SLM）的社群化。本教學提供完整的 Docker 掛機部署指令，教你如何綁定 Solana 私鑰，運行 Assisterr 節點，輕鬆參與 AI 模型訓練與變現，打造 Web3 時代的智能被動收入。"
 image: /assets/images/quest/assisterr/banner.webp
 written_by: 機掰雞
 lang: zh-TW

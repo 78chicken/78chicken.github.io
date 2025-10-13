@@ -1,9 +1,9 @@
 ---
-title: "Titan Network on Docker"
+title: "Titan Network Docker 掛機教學：DePIN CDN 節點部署與 Identity Code 綁定指南"
 date: 2024-12-29
 categories: [bot]
-tags: [Docker, 網路賺錢, 掛機, 虛擬貨幣, 空投, 被動收入]
-description: "使用 Docker 掛機 Titan Network，利用閒置網路頻寬參與去中心化 CDN 並獲得獎勵。"
+tags: [Docker, 網路賺錢, 掛機, 虛擬貨幣, 空投, 被動收入, TitanNetwork, CDN, DePIN, AI+Web3]
+description: "Titan Network 是一個去中心化 CDN 網絡，結合 AI 數據共享新範式。本教學提供完整的 Docker 掛機部署步驟，從獲取 Identity Code 到容器內綁定指令（Command Line 方式），一步步教你運行 Titan 節點，利用閒置頻寬賺取 Web3 代幣獎勵。"
 image: /assets/images/bot/titan/banner.webp
 written_by: 機掰雞
 lang: zh-TW
