@@ -1,9 +1,9 @@
 ---
-title: "Earn.fm on Docker"
+title: "Earn.fm Docker 掛機教學：一鍵部署節點，輕鬆分享頻寬賺取被動收入"
 date: 2024-12-19
 categories: [bot]
-tags: [Docker, 網路賺錢, 掛機, 被動收入]
-description: "使用 Docker 部署 Earn.fm，分享閒置網路頻寬賺取被動收入，支援多平台運行，註冊即享推薦獎勵。"
+tags: [Docker, 網路賺錢, 掛機, 被動收入, 頻寬分享, Earn.fm, API Token]
+description: "Earn.fm 是一個入門級的頻寬分享平台。本教學提供完整的 Docker 掛機指令，教你如何獲取 API Token 並一鍵部署 Earn.fm 節點，將閒置網路頻寬轉換為自動化被動收入。輕鬆在多平台實現 24/7 掛機賺錢。"
 image: /assets/images/bot/earnfm/banner.webp
 written_by: 機掰雞
 lang: zh-TW

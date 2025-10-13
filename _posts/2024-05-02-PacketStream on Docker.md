@@ -1,9 +1,9 @@
 ---
-title: "PacketStream on Docker"
+title: "PacketStream Docker 掛機教學：穩定分享閒置頻寬，輕鬆賺取 PayPal 現金被動收入"
 date: 2024-05-02
 categories: [bot]
-tags: [Docker, 網路賺錢, 掛機, Paypal, 被動收入, 頻寬分享]
-description: "透過 Docker 掛機部署 PacketStream，分享閒置頻寬即可賺取被動收入，支援 Paypal 出金，輕鬆打造被動收入來源。"
+tags: [Docker, 網路賺錢, 掛機, Paypal, 被動收入, 頻寬分享, PacketStream, CID]
+description: "PacketStream 是一個穩定營運多年的閒置頻寬變現平台。本教學提供完整的 Docker 掛機部署指令，教你如何獲取 CID，自動分享頻寬，輕鬆將閒置網路轉換為 PayPal 現金被動收入。低門檻、高穩定性，適合所有閒置設備。"
 image: /assets/images/bot/packetstream/banner.webp
 written_by: 機掰雞
 lang: zh-TW

@@ -1,10 +1,10 @@
 ---
-title: "Wipter on Docker"
+title: "Wipter Docker 掛機教學：全球統一費率，輕鬆賺取 BEP20 USDT 被動收入"
+description: "Wipter 是一個提供全球統一費率的高收益頻寬分享平台。本教學提供完整的 Docker 掛機部署指令，教你如何利用閒置頻寬自動賺取 BEP20 USDT，並享有 5 美元註冊獎勵。快速部署 Wipter 節點，打造穩定的被動收入來源。"
 date: 2025-09-01
 updated: 2025-09-25
 categories: [bot]
-tags: [Docker, 網路賺錢, 掛機, USDT, 被動收入, 頻寬分享]
-description: "利用 Docker 掛機部署 Wipter，分享閒置頻寬即可賺取USDT，輕鬆打造被動收入來源。"
+tags: [Docker, 網路賺錢, 掛機, USDT, 被動收入, 頻寬分享, Wipter, 全球統一費率]
 image: /assets/images/bot/wipter/banner.webp
 written_by: 機掰雞
 lang: zh-TW

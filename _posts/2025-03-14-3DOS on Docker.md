@@ -1,10 +1,10 @@
 ---
-title: "3DOS on Docker"
+title: "3DOS Docker 掛機教學：參與去中心化製造網絡，自動賺取設計版稅收益"
 date: 2025-03-14
 updated: 2025-09-30
 categories: [bot]
-tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣]
-description: "透過 Docker 掛機 3DOS，參與去中心化製造網絡，將設計轉化為收益，快速啟動僅需提供 token。"
+tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, 3DOS, DePIN, 去中心化製造, AI, 版稅]
+description: "3DOS 是一個去中心化按需製造（DePIN）平台。本教學提供完整的 Docker 掛機部署指令，教你如何獲取 access_token，輕鬆參與 3DOS 製造網絡，自動賺取設計版稅與潛在收益。掌握 Web3 時代製造業變革的被動收入機會。"
 image: /assets/images/bot/3dos/banner.webp
 written_by: "機掰雞"
 lang: zh-TW

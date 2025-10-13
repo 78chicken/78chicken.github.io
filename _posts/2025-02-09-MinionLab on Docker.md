@@ -1,10 +1,10 @@
 ---
-title: "MinionLab on Docker"
+title: "MinionLab Docker 掛機教學：自動化 AI 代理節點，賺取 MINAI 積分空投！"
 date: 2025-02-09
 updated: 2025-06-26
 categories: [bot]
-tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, 空投]
-description: "透過 Docker 掛機 MinionLab（前稱 StreamAi），僅需提供帳密即可自動化執行，轉換閒置資源為收益。"
+tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, 空投, MinionLab, StreamAI, AI 代理]
+description: "MinionLab（前 Stream AI）是一個去中心化 AI 代理平台。本教學提供完整的 Docker 掛機部署步驟，僅需帳密即可讓 AI 代理自動運行任務，輕鬆賺取 MINAI 積分（未來潛在空投）。了解核心功能與自動化賺取 Web3 被動收入的流程。"
 image: /assets/images/bot/minionlab/banner.webp
 written_by: "機掰雞"
 lang: zh-TW

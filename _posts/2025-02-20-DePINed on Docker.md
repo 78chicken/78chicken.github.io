@@ -1,10 +1,10 @@
 ---
-title: "DePINed on Docker"
+title: "DePINed Docker 掛機教學：免 KYC 參與去中心化任務，自動獲取代幣空投！"
 date: 2025-02-20
 updated: 2025-06-16
 categories: [bot]
-tags: [Docker, 網路賺錢, 掛機, depin, 去中心化, 空投]
-description: "使用 Docker 快速部署 DePINed 節點，參與去中心化任務平台，自動化獲取代幣與空投獎勵，無需 KYC 或高效能設備即可加入。"
+tags: [Docker, 網路賺錢, 掛機, DePIN, 去中心化, 空投, Web3, 任務平台, 免KYC]
+description: "DePINed 是一個低門檻、免 KYC 的去中心化任務平台。本教學提供完整的 Docker 掛機部署指令，教你如何快速建立 DePINed 節點，自動化完成 Web3 任務，輕鬆賺取代幣與空投獎勵，打造穩定的被動收入來源。"
 image: /assets/images/bot/depined/banner.webp
 written_by: 機掰雞
 lang: zh-TW

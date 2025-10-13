@@ -1,9 +1,9 @@
 ---
-title: "URnetwork on Docker"
+title: "URnetwork Docker 掛機教學：告別傳統 VPN，打造去中心化被動收入節點！"
 date: 2025-10-02
 categories: [bot]
-tags: [Docker, 網路賺錢, 掛機, 虛擬貨幣, 被動收入]
-description: "URnetwork（ur.io）是一款主打去中心化與開源的 VPN / 網路隱私保護服務，致力於讓使用者與節點比率低、連線品質高，打造如本地網路體驗。"
+tags: [Docker, 網路賺錢, 掛機, 虛擬貨幣, 被動收入, VPN 替代方案, URnetwork, USDC]
+description: "想利用閒置網路頻寬賺取被動收入？本教學深入解析 URnetwork（ur.io）如何透過 Docker 建立去中心化節點，告別傳統 VPN 限制，安全賺取 USDC 穩定幣。了解收益計算、支付機制與 Docker 快速部署步驟。"
 image: /assets/images/bot/urnetwork/banner.webp
 written_by: 機掰雞
 lang: zh-TW

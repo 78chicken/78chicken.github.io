@@ -1,9 +1,9 @@
 ---
-title: "Repocket on Docker"
+title: "Repocket Docker 掛機教學：分享閒置頻寬，輕鬆賺取 PayPal/USDT 被動收入"
+description: "Repocket 是一個簡單易用的頻寬分享平台。本教學提供完整的 Docker 掛機部署指令與步驟，教你如何利用閒置設備賺取被動收入，支援 PayPal 和 USDT 出金。內含真實使用心得分享，助你了解潛在風險與獲利模式。"
 date: 2024-10-23
 categories: [bot]
-tags: [Docker, 網路賺錢, 掛機, Paypal, USDT, 被動收入, 頻寬分享]
-description: "使用 Docker 掛機部署 Repocket，透過分享頻寬方式獲取被動收入，支援 Paypal 與 USDT 出金，是簡單易用的流量變現工具。"
+tags: [Docker, 網路賺錢, 掛機, Paypal, USDT, 被動收入, 頻寬分享, Repocket]
 image: /assets/images/bot/repocket/banner.webp
 written_by: 機掰雞
 lang: zh-TW

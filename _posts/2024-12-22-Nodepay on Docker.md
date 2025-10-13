@@ -1,10 +1,10 @@
 ---
-title: "NodePay on Docker"
+title: "NodePay Docker 掛機教學：參與去中心化 AI 訓練，穩定賺取空投點數被動收入"
 date: 2024-12-22
 updated: 2025-07-25
 categories: [bot]
-tags: [Docker, 網路賺錢, 掛機, 虛擬貨幣, 空投, 被動收入]
-description: "使用 Docker 快速部署 NodePay 自動任務腳本，每週更新 token 即可掛機賺點數，支援自動完成平台任務。"
+tags: [Docker, 網路賺錢, 掛機, 虛擬貨幣, 空投, 被動收入, NodePay, 去中心化AI, 頻寬分享]
+description: "NodePay 是一個去中心化 AI 訓練平台，用戶可透過 Docker 部署節點並分享閒置頻寬，自動掛機賺取 NodePay Points（未來潛在空投）。本教學提供最新的 Docker 運行指令與 token 獲取方式，輕鬆參與區塊鏈 AI 生態，打造低門檻被動收入。"
 image: /assets/images/bot/nodepay/banner.webp
 written_by: 機掰雞
 lang: zh-TW

@@ -1,10 +1,10 @@
 ---
-title: "Docker 掛機 Dawn 教學：分享頻寬賺取被動收入"
+title: "Dawn Docker 掛機教學：分享閒置頻寬，參與去中心化網路賺取被動收入"
 date: 2025-03-05
 updated: 2025-10-02
 categories: [bot]
-tags: [Docker, 掛機, 被動收入, 網路賺錢, 分享頻寬]
-description: "完整教學：使用 Docker 快速掛機 Dawn，透過分享閒置頻寬獲得獎勵積分，簡單設定即可開始累積被動收入。"
+tags: [Docker, 掛機, 被動收入, 網路賺錢, 分享頻寬, Dawn, 去中心化網路, Web3]
+description: "如何用 Docker 輕鬆掛機 Dawn 節點？本完整教學帶您快速部署 Dawn，分享閒置頻寬賺取積分與未來代幣（Points），參與 Web3 去中心化網路建設。內含最新的 Docker 運行指令與 Token 獲取步驟，打造穩定的被動收入來源。"
 image: /assets/images/bot/dawn/banner.webp
 written_by: "機掰雞"
 lang: zh-TW

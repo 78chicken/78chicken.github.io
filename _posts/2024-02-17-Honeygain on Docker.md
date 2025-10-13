@@ -1,9 +1,9 @@
 ---
-title: "Honeygain on Docker"
+title: "Honeygain Docker 掛機教學：利用閒置頻寬賺取被動收入與美金提領實測"
 date: 2024-02-17
 categories: [bot]
-tags: [Docker, 網路賺錢, 掛機, 被動收入, Paypal, 虛擬貨幣]
-description: "使用 Docker 部署 Honeygain，分享閒置頻寬賺取被動收入，註冊即享推薦獎勵，支援無頭裝置運行。"
+tags: [Docker, 網路賺錢, 掛機, 被動收入, Paypal, 虛擬貨幣, Honeygain, 流量分享]
+description: "想知道如何利用家中閒置網路頻寬賺錢？本篇教學提供 Honeygain 完整 Docker 掛機部署指令與步驟，讓你輕鬆建立無頭裝置節點，賺取被動收入。內含 PayPal 和虛擬貨幣提領實測與收益評估。"
 image: /assets/images/bot/honeygain/banner.webp
 written_by: 機掰雞
 lang: zh-TW

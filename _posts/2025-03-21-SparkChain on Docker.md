@@ -1,9 +1,9 @@
 ---
-title: "SparkChain on Docker"
+title: "SparkChain Docker 掛機教學：運行去中心化 AI 節點，賺取 SPARK 代幣空投！"
 date: 2025-03-21
 categories: [bot]
-tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, 空投]
-description: "透過 Docker 掛機 SparkChain，轉換瀏覽器資源為收益，快速啟動僅需提供 token。"
+tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, 空投, SparkChain, SPARK, AI 節點, ZKP]
+description: "SparkChain 是一個結合 ZKP 技術的去中心化 AI 資源共享平台。本教學提供完整的 Docker 掛機部署指令，教你如何獲取 Token，自動運行 Spark 節點，輕鬆累積 Spark Points，把握 TGE 轉換為 SPARK 代幣的空投機會。"
 image: /assets/images/bot/sparkchain/banner.webp
 written_by: "機掰雞"
 lang: zh-TW

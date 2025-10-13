@@ -1,9 +1,9 @@
 ---
-title: "OptimAi on Docker"
+title: "OptimAI Docker 掛機教學：部署 OP-Stack 節點，賺取去中心化 AI 網絡 OPI 代幣"
 date: 2025-03-31
 categories: [bot]
-tags: [Docker, 網路賺錢, 掛機, 被動收入, AI, 去中心化]
-description: "透過 Docker 掛機 OptimAI，只需提供帳號與 Token，即可參與 OP-Stack 上的 AI 計算網絡並獲得收益。"
+tags: [Docker, 網路賺錢, 掛機, 被動收入, AI, 去中心化, Optimism, Layer2, DePIN, OPI]
+description: "OptimAI 是一個基於 OP-Stack 的 Layer2 DePIN 平台。本教學提供 OptimAI 完整的 Docker 掛機部署步驟，教你如何獲取複雜的 Token 與 Payload，參與去中心化 AI 計算網絡，輕鬆賺取 OPI 代幣獎勵，掌握 Web3 DePIN 被動收入機會。"
 image: /assets/images/bot/optimai/banner.webp
 written_by: "機掰雞"
 lang: zh-TW

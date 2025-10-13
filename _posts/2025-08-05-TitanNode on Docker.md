@@ -1,9 +1,9 @@
 ---
-title: "️Titan Node on Docker"
+title: "Titan Node Docker 掛機教學：部署 DePIN L2 邊緣節點，賺取 AI 資源共享收益！"
 date: 2025-08-05
 categories: [bot]
-tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, 空投]
-description: "Titan Network 是一個基於 DePIN 架構的分散式資源共享平台，讓用戶可提供頻寬、儲存、IP 等資源，並透過節點部署參與 AI 推理、內容分發等任務獲得收益。"
+tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, 空投, TitanNetwork, DePIN, AI 推理, L2 節點]
+description: "Titan Network 是一個頂級的 DePIN 資源共享平台。本教學提供完整的 Titan Node Docker 掛機部署指令，輕鬆部署 L2 邊緣節點，貢獻閒置頻寬/儲存/IP，參與 AI 推理與內容分發任務，自動賺取節點收益與潛在空投。"
 image: /assets/images/bot/titan/banner.webp
 written_by: 機掰雞
 lang: zh-TW
