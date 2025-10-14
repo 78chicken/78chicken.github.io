@@ -1,7 +1,6 @@
 ---
 title: "⚠️KiteAi on Docker-使用Wallet PK"
-date: 2025-05-30
-updated: 2025-07-18
+date: 2025-07-18
 categories: [quest]
 tags: [AI, 區塊鏈, 空投, 去中心化, 自動化, 被動收入]
 description: "參與 Kite AI 激勵測試網，探索去中心化 AI 經濟，完成任務獲得代幣獎勵。"

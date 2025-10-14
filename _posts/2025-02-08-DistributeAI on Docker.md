@@ -1,7 +1,6 @@
 ---
 title: "Distribute.AI (Oasis) Docker 部署教學：已棄用！專案狀態與 AI 算力賺取建議"
-date: 2025-02-08
-updated: 2025-05-22
+date: 2025-05-22
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, AI, 去中心化, DistributeAI, Oasis, 棄用, 算力分享]
 description: "【Docker 映像檔已棄用，請使用官方套件】Distribute.AI（前稱 Oasis）是一個去中心化 AI 算力平台。本頁提供舊版 Docker 掛機部署教學、Token 獲取流程，以及專案最新狀態與使用官方套件的建議，助你了解 Web3 AI 算力變現趨勢。"

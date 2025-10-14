@@ -1,7 +1,6 @@
 ---
 title: "Gaea Docker 掛機教學：運行 AI 資源節點，自動賺取積分兌換空投！"
-date: 2025-02-05
-updated: 2025-07-15
+date: 2025-07-15
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, 空投, Gaea, AI 資源共享, 瀏覽器挖礦]
 description: "Gaea 是一個去中心化 AI 資源共享平台。本教學提供完整的 Docker 掛機部署指令與步驟，教你如何獲取 browser_id 與 token，自動運行 Gaea 節點，輕鬆賺取積分，把握未來主網空投權益的 Web3 被動收入機會。"

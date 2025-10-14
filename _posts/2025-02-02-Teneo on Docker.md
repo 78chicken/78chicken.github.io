@@ -1,7 +1,6 @@
 ---
 title: "Teneo Docker 掛機教學：運行 AI 節點，賺取 Teneo Points 等待代幣空投！"
-date: 2025-02-02
-updated: 2025-06-12
+date: 2025-06-12
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, Teneo, AI 節點, 社交媒體數據, TGE]
 description: "Teneo 是一個去中心化社交媒體數據解鎖平台。本教學提供 Teneo 完整的 Docker 掛機指令，教你如何部署 AI 節點、獲取 accessToken，自動賺取 Teneo Points，把握 TGE 代幣轉換的空投機會，輕鬆打造 Web3 被動收入。"

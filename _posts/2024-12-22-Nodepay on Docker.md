@@ -1,6 +1,6 @@
 ---
 title: "NodePay Docker 掛機教學：參與去中心化 AI 訓練，穩定賺取空投點數被動收入"
-date: 2024-12-22
+date: 2025-07-25
 updated: 2025-07-25
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 虛擬貨幣, 空投, 被動收入, NodePay, 去中心化AI, 頻寬分享]

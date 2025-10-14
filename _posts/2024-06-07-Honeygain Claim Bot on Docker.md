@@ -1,13 +1,14 @@
 ---
-title: "Honeygain Auto-Claim on Docker"
+title: "Honeygain 每日自動領獎 Docker 教學｜多帳號掛機腳本"
 date: 2024-06-07
 categories: [tool]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 自動化, JWT]
-description: "使用 Docker 部署 Honeygain 每日自動領獎腳本，支援 JWT 登入，獲取完獎勵即退出，適合多帳號與無頭裝置使用。"
+description: "教你如何使用 Docker 部署 Honeygain 自動領獎腳本，支援 JWT Token 登入，多帳號自動獲取每日獎勵後自動退出，適合排程與無頭裝置使用。"
 image: /assets/images/tool/honeygain_claim/banner.webp
 written_by: 機掰雞
 lang: zh-TW
 ---
+
 
 ![Honeygain 自動領獎封面圖](/assets/images/tool/honeygain_claim/banner.webp)
 

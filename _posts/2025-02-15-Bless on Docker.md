@@ -1,7 +1,6 @@
 ---
 title: "Bless DePIN 節點 Docker 教學：成功兌現空投，運行 AI 計算節點賺取代幣！"
-date: 2025-02-15
-updated: 2025-09-24
+date: 2025-09-24
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, DePIN, 虛擬貨幣, airdrop, 空投成功, 被動收入, Bless, AI 計算]
 description: "Bless 是一個由 Binance Labs 校友創立的分散式 AI 計算平台。本教學提供完整的 Docker 掛機部署指令，教你如何獲取 Auth Token 與 PubKey，自動運行 Bless 節點。實測空投已成功兌現（機掰雞約 40U），是穩定參與 DePIN AI 基礎設施賺取代幣的優質選擇。"

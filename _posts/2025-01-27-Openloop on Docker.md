@@ -1,7 +1,6 @@
 ---
 title: "OpenLoop Docker 掛機爭議：空投價值過低，專案停止更新與風險評估"
-date: 2025-01-27
-updated: 2025-07-02
+date: 2025-07-02
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, OpenLoop, 空投爭議, DePIN, 停止更新]
 description: "【停止更新公告】OpenLoop 專案空投價值極低（平均節點僅約 1 USD），引發社群爭議。本頁面提供 OpenLoop Docker 節點的部署教學與風險評估，供欲了解 DePIN 驗證機制與專案潛在風險的讀者參考。"

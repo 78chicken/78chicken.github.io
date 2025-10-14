@@ -1,13 +1,14 @@
 ---
-title: "WatchTower on Docker"
+title: "使用 WatchTower 自動更新 Docker 容器：輕鬆打造無人值守升級流程"
 date: 2025-01-07
 categories: [tool]
-tags: [Docker, WatchTower, 自動升級, 無人值守, DevOps]
-description: "使用 WatchTower 自動升級 Docker 容器，避免版本落後或手動升級困擾，支援自訂更新策略與通知機制。"
+tags: [Docker, WatchTower, 自動升級, 無人值守, DevOps, 自動化部署]
+description: "教你如何使用 WatchTower 自動更新 Docker 容器，實現無人值守的自動升級。包含參數解說、磁碟清理設定、通知整合與實際部署指令，讓 Docker 維運更輕鬆。"
 image: /assets/images/tool/watchtower/banner.webp
 written_by: 機掰雞
 lang: zh-TW
 ---
+
 ![WatchTower 封面圖](/assets/images/tool/watchtower/banner.webp)
 
 **WatchTower** 是一款自動更新 Docker 容器的工具。它會定期檢查執行中容器所用的映像檔是否有更新，一旦偵測到新版，就會自動拉取並重新啟動容器，以套用最新版本。

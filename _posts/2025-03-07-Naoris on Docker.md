@@ -1,7 +1,6 @@
 ---
 title: "Naoris Protocol Docker 掛機教學：運行 DINA 節點，賺取資安網絡點數與空投"
-date: 2025-03-07
-updated: 2025-08-05
+date: 2025-08-05
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, 空投, NaorisProtocol, DINA, 資安]
 description: "Naoris Protocol 是一個去中心化資安網絡（DINA）。本教學提供完整的 Docker 掛機部署指令，教你如何獲取錢包地址與 deviceHash，參與節點運行，自動賺取 Naoris 點數，把握未來代幣空投的 Web3 被動收入機會。"
