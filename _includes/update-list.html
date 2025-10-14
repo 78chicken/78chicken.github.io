@@ -1,0 +1,28 @@
+{% assign MAX_SIZE = 5 %}
+
+{% if site.posts.size > 0 %}
+<section id="access-lastmod">
+  <h2 class="panel-heading">{{- site.data.locales[include.lang].panel.lastmod -}}</h2>
+  <ul class="content list-unstyled ps-0 pb-1 ms-1 mt-2">
+    {% assign today = 'now' | date: '%s' %}
+    {% for post in site.posts limit: MAX_SIZE %}
+    {% assign latest = post.updated | default: post.date %}
+    {% assign latest_ts = latest | date: '%s' %}
+    {% assign days_diff = today | minus: latest_ts | divided_by: 86400 %}
+
+    {% assign title_class = '' %}
+    {% if days_diff <= 3 %}
+    {% assign title_class = 'recent-update' %}
+    {% elsif days_diff <= 7 %}
+    {% assign title_class = 'week-update' %}
+    {% else %}
+    {% assign title_class = 'old-update' %}
+    {% endif %}
+
+    <li class="text-truncate lh-lg">
+      <a href="{{ post.url | relative_url }}" class="{{ title_class }}">{{ post.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
