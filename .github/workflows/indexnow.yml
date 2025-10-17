@@ -1,0 +1,16 @@
+name: Notify IndexNow (Sitemap)
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  ping-indexnow:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Notify IndexNow via sitemap
+        run: |
+          DOMAIN="https://78chicken.github.io"
+          KEY="f23e22532cef4725a4478cc36173c8bf"
+          curl -s "https://www.bing.com/indexnow?url=${DOMAIN}/sitemap.xml&key=${KEY}"
