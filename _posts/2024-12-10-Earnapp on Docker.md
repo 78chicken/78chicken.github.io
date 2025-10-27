@@ -1,5 +1,5 @@
 ---
-title: "EarnApp Docker 掛機教學：全自動分享頻寬賺取美金被動收入 (附提現流程)"
+title: "EarnApp Docker 掛機教學：全自動分享頻寬賺取美金被動收入"
 date: 2025-10-07
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, Paypal, 被動收入, 頻寬分享, EarnApp, 閒置頻寬]
