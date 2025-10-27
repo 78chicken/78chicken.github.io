@@ -77,44 +77,29 @@ refactor: true
 
           <div class="post-meta flex-grow-1 d-flex align-items-end">
             <div class="me-auto">
-              <!-- 建立日期顏色 -->
-              {% assign posted_ts = post.date | date: '%s' %}
-              {% assign days_diff_posted = 'now' | date: '%s' | minus: posted_ts | divided_by: 86400 %}
-              {% assign posted_class = "" %}
-              {% if days_diff_posted <= 3 %}
-              {% assign posted_class = "recent-update" %}
-              {% elsif days_diff_posted <= 7 %}
-              {% assign posted_class = "week-update" %}
-              {% else %}
-              {% assign posted_class = "old-update" %}
-              {% endif %}
-              <i class="far fa-calendar fa-fw me-1"></i>
-              {% include datetime.html date=post.date lang=lang class=posted_class %}
 
-              <!-- 更新日期顏色 -->
+              <!-- 建立日期 (動態顏色) -->
+              <i class="far fa-calendar fa-fw me-1"></i>
+              <span class="post-date" data-latest="{{ post.date | date: '%Y-%m-%d' }}">
+                {% include datetime.html date=post.date lang=lang %}
+              </span>
+
+              <!-- 更新日期 (動態顏色) -->
               {% if post.updated and post.updated != post.date %}
-              {% assign updated_ts = post.updated | date: '%s' %}
-              {% assign days_diff_updated = 'now' | date: '%s' | minus: updated_ts | divided_by: 86400 %}
-              {% assign updated_class = "" %}
-              {% if days_diff_updated <= 3 %}
-              {% assign updated_class = "recent-update" %}
-              {% elsif days_diff_updated <= 7 %}
-              {% assign updated_class = "week-update" %}
-              {% else %}
-              {% assign updated_class = "old-update" %}
-              {% endif %}
               <i class="fas fa-edit fa-fw me-1"></i>
-              {% include datetime.html date=post.updated lang=lang class=updated_class %}
+              <span class="post-updated" data-latest="{{ post.updated | date: '%Y-%m-%d' }}">
+                {% include datetime.html date=post.updated lang=lang %}
+              </span>
               {% endif %}
 
               <!-- categories -->
               {% if post.categories.size > 0 %}
               <i class="far fa-folder-open fa-fw me-1"></i>
               <span class="categories">
-                    {% for category in post.categories %}
-                      {{ category }}{% unless forloop.last %},{% endunless %}
-                    {% endfor %}
-                  </span>
+                {% for category in post.categories %}
+                  {{ category }}{% unless forloop.last %},{% endunless %}
+                {% endfor %}
+              </span>
               {% endif %}
             </div>
 
@@ -135,3 +120,27 @@ refactor: true
 {% if paginator.total_pages > 1 %}
 {% include post-paginator.html %}
 {% endif %}
+
+<!-- 動態日期顏色 Script -->
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const today = new Date();
+    const dateElements = document.querySelectorAll(".post-date[data-latest], .post-updated[data-latest]");
+
+    dateElements.forEach(el => {
+      const dateStr = el.getAttribute("data-latest");
+      const latestDate = new Date(dateStr);
+      if (isNaN(latestDate)) return;
+
+      const diffDays = Math.floor((today - latestDate) / (1000 * 60 * 60 * 24));
+
+      if (diffDays <= 3) {
+        el.classList.add("recent-update");
+      } else if (diffDays <= 7) {
+        el.classList.add("week-update");
+      } else {
+        el.classList.add("old-update");
+      }
+    });
+  });
+</script>
