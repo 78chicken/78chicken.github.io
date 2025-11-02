@@ -10,8 +10,8 @@ lang: zh-TW
 ---
 
 ![URnetwork 封面圖](/assets/images/bot/urnetwork/banner.webp)
-> 📢 **【更新通知】**
-> 11.3 新增付款證明-4USDC
+> 📢 **【更新通知】**  
+> 11.3 新增付款證明-4USDC  
 > 10.2 介紹更新
 
 強調「告別 VPN！」的理念。換句話説，不完全是傳統 VPN，而是類似私人網路（Private Network）或去中心化節點網絡，用戶可透過節點連接，獲得類似本地網路的體驗。
