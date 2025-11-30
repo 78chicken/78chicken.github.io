@@ -46,7 +46,7 @@ lang: zh-TW
 # 啟動 container（第一次使用無 UUID）
 docker run -d --restart always -m 64M  \
 --name EarnApp \
-docker.io/techroy23/docker-earnapp:latest
+docker.io/madereddy/earnapp:latest
 ```
 接著進入 container 取得 UUID：
 ```bash

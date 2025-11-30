@@ -1,6 +1,6 @@
 ---
 title: "Grass Docker 掛機教學：分享頻寬，參與 Solana AI 網路賺取 GRASS 代幣空投"
-date: 2025-03-19
+date: 2025-11-27
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, Grass, Solana, AI 資料]
 description: "Grass 是一個基於 Solana 區塊鏈的去中心化 AI 數據網絡。本教學提供完整的 Docker 掛機部署指令與步驟，教你如何安全分享閒置頻寬，輕鬆累積 Grass Points，把握未來 GRASS 代幣空投的被動收入機會。"
@@ -10,6 +10,14 @@ lang: zh-TW
 ---
 
 ![Grass 封面圖](/assets/images/bot/grass/banner.webp)
+> 📢 **【更新通知】**  
+> https://x.com/grass/status/1993103193237061932
+> 官方發布的文章中有一段話:  
+> As the network scales, Grass is preparing the next iteration of its reward program. Airdrop 2 will be structured to better align incentives with long-term network contribution, with distribution taking place directly through a new native wallet available through the Grass dashboard. The foundation is actively developing this framework, and full details regarding eligibility will be released once the account abstraction based wallet infrastructure is live in the first half of 2026.  
+> 翻譯:  
+> 隨著網路持續擴張，Grass 正在準備推出下一版的獎勵計畫。Airdrop 2 將以更能與長期網路貢獻相互對齊的方式設計，並會透過 Grass 控制台中全新的原生錢包直接進行發放。基金會目前正積極制定這項框架，而完整的資格細節將會在基於帳戶抽象（account abstraction）的錢包基礎架構於 2026 上半年上線後公布。  
+> 也就是說,大家繼續努力掛吧!看2026是否可以第二次空投
+ 
 
 Grass 是一個透過分享你閒置的計算資源來賺取報酬的服務，適合用來部署在家中的閒置裝置，賺取被動收入。
 
