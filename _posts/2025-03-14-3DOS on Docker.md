@@ -69,10 +69,11 @@ lang: zh-TW
     "access_token": "eyJ0eXA.........9sn4XV1gY"
   }
 ]
-
 ```
+
 ## 📄取得Token方式
-> chrome->F12->Application->Local storage->dashboard->accesToken
+> chrome->F12->Application->Local storage->dashboard->accesToken  
+> 
 ![3DOS 封面圖](/assets/images/bot/3dos/img_2.webp)
 ---
 
