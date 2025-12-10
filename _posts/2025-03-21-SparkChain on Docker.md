@@ -1,5 +1,5 @@
 ---
-title: "SparkChain Docker 掛機教學：運行去中心化 AI 節點，賺取 SPARK 代幣空投！"
+title: "SparkChain Docker (SCAM)"
 date: 2025-03-21
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, 空投, SparkChain, SPARK, AI 節點, ZKP]
@@ -10,9 +10,8 @@ lang: zh-TW
 ---
 
 ![SparkChain 封面圖](/assets/images/bot/sparkchain/banner.webp)
-> 📢 **【更新通知】**
->
-> 記得到DashBoard綁定錢包及EMAIL驗證
+> 📢 **【更新通知】**  
+> 項目方已跑路  
 
 SparkChain 是一個去中心化的資源共享平台，用戶可透過運行節點貢獻頻寬並獲得 SPARK 代幣獎勵，支援數據收集與 AI 訓練。平台透過 Spark Points 機制鼓勵參與，積分可兌換代幣。建議使用者自行評估安全與風險。
 
