@@ -7,6 +7,7 @@ description: "【停止更新公告】OpenLoop 專案空投價值極低（平均
 image: /assets/images/bot/openloop/banner.webp
 written_by: 機掰雞
 lang: zh-TW
+published: false
 ---
 
 ![OpenLoop 封面圖](/assets/images/bot/openloop/banner.webp)
