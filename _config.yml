@@ -142,8 +142,8 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
-paginate: 10
-
+paginate: 10 # 每頁顯示數量
+paginate_path: "/page:num/"  # 確保後面有加斜線
 # The base URL of your site
 baseurl: ""
 
