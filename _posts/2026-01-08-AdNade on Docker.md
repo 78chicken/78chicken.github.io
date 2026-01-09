@@ -1,13 +1,12 @@
 ---
 title: "AdNade 掛機與點擊賺錢教學：Auto Surf、PTP 廣告實測與平台風險整理"
-date: 2026-01-08
+date: 2026-01-10
 categories: [bot]
 tags: [網路賺錢, 掛機, PTC, AutoSurf, 被動收入, AdNade, Paypal]
 description: "AdNade 是一個老牌的 PTC（Paid To Click）與 AutoSurf 廣告互動平台，透過自動瀏覽、點擊連結、付費郵件與推薦制度來累積點數並提領。本篇完整介紹 AdNade 的運作模式、特色、賺錢方式與實際風險整理。"
 image: /assets/images/bot/adnade/banner.webp
 written_by: 機掰雞
 lang: zh-TW
-published: false
 ---
 
 ![AdNade 封面圖](/assets/images/bot/adnade/banner.webp)
@@ -125,6 +124,7 @@ AdNade 的流程是：
 👉 [立即註冊 AdNade](https://adnade.net/?ref=jrfong96)
 
 🎉 註冊後登入會收到信件，信件裡面有觀看廣告的連結。或是登入到管理頁面也可以查的到。
+![AdNade 圖2](/assets/images/bot/adnade/img_2.webp)
 
 ---
 ## 🔗 連結
@@ -143,7 +143,7 @@ AdNade 的流程是：
 請替換以下參數：(*為必要參數)
 - `*WEBSITE`：瀏覽廣告的URL
 - `DISCORD_WEBHOOK_URL`：截圖傳送到Discord，請填入Webhook URL。(非必要參數)
-- `DISCORD_INTERVAL`：多久截圖一次(非必要參數)
+- `DISCORD_INTERVAL`：N秒截圖一次(非必要參數)
 - `WIDTH`：螢幕寬度，預設1600
 - `HEIGHT`：螢幕高度，預設900
 - `HOST_NAME`：搭配DISCORD參數，傳送的訊息名稱，預設抓取Container名稱
@@ -155,8 +155,10 @@ docker run -d -m 512m --restart=always --privileged --name Adnade \
    -e WEBSITE="https://adnade.net/view.php?user=...." \
    -e DISCORD_WEBHOOK_URL="https://discord.com/api/webhooks/....." \
    -e DISCORD_INTERVAL=3600 \
-   -e WIDTH=1366 \ 
-   -e HEIGHT=768 \
-   -e HOST_NAME=Rocky10-21 \
+   -e WIDTH=1600 \ 
+   -e HEIGHT=900 \
+   -e HOST_NAME=MY_PC \
    docker.io/78chicken/adnade:latest
 ```
+如果沒被判定是非正常電腦的話，過一陣子應該就可以看到點數
+![AdNade 圖1](/assets/images/bot/adnade/img_1.webp)
