@@ -83,7 +83,7 @@ Antgain 是一款新興的 **頻寬共享（Bandwidth Sharing）平台**，
 ## 🐳 Docker 執行指令
 
 ```bash
-# -v /opt/dawn/accounts.json 請換成你自己的路徑
+# Your_API_KEY 請換成你自己的API KEY
 docker run -d -m 64m --restart=always --name AntGain \
   docker.io/pinors/antgain-cli:latest \
   run --api-key Your_API_KEY
