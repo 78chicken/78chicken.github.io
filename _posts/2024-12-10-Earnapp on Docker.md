@@ -20,7 +20,7 @@ lang: zh-TW
 
 ## 📝 註冊帳號
 
-👉 [立即註冊 EarnApp](https://earnapp.com/i/eTgpCCsj)
+👉 [立即註冊 EarnApp](https://earnapp.com/i/cxyYAjPT)
 
 🎉 使用機掰雞的邀請連結註冊，你會成為我的下線，**我將獲得你收入的 10% 作為飼料費**，但**不會影響你的收益**！
 
