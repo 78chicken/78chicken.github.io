@@ -1,6 +1,6 @@
 ---
-title: "Dawn Docker 掛機教學：分享閒置頻寬，參與去中心化網路賺取被動收入"
-date: 2025-12-26
+title: "Dawn Docker (停止掛機,避免封號)"
+date: 2026-01-30
 categories: [bot]
 tags: [Docker, 掛機, 被動收入, 網路賺錢, 分享頻寬, Dawn, 去中心化網路, Web3]
 description: "如何用 Docker 輕鬆掛機 Dawn 節點？本完整教學帶您快速部署 Dawn，分享閒置頻寬賺取積分與未來代幣（Points），參與 Web3 去中心化網路建設。內含最新的 Docker 運行指令與 Token 獲取步驟，打造穩定的被動收入來源。"
@@ -11,6 +11,7 @@ lang: zh-TW
 
 ![Dawn 封面圖](/assets/images/bot/dawn/banner.webp)
 > 📢 **【更新通知】**  
+> 1.30 機掰雞的帳號被封到剩兩個,避免免費幫人打工,決定不掛Docker;剩下的乖乖掛Chrome
 > 12.26 24號更新有點問題,還是10.02的版本,煩請再次更新一次,謝謝  
 > 12.24 映像檔更新  
 > 10.02 映像檔更新  
