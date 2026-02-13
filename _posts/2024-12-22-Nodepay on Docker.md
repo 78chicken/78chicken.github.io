@@ -1,5 +1,5 @@
 ---
-title: "NodePay Docker 掛機教學：參與去中心化 AI 訓練，穩定賺取空投點數被動收入"
+title: "NodePay Docker 掛機教學(已終止)"
 date: 2025-07-25
 updated: 2025-07-25
 categories: [bot]

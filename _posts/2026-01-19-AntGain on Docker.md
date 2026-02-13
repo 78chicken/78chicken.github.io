@@ -1,6 +1,6 @@
 ---
 title: "Antgain 掛機教學：頻寬分享平台運作解析，長期被動收益實戰筆記"
-date: 2026-01-19
+date: 2026-02-14
 categories: [bot]
 tags: [網路賺錢, 掛機, 被動收入, Antgain, 流量分享]
 description: "Antgain 是一款主打安全與隱私的頻寬分享平台，透過分享閒置網路資源來賺取被動收入。本篇整理官方 Features 與 How It Works，並以掛機角度解析其運作模式與注意事項。"
@@ -10,6 +10,10 @@ lang: zh-TW
 ---
 
 ![Antgain 封面圖](/assets/images/bot/antgain/banner.webp)
+> 📢 **【更新通知】**
+>
+> 機掰雞家的網路看來沒什麼搞頭,流量幾乎0  
+> 不過也不代表其他人也是如此,看有沒有其他大大可以反饋
 
 Antgain 是一款新興的 **頻寬共享（Bandwidth Sharing）平台**，  
 透過分享你設備中尚未被使用的網路頻寬，讓企業或服務商進行合法的資料傳輸、內容分發與網路測試，而使用者則可獲得被動收益。

@@ -1,5 +1,5 @@
 ---
-title: "OpenLedger Docker 掛機實測：AI 節點部署教學，深度解析資格門檻與收益模式"
+title: "OpenLedger Docker 掛機實測(已終止)"
 date: 2025-09-09
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 區塊鏈, AI, 被動收入, OpenLedger, AI 挖礦, 歸因證明, 資格門檻]

@@ -1,5 +1,5 @@
 ---
-title: "MinionLab Docker 掛機教學：自動化 AI 代理節點，賺取 MINAI 積分空投！"
+title: "MinionLab Docker 掛機教學(已終止)"
 date: 2025-06-26
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, 空投, MinionLab, StreamAI, AI 代理]
