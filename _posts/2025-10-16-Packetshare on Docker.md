@@ -1,6 +1,6 @@
 ---
-title: "Packetshare Docker 掛機教學：使用 QEMU 模擬器在 x86_64 上運行 ARM 節點、賺取美金與被動收益實測"
-date: 2025-10-16
+title: "Packetshare Docker：據報導已被中國官方下架"
+date: 2026-02-26
 categories: [bot]
 tags: [Docker, QEMU, 模擬器, 網路賺錢, 掛機, 被動收入, Packetshare, Paypal, 虛擬貨幣, 流量分享]
 description: "Packetshare 是一款能讓你透過分享閒置網路頻寬來賺取被動收入的服務。本篇教學將介紹如何使用 QEMU 模擬器在 x86_64 系統中模擬 ARM 架構，並透過 Docker 一鍵部署 Packetshare 節點，包含註冊教學、執行指令與提領實測。"
@@ -11,6 +11,8 @@ lang: zh-TW
 
 
 ![Packetshare 封面圖](/assets/images/bot/packetshare/banner.webp)
+> 📢 **【更新通知】**  
+> 02.26 網站已倒  
 
 Packetshare 是一款類似 Honeygain 的頻寬共享平台，透過分享家中或辦公室的閒置網路頻寬，即可賺取美金報酬。  
 它支援 Windows、Linux、macOS 及 Docker，非常適合用來部署在閒置伺服器或樹莓派上賺取被動收入。
