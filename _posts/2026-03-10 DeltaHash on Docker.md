@@ -169,4 +169,6 @@ docker run -d --restart always -m 50M \
 --name DeltaHash \
 -v /opt/deltahash/cookies.txt:/app/deltahash/cookies.txt \
 docker.io/78chicken/deltahash:latest
+
+# 📢:登入Dashboard後的帳號請勿登出,其他帳號可用無痕視窗來處理
 ```
