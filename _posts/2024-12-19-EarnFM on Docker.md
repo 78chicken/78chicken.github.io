@@ -1,6 +1,6 @@
 ---
-title: "Earn.fm Docker 掛機教學：一鍵部署節點，輕鬆分享頻寬賺取被動收入"
-date: 2024-12-19
+title: "Earn.fm Docker (一般玩家停掛)"
+date: 2026-04-29
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 頻寬分享, Earn.fm, API Token]
 description: "Earn.fm 是一個入門級的頻寬分享平台。本教學提供完整的 Docker 掛機指令，教你如何獲取 API Token 並一鍵部署 Earn.fm 節點，將閒置網路頻寬轉換為自動化被動收入。輕鬆在多平台實現 24/7 掛機賺錢。"
@@ -10,6 +10,8 @@ lang: zh-TW
 ---
 
 ![Earn.fm 封面圖](/assets/images/bot/earnfm/banner.webp)
+> 📢 **【更新通知】**  
+> 04.29 其實好像不給賺好一段時間了,只是機掰雞懶得上來更新. 簡單說:要改用fleetshare才能繼續賺,普通玩家無法掛了,有大量IP的朋友有興趣自行連絡 https://earn.fm/en/fleetshare
 
 Earn.fm 是一個讓用戶透過分享閒置網路頻寬來賺取被動收入的平台。只需安裝客戶端並保持網路連線，即可自動獲得報酬，適合部署在閒置設備上。
 
