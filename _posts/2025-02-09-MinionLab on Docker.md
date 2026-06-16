@@ -1,6 +1,6 @@
 ---
 title: "MinionLab Docker 掛機教學(已終止)"
-date: 2025-06-26
+date: 2026-05-28
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, 空投, MinionLab, StreamAI, AI 代理]
 description: "MinionLab（前 Stream AI）是一個去中心化 AI 代理平台。本教學提供完整的 Docker 掛機部署步驟，僅需帳密即可讓 AI 代理自動運行任務，輕鬆賺取 MINAI 積分（未來潛在空投）。了解核心功能與自動化賺取 Web3 被動收入的流程。"
@@ -11,7 +11,7 @@ lang: zh-TW
 
 ![MinionLab 封面圖](/assets/images/bot/minionlab/banner.webp)
 > 📢 **【更新通知】**
->
+> 05/28 終於有人更新了.機掰雞已經封裝成docker版本,更新方式請參照如下教學(還有一些注意事項)
 > 後台綁定錢包及email認證
 
 **MinionLab**（前稱 **Stream AI**）是一個結合 AI 與區塊鏈的去中心化自主代理平台，透過裝置資源貢獻與自動化任務完成，讓用戶輕鬆賺取 MINAI 積分，進一步參與 Web3 資訊經濟網絡。
@@ -62,26 +62,26 @@ lang: zh-TW
 
 ---
 
-## 📄 準備 `accounts.json`
+## 📄 準備 `accounts.txt`
 
-> 建立 `accounts.json` 檔案，格式如下（支援多組帳號）：
+> 建立 `accounts.txt` 檔案，格式如下（支援多組帳號）：
 >
 > ⚠️ 機掰雞建議一 IP 對應一帳號，以降低封號風險。
-```json
-[
-  {
-    "Email": "你的Email",
-    "Password": "你的密碼"
-  }
-]
+```txt
+你的EMAIL:你的密碼
 ```
 ---
 
 ## 🐳 Docker 執行指令
 ```bash
-# -v /opt/minionlab/accounts.json 請改成你自己的檔案路徑
-docker run -d --restart always -m 50M \
--v /opt/minionlab/accounts.json:/app/minionlab/accounts.json \
+# -v /opt/minionlab/accounts.txt 請改成你自己的檔案路徑
+# 這邊要稍微注意一下,MinionLab對於帳號登入管控比較嚴格的樣子,只要登入/登出沒幾次就會被管控
+# 同樣的在使用chrome/desktop/docker運行登入時好像都有類似的情形,當然機掰雞無法完全確定
+# 但是你在啟動的時候可能會遇到status:5XX or 4XX狀況,感覺就是短暫被擋了
+# 所以機掰雞目前每個帳號都只有一台機器在跑(帳號不重複), 另外好像有時會有dns無法識別問題
+# 可以加上google dns: --dns=8.8.8.8試試
+docker run -d --restart always -m 50M --dns=8.8.8.8\
+-v /opt/minionlab/accounts.txt:/app/minionlab/accounts.txt \
 --name MinionLab \
 78chicken/minionlab:latest
 ```

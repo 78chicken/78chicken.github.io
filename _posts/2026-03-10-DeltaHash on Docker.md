@@ -1,6 +1,6 @@
 ---
 title: "DeltaHash 掛機解析：AI 算力共享平台是新機會還是新礦坑？"
-date: 2026-03-10
+date: 2026-05-14
 categories: [bot]
 tags: [網路賺錢, 掛機, 被動收入, DeltaHash, DePIN, AI算力]
 description: "DeltaHash 是一個主打 AI 分散式算力的 DePIN 平台，允許使用者貢獻 CPU / GPU / RAM 來獲得 $DTH 代幣。本篇整理其運作模式、特色與潛在風險，並分析是否值得掛機。"
@@ -10,6 +10,8 @@ lang: zh-TW
 ---
 
 ![DeltaHash 封面圖](/assets/images/bot/deltahash/banner.webp)
+> 📢 **【更新通知】**
+> 05.14 更新版本,官方加上新的壓縮格式,不更新log會顯示錯誤
 
 
 DeltaHash 是一個主打 **AI 分散式算力（Decentralized Compute）** 的平台，  

@@ -1,6 +1,6 @@
 ---
-title: "Gaea Docker 掛機教學(已終止)"
-date: 2025-07-15
+title: "Gaea Docker 掛機教學(已終止掛機)"
+date: 2026-05-20
 categories: [bot]
 tags: [Docker, 網路賺錢, 掛機, 被動收入, 虛擬貨幣, 空投, Gaea, AI 資源共享, 瀏覽器挖礦]
 description: "Gaea 是一個去中心化 AI 資源共享平台。本教學提供完整的 Docker 掛機部署指令與步驟，教你如何獲取 browser_id 與 token，自動運行 Gaea 節點，輕鬆賺取積分，把握未來主網空投權益的 Web3 被動收入機會。"
@@ -10,7 +10,7 @@ lang: zh-TW
 ---
 ![Gaea 封面圖](/assets/images/bot/gaea/banner.webp)
 > 📢 **【更新通知】**
->
+> 05.20 可以查空投了,登入後在上方右邊的MENU選項
 > 映像檔更新，browserId改成抓取整段
 > 機掰雞其中的兩個帳號居然恢復了，但一個帳號仍然是被封鎖
 > 既然恢復了就加減玩一下吧
