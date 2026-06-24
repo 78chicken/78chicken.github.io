@@ -1,6 +1,6 @@
 ---
 title: "Interlink 掛機解析：打造人類驗證網絡，DePIN + AI 的新財富密碼？"
-date: 2026-05-20
+date: 2026-06-24
 categories: [bot]
 tags: [網路賺錢, 掛機, 被動收入, Interlink, DePIN, AI, 人類驗證]
 description: "Interlink Labs 是一個結合生物識別與分散式 AI 的 DePIN 平台，主打「人類節點」概念。透過手機端的人臉驗證即可開始挖取 $ITLG。本篇解析其運作模式、雙代幣機制與掛機策略。"
@@ -11,6 +11,7 @@ lang: zh-TW
 
 ![Interlink 封面圖](/assets/images/bot/interlink/banner.webp)
 > 📢 **【更新通知】**
+> 06.24 更新版本
 > 05.20 更新版本,改兩小時執行一次;新版會出現錯誤Metric : Failed to Synchronized - HTTP: 400:{"statusCode":400,"message":{"message":......, 但不影響個人挖礦的部分
 > 04.27 更新版本
 > 04.24 更新版本
